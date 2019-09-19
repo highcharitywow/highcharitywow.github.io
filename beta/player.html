@@ -8,7 +8,6 @@
 	<script src="https://momentjs.com/downloads/moment.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
 	<script src="https://wow.zamimg.com/widgets/power.js"></script>
-	<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
 </head>
 <script type="text/javascript">
 	function getDKPHistory(id) {
@@ -66,6 +65,7 @@
 		$('.playerName').text(id);
 		var dkphistory = getDKPHistory(id);
 		var loothistory = getLootHistory(id);		
+		var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};
 	});	
 </script>
 <body>
