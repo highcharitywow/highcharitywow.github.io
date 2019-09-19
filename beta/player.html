@@ -14,7 +14,7 @@
 		var historyEntries = [];
 		$.getJSON('dkphistory.json', function (json) {
 			for (var i = 0; i < json.dkphistory.historyentry.length; i++) {
-				if (json.dkphistory.historyentry[i].playerstring.indexOf(id+',') > 0) {
+				if (json.dkphistory.historyentry[i].playerstring.indexOf(id+',') > -1) {
 					json.dkphistory.historyentry[i].playerstring = id;
 					historyEntries.push(json.dkphistory.historyentry[i]);
 				}
@@ -35,7 +35,7 @@
 		var historyEntries = [];
 		$.getJSON('loothistory.json', function (json) {
 			for (var i = 0; i < json.loothistory.lootentry.length; i++) {
-				if (json.loothistory.lootentry[i].player.indexOf(id) > 0) {
+				if (json.loothistory.lootentry[i].player.indexOf(id) > -1) {
 					historyEntries.push(json.loothistory.lootentry[i]);
 				}
 			}
