@@ -35,7 +35,10 @@
 				{ data: 'dkp' },
 				{ data: 'timestamp' },
 				{ data: 'reason' }
-			]
+			],
+			rowCallback: function (nRow, aData, iDisplayIndex) {
+				$('td:eq(0)', nRow).html(aData.playerstring.replace(",", "<br/>"));
+			}
 		});		
 	});	
 </script>
