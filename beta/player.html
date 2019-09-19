@@ -19,15 +19,16 @@
 					historyEntries.push(json.dkphistory.historyentry[i]);
 				}
 			}
+			return $('#dkphistory').DataTable({
+				data: historyEntries,
+				columns: [
+					{ data: 'dkp' },
+					{ data: 'timestamp' },
+					{ data: 'reason' }
+				]
+			});
 		});
-		var dkpTable = $('#dkphistory').DataTable({
-			data: historyEntries,
-			columns: [
-				{ data: 'dkp' },
-				{ data: 'timestamp' },
-				{ data: 'reason' }
-			]
-		});
+
 	}
 
 	function getLootHistory(player) {
@@ -38,31 +39,24 @@
 					historyEntries.push(json.loothistory.lootentry[i]);
 				}
 			}
+			return dkpTable = $('#loothistory').DataTable({
+				data: historyEntries,
+				columns: [
+					{ data: 'itemname' },
+					{ data: 'itemnumber' },
+					{ data: 'zone' },
+					{ data: 'boss' },
+					{ data: 'timestamp' },
+					{ data: 'cost' }
+				]
+			});
 		});
-		var dkpTable = $('#loothistory').DataTable({
-			data: historyEntries,
-			columns: [
-				{ data: 'itemname' },
-				{ data: 'itemnumber' },
-				{ data: 'zone' },
-				{ data: 'boss' },
-				{ data: 'timestamp' },
-				{ data: 'cost' }
-			]
-		});
+
 	}
 
 	$(document).ready(function() {
-	
 		var dkphistory = getDKPHistory('Renegade');
-		var loothistory = getLootHistory('Renegade');
-		console.log(dkphistory);
-		console.log(loothistory);
-	
-	
-
-		
-		
+		var loothistory = getLootHistory('Renegade');		
 	});	
 </script>
 <body>
