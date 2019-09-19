@@ -16,14 +16,7 @@
 			dkptable = json.dkptable;
 		});
 		$('#dkptable').DataTable({
-			ajax: dkptable.dkpentry,
-			columns: [
-				{ "data": "Player" },
-				{ "data": "Class" },
-				{ "data": "DKP"},
-				{ "data": "Lifetime Earned" },
-				{ "data": "Lifetime Spent" }
-			]
+			ajax: dkptable.dkpentry
 		});
 	});
 	
@@ -34,7 +27,14 @@
 <body>
 
 <h4>DKP History</h4>
-<table id="dkptable"></table>
+<table id="dkptable">
+<thead>
+<tr><th>Player</th><th>Class</th><th>DKP</th><th>Earned DKP</th><th>Spent DKP</th></tr>
+</thead>
+<tfoot>
+<tr><th>Player</th><th>Class</th><th>DKP</th><th>Earned DKP</th><th>Spent DKP</th></tr>
+</tfoot>
+</table>
 
 </body>
 </html>
