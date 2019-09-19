@@ -56,10 +56,8 @@
 
 	$(document).ready(function() {
 		//id = playername
-		var url = window.location.href;
-		var query_string = url.search;
-		var search_params = new URLSearchParams(query_string); 
-		var id = search_params.get('id');
+		var url = new URL(window.location.href);
+		var id = url.searchParams.get('id');
 		$('#playerName').text(id);
 		var dkphistory = getDKPHistory(id);
 		var loothistory = getLootHistory(id);		
