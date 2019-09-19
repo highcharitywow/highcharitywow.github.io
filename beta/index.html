@@ -21,6 +21,10 @@
 			]
 		});
 		
+		$('#dkptable tbody').on('click', 'tr', function () {
+			var data = dkpTable.row(this).data();
+			window.location.href = '/beta/player.html?id=' + data[0];
+		});
 		
 	});	
 </script>
