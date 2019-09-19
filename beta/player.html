@@ -27,7 +27,7 @@
 		var historyEntries = [];
 		$.getJSON('loothistory.json', function (json) {
 			$.each(json.loothistory.lootentry, function(i, record) {
-				if (record.playerstring.indexOf(player) > 0) {
+				if (record.player.indexOf(player) > 0) {
 					historyEntries.push(record);
 				}
 			});
@@ -39,7 +39,8 @@
 	
 		var dkphistory = getDKPHistory('Renegade');
 		var loothistory = getLootHistory('Renegade');
-		
+		console.log(dkphistory);
+		console.log(loothistory);
 	
 	
 		var dkpTable = $('#dkptable').DataTable({
@@ -59,7 +60,7 @@
 </script>
 <body>
 
-<h4>Player History</h4>
+<h4>DKP History</h4>
 <table id="dkptable" class="display" style="width:100%">
 <thead>
 <tr><th>Player</th><th>Class</th><th>DKP</th></tr>
