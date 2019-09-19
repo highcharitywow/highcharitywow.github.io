@@ -11,10 +11,6 @@
 </head>
 <script type="text/javascript">
 	$(document).ready(function() {
-		var dkptable = [];
-		getDKP().done(function(json) {
-			dkptable = json.dkptable;
-		});
 		$('#dkptable').DataTable({
 			ajax: {
 				url: 'dkptable.json',
@@ -28,11 +24,7 @@
 				{ data: 'lifetimespent' }
 			]
 		});
-	});
-	
-	function getDKP(){
-		return $.getJSON('dkptable.json');
-	}	
+	});	
 </script>
 <body>
 
