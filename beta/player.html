@@ -20,7 +20,14 @@
 				}
 			}
 		});
-		return historyEntries;
+		var dkpTable = $('#dkphistory').DataTable({
+			data: historyEntries,
+			columns: [
+				{ data: 'dkp' },
+				{ data: 'timestamp' },
+				{ data: 'reason' }
+			]
+		});
 	}
 
 	function getLootHistory(player) {
@@ -32,7 +39,17 @@
 				}
 			}
 		});
-		return historyEntries;
+		var dkpTable = $('#loothistory').DataTable({
+			data: historyEntries,
+			columns: [
+				{ data: 'itemname' },
+				{ data: 'itemnumber' },
+				{ data: 'zone' },
+				{ data: 'boss' },
+				{ data: 'timestamp' },
+				{ data: 'cost' }
+			]
+		});
 	}
 
 	$(document).ready(function() {
@@ -43,17 +60,7 @@
 		console.log(loothistory);
 	
 	
-		var dkpTable = $('#dkptable').DataTable({
-			ajax: {
-				url: 'dkptable.json',
-				dataSrc: 'dkptable.dkpentry'
-			},
-			columns: [
-				{ data: 'player' },
-				{ data: 'class' },
-				{ data: 'dkp' }
-			]
-		});
+
 		
 		
 	});	
@@ -61,12 +68,21 @@
 <body>
 
 <h4>DKP History</h4>
-<table id="dkptable" class="display" style="width:100%">
+<table id="dkphistory" class="display" style="width:100%">
 <thead>
-<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
+<tr><th>DKP</th><th>Timestamp</th><th>Reason</th></tr>
 </thead>
 <tfoot>
-<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
+<tr><th>DKP</th><th>Timestamp</th><th>Reason</th></tr>
+</tfoot>
+</table>
+
+<table id="loothistory" class="display" style="width:100%">
+<thead>
+<tr><th>Item Name</th><th>Item Number</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
+</thead>
+<tfoot>
+<tr><th>Item Name</th><th>Item Number</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
 </tfoot>
 </table>
 
