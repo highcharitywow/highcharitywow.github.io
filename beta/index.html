@@ -13,10 +13,10 @@
 	$(document).ready(function() {
 		var dkptable = [];
 		getDKP().done(function(json) {
-			dkptable = json;
+			dkptable = json.dkptable;
 		});
 		$('#dkptable').DataTable({
-			data: dkptable,
+			data: dkptable.dkpentry,
 			columns: [
 				{ title: "Players" },
 				{ title: "DKP" },
