@@ -1,79 +1,102 @@
 <html>
-<head>
-	<title>Home - High Charity DKP (Classic WoW Incendius)</title>
-	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-	<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
-	<script src="https://wow.zamimg.com/widgets/power.js"></script>
-	<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
-</head>
-<script type="text/javascript">
-	$(document).ready(function() {
-		var dkpTable = $('#dkptable').DataTable({
-			ajax: {
-				url: 'dkptable.json',
-				dataSrc: 'dkptable.dkpentry'
-			},
-			columns: [
-				{ data: 'player' },
-				{ data: 'class' },
-				{ data: 'dkp' }
-			],
-			rowCallback: function (nRow, aData, iDisplayIndex) {
-				$('td:eq(0)', nRow).html('<a target="_blank" href="/beta/player.html?id=' + aData.player + '">'+aData.player+'</a>');
-			}
-		});
-		var historyTable = $('#dkphistory').DataTable({
-			ajax: {
-				url: 'dkphistory.json',
-				dataSrc: 'dkphistory.historyentry'
-			},
-			columns: [
-				{ data: 'playerstring' },
-				{ data: 'dkp' },
-				{ data: 'timestamp' },
-				{ data: 'reason' }
-			],
-			rowCallback: function (nRow, aData, iDisplayIndex) {
-				
-				$('td:eq(0)', nRow).html(aData.playerstring.split(',').join('<br/>'));
-			}
-		});		
-	});	
-</script>
-<body>
-<h1>High Charity DKP (Classic WoW Incendius Alliance)
-<hr>
-<h4>DKP Table</h4>
-<table id="dkptable" class="display" style="width:100%">
-<thead>
-<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
-</thead>
-<tfoot>
-<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
-</tfoot>
-</table>
-<hr>
-<h4>DKP History</h4>
-<table id="dkphistory" class="display" style="width:100%">
-<thead>
-<tr><th>Players</th><th>DKP</th><th>Date</th><th>Reason</th></tr>
-</thead>
-<tfoot>
-<tr><th>Players</th><th>DKP</th><th>Date</th><th>Reason</th></tr>
-</tfoot>
-</table>
-<hr>
-<h4>Loot History</h4>
-<table id="loothistory" class="display" style="width:100%">
-<thead>
-<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
-</thead>
-<tfoot>
-<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
-</tfoot>
-</table>
-</body>
+	<head>
+		<title>Home - High Charity DKP (Classic WoW Incendius)</title>
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+		<script src="https://wow.zamimg.com/widgets/power.js"></script>
+		<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+	</head>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			var dkpTable = $('#dkptable').DataTable({
+				ajax: {
+					url: 'dkptable.json',
+					dataSrc: 'dkptable.dkpentry'
+				},
+				columns: [
+					{ data: 'player' },
+					{ data: 'class' },
+					{ data: 'dkp' }
+				],
+				rowCallback: function (nRow, aData, iDisplayIndex) {
+					$('td:eq(0)', nRow).html('<a target="_blank" href="/beta/player.html?id=' + aData.player + '">'+aData.player+'</a>');
+				}
+			});
+			var historyTable = $('#dkphistory').DataTable({
+				ajax: {
+					url: 'dkphistory.json',
+					dataSrc: 'dkphistory.historyentry'
+				},
+				columns: [
+					{ data: 'playerstring' },
+					{ data: 'dkp' },
+					{ data: 'timestamp' },
+					{ data: 'reason' }
+				],
+				rowCallback: function (nRow, aData, iDisplayIndex) {
+					
+					$('td:eq(0)', nRow).html(aData.playerstring.split(',').join('<br/>'));
+				}
+			});		
+		});	
+	</script>
+	<body>
+		<div class="container">
+			<h1>High Charity DKP (Classic WoW Incendius Alliance)
+			<div class="panel-group" id="accordion">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#dkpCollapse">DKP Table</a></h4>
+					</div>
+					<div id="dkpCollapse" class="panel-collapse collapse in">
+						<div class="panel-body">
+							<table id="dkptable" class="display table" style="width:100%">
+								<thead>
+								<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
+								</thead>
+								<tfoot>
+								<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
+								</tfoot>
+							</table>
+						</div>
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#historyCollapse">DKP History</a></h4>
+					</div>
+					<div id="historyCollapse" class="panel-collapse collapse in">
+						<div class="panel-body">
+							<table id="dkphistory" class="display table" style="width:100%">
+								<thead>
+								<tr><th>Players</th><th>DKP</th><th>Date</th><th>Reason</th></tr>
+								</thead>
+								<tfoot>
+								<tr><th>Players</th><th>DKP</th><th>Date</th><th>Reason</th></tr>
+								</tfoot>
+							</table>
+						</div>
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#lootCollapse">Loot History</a></h4>
+					</div>
+					<div id="lootCollapse" class="panel-collapse collapse in">
+						<table id="loothistory" class="display table" style="width:100%">
+							<thead>
+							<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
+							</thead>
+							<tfoot>
+							<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
+							</tfoot>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
 </html>
