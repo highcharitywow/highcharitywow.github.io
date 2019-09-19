@@ -6,7 +6,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
-	<script src="http://wow.zamimg.com/widgets/power.js"></script>
+	<script src="https://wow.zamimg.com/widgets/power.js"></script>
 	<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
 </head>
 <script type="text/javascript">
@@ -24,6 +24,18 @@
 			rowCallback: function (nRow, aData, iDisplayIndex) {
 				$('td:eq(0)', nRow).html('<a target="_blank" href="/beta/player.html?id=' + aData.player'">'+aData.player+'</a>');
 			}
+		});
+		var historyTable = $('#dkphistory').DataTable({
+			ajax: {
+				url: 'dkphistory.json',
+				dataSrc: 'dkphistory.historyentry'
+			},
+			columns: [
+				{ data: 'playerstring' },
+				{ data: 'dkp' },
+				{ data: 'timestamp' },
+				{ data: 'reason' }
+			]
 		});		
 	});	
 </script>
@@ -40,6 +52,7 @@
 </tfoot>
 </table>
 <hr>
+<h4>DKP History</h4>
 <table id="dkphistory" class="display" style="width:100%">
 <thead>
 <tr><th>Player</th><th>Class</th><th>DKP</th></tr>
@@ -49,6 +62,7 @@
 </tfoot>
 </table>
 <hr>
+<h4>Loot History</h4>
 <table id="loothistory" class="display" style="width:100%">
 <thead>
 <tr><th>Player</th><th>Class</th><th>DKP</th></tr>
