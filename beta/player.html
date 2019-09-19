@@ -13,12 +13,12 @@
 	function getDKPHistory(player) {
 		var historyEntries = [];
 		$.getJSON('dkphistory.json', function (json) {
-			$.each(json.dkphistory.historyentry, function(i, record) {
-				if (record.playerstring.indexOf(player+',') > 0) {
-					record.playerstring = player;
-					historyEntries.push(record);
+			for (var i = 0; i < json.dkphistory.historyentry.length; i++) {
+				if (json.dkphistory.historyentry[i].playerstring.indexOf(player+',') > 0) {
+					json.dkphistory.historyentry[i].playerstring = player;
+					historyEntries.push(json.dkphistory.historyentry[i]);
 				}
-			});
+			}
 		});
 		return historyEntries;
 	}
@@ -26,11 +26,11 @@
 	function getLootHistory(player) {
 		var historyEntries = [];
 		$.getJSON('loothistory.json', function (json) {
-			$.each(json.loothistory.lootentry, function(i, record) {
-				if (record.player.indexOf(player) > 0) {
-					historyEntries.push(record);
+			for (var i = 0; i < json.loothistory.lootentry.length; i++) {
+				if (json.loothistory.lootentry[i].player.indexOf(player) > 0) {
+					historyEntries.push(json.loothistory.lootentry[i]);
 				}
-			});
+			}
 		});
 		return historyEntries;
 	}
