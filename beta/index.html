@@ -9,7 +9,7 @@
 </head>
 <script type="text/javascript">
 	$(document).ready(function() {
-		$('#dkptable').DataTable({
+		var dkpTable = $('#dkptable').DataTable({
 			ajax: {
 				url: 'dkptable.json',
 				dataSrc: 'dkptable.dkpentry'
@@ -17,9 +17,7 @@
 			columns: [
 				{ data: 'player' },
 				{ data: 'class' },
-				{ data: 'dkp' },
-				{ data: 'lifetimegained' },
-				{ data: 'lifetimespent' }
+				{ data: 'dkp' }
 			]
 		});
 	});	
@@ -29,10 +27,10 @@
 <h4>DKP History</h4>
 <table id="dkptable" class="display" style="width:100%">
 <thead>
-<tr><th>Player</th><th>Class</th><th>DKP</th><th>Earned DKP</th><th>Spent DKP</th></tr>
+<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
 </thead>
 <tfoot>
-<tr><th>Player</th><th>Class</th><th>DKP</th><th>Earned DKP</th><th>Spent DKP</th></tr>
+<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
 </tfoot>
 </table>
 
