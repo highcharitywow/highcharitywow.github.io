@@ -11,21 +11,34 @@
 
 
 	function getDKPHistory(player) {
+		var historyEntries = [];
 		$.getJSON('dkphistory.json', function (json) {
-			console.log(json);
+			$.each(json.dkphistory.historyentry, function(i, record) {
+				if (record.playerstring.indexOf(player+',') > 0) {
+					record.playerstring = player;
+					historyEntries.push(record);
+				}
+			});
 		});
+		return historyEntries;
 	}
 
 	function getLootHistory(player) {
-		$.getJSON('dkphistory.json', function (json) {
-			console.log(json);
+		var historyEntries = [];
+		$.getJSON('loothistory.json', function (json) {
+			$.each(json.loothistory.lootentry, function(i, record) {
+				if (record.playerstring.indexOf(player) > 0) {
+					historyEntries.push(record);
+				}
+			});
 		});
+		return historyEntries;
 	}
 
 	$(document).ready(function() {
 	
-		getDKPHistory('Renegade');
-		getLootHistory('Renegade');
+		var dkphistory = getDKPHistory('Renegade');
+		var loothistory = getLootHistory('Renegade');
 		
 	
 	
