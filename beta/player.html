@@ -34,10 +34,12 @@
 	}
 
 	function getLootHistory(id) {
+		var historyEntries = [];
 		$.getJSON('loothistory.json', function (json) {
 			for (var i = 0; i < json.loothistory.lootentry.length; i++) {
 				if (json.loothistory.lootentry[i].player.indexOf(id) > -1) {
 					json.loothistory.lootentry[i].timestamp = moment.unix(json.loothistory.lootentry[i].timestamp).format('LLL');
+					historyEntries.push(json.loothistory.lootentry[i]);
 				}
 			}
 			return $('#loothistory').DataTable({
