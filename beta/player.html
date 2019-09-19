@@ -56,6 +56,7 @@
 	}
 
 	$(document).ready(function() {
+		moment().format('LLL');	
 		//id = playername
 		var url = new URL(window.location.href);
 		var id = url.searchParams.get('id');
