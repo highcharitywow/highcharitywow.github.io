@@ -10,12 +10,12 @@
 <script type="text/javascript">
 
 
-	function getDKPHistory(player) {
+	function getDKPHistory(id) {
 		var historyEntries = [];
 		$.getJSON('dkphistory.json', function (json) {
 			for (var i = 0; i < json.dkphistory.historyentry.length; i++) {
-				if (json.dkphistory.historyentry[i].playerstring.indexOf(player+',') > 0) {
-					json.dkphistory.historyentry[i].playerstring = player;
+				if (json.dkphistory.historyentry[i].playerstring.indexOf(id+',') > 0) {
+					json.dkphistory.historyentry[i].playerstring = id;
 					historyEntries.push(json.dkphistory.historyentry[i]);
 				}
 			}
@@ -31,11 +31,11 @@
 
 	}
 
-	function getLootHistory(player) {
+	function getLootHistory(id) {
 		var historyEntries = [];
 		$.getJSON('loothistory.json', function (json) {
 			for (var i = 0; i < json.loothistory.lootentry.length; i++) {
-				if (json.loothistory.lootentry[i].player.indexOf(player) > 0) {
+				if (json.loothistory.lootentry[i].player.indexOf(id) > 0) {
 					historyEntries.push(json.loothistory.lootentry[i]);
 				}
 			}
@@ -55,13 +55,19 @@
 	}
 
 	$(document).ready(function() {
-		var dkphistory = getDKPHistory('Renegade');
-		var loothistory = getLootHistory('Renegade');		
+		//id = playername
+		var url = href.window;
+		var query_string = url.search;
+		var search_params = new URLSearchParams(query_string); 
+		var id = search_params.get('id');
+		$('#playerName').text(id);
+		var dkphistory = getDKPHistory(id);
+		var loothistory = getLootHistory(id);		
 	});	
 </script>
 <body>
 
-<h4>DKP History</h4>
+<h4>DKP History for <span id="playerName"></span></h4>
 <table id="dkphistory" class="display" style="width:100%">
 <thead>
 <tr><th>DKP</th><th>Timestamp</th><th>Reason</th></tr>
