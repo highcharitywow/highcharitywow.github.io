@@ -34,27 +34,22 @@
 	}
 
 	function getLootHistory(id) {
-		var historyEntries = [];
 		$.getJSON('loothistory.json', function (json) {
 			for (var i = 0; i < json.loothistory.lootentry.length; i++) {
 				if (json.loothistory.lootentry[i].player.indexOf(id) > -1) {
 					json.loothistory.lootentry[i].timestamp = moment.unix(json.loothistory.lootentry[i].timestamp).format('LLL');
-					historyEntries.push(json.loothistory.lootentry[i]);
+					
+					$('#loothistory tbody').append('<tr><td><a href="/beta/item.html?id='+
+					json.loothistory.lootentry[i].itemnumber+'" data-wowhead="item='+
+					json.loothistory.lootentry[i].itemnumber+'"></a></td><td>' +
+					json.loothistory.lootentry[i].zone+'</td><td>' +
+					json.loothistory.lootentry[i].boss+'</td><td>' +
+					json.loothistory.lootentry[i].cost+'</td></tr>')
+					
+					
 				}
 			}
-			return dkpTable = $('#loothistory').DataTable({
-				data: historyEntries,
-				columns: [
-					{ data: 'itemname' },
-					{ data: 'zone' },
-					{ data: 'boss' },
-					{ data: 'timestamp' },
-					{ data: 'cost' }
-				],
-				rowCallback: function (nRow, aData, iDisplayIndex) {
-					$('td:eq(0)', nRow).html('<a href="/beta/item.html?id='+aData.itemnumber+'" data-wowhead="item='+aData.itemnumber+'"></a>');
-				}
-			});
+			return dkpTable = $('#loothistory').DataTable();
 		});
 
 	}
