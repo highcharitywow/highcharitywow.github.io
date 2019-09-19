@@ -58,14 +58,14 @@
 		//id = playername
 		var url = new URL(window.location.href);
 		var id = url.searchParams.get('id');
-		$('#playerName').text(id);
+		$('.playerName').text(id);
 		var dkphistory = getDKPHistory(id);
 		var loothistory = getLootHistory(id);		
 	});	
 </script>
 <body>
 
-<h4>DKP History for <span id="playerName"></span></h4>
+<h4>DKP History for <span class="playerName"></span></h4>
 <table id="dkphistory" class="display" style="width:100%">
 <thead>
 <tr><th>DKP</th><th>Timestamp</th><th>Reason</th></tr>
@@ -75,6 +75,7 @@
 </tfoot>
 </table>
 
+<h4>Loot History for <span class="playerName"></span></h4>
 <table id="loothistory" class="display" style="width:100%">
 <thead>
 <tr><th>Item Name</th><th>Item Number</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
