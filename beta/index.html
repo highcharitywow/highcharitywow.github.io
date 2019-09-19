@@ -28,6 +28,10 @@
 		return $.getJSON('dkptable.json');
 	}
 	
+	getDKP().done(function(json) {
+		dkptable = json;
+	});
+	
 </script>
 <body>
 
