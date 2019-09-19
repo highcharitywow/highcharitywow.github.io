@@ -7,6 +7,7 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<script src="https://momentjs.com/downloads/moment.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+	<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
 	<script src="https://wow.zamimg.com/widgets/power.js"></script>
 </head>
 <script type="text/javascript">
@@ -51,7 +52,11 @@
 					{ data: 'cost' }
 				],
 				rowCallback: function (nRow, aData, iDisplayIndex) {
-					$('td:eq(0)', nRow).html('<a target="_blank" href="https://classic.wowhead.com/item='+aData.itemnumber+'" data-wowhead="item='+aData.itemnumber+'&amp;domain=classic"></a>');
+					$('td:eq(0)', nRow).html('<a target="_blank" href="https://classic.wowhead.com/item='
+					+aData.itemnumber
+					+'" data-wowhead="item='
+					+aData.itemnumber
+					+'&amp;domain=classic"></a>');
 				}
 			});
 		});
@@ -65,7 +70,7 @@
 		$('.playerName').text(id);
 		var dkphistory = getDKPHistory(id);
 		var loothistory = getLootHistory(id);		
-		var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};
+		
 	});	
 </script>
 <body>
