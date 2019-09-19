@@ -1,0 +1,697 @@
+<dkptable>
+    <dkpentry>
+        <player>Aitadis</player>
+        <class>Warrior</class>
+        <dkp>165</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>10</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Allmight</player>
+        <class>Warrior</class>
+        <dkp>115</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-60</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Atatat</player>
+        <class>Priest</class>
+        <dkp>134</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>41</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Bhadbharbie</player>
+        <class>Druid</class>
+        <dkp>145</dkp>
+        <lifetimegained>210</lifetimegained>
+        <lifetimespent>5</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Bobo</player>
+        <class>Priest</class>
+        <dkp>0</dkp>
+        <lifetimegained>0</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Boosh</player>
+        <class>Warrior</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Bruggs</player>
+        <class>Mage</class>
+        <dkp>137</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-38</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Cathoray</player>
+        <class>Mage</class>
+        <dkp>152</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-23</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Collim</player>
+        <class>Mage</class>
+        <dkp>137</dkp>
+        <lifetimegained>175</lifetimegained>
+        <lifetimespent>-38</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Contra</player>
+        <class>Priest</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Darnac</player>
+        <class>Paladin</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Droke</player>
+        <class>Warrior</class>
+        <dkp>170</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>5</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Fook</player>
+        <class>Warlock</class>
+        <dkp>154</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-19</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Gumz</player>
+        <class>Mage</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Helga</player>
+        <class>Priest</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Holty</player>
+        <class>Priest</class>
+        <dkp>150</dkp>
+        <lifetimegained>210</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Jaderade</player>
+        <class>Paladin</class>
+        <dkp>115</dkp>
+        <lifetimegained>175</lifetimegained>
+        <lifetimespent>60</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Klue</player>
+        <class>Warrior</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Kregore</player>
+        <class>Priest</class>
+        <dkp>175</dkp>
+        <lifetimegained>175</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Limecat</player>
+        <class>Rogue</class>
+        <dkp>171</dkp>
+        <lifetimegained>175</lifetimegained>
+        <lifetimespent>-4</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Lobsterkite</player>
+        <class>Warlock</class>
+        <dkp>173</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-2</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Maximusanew</player>
+        <class>Druid</class>
+        <dkp>161</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-14</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Mindy</player>
+        <class>Priest</class>
+        <dkp>25</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>150</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Mortalstrike</player>
+        <class>Warrior</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Nether</player>
+        <class>Mage</class>
+        <dkp>25</dkp>
+        <lifetimegained>25</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Pontifex</player>
+        <class>Paladin</class>
+        <dkp>123</dkp>
+        <lifetimegained>175</lifetimegained>
+        <lifetimespent>-52</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Pyrocy</player>
+        <class>Mage</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Renegade</player>
+        <class>Hunter</class>
+        <dkp>169</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-554</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Rhav</player>
+        <class>Warrior</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Shunsui</player>
+        <class>Hunter</class>
+        <dkp>25</dkp>
+        <lifetimegained>25</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Silverbug</player>
+        <class>Druid</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Skadi</player>
+        <class>Mage</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Spox</player>
+        <class>Hunter</class>
+        <dkp>131</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-44</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Ternestevon</player>
+        <class>Warlock</class>
+        <dkp>25</dkp>
+        <lifetimegained>25</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Thicchick</player>
+        <class>Mage</class>
+        <dkp>115</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-60</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Timmy</player>
+        <class>Hunter</class>
+        <dkp>114</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-59</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Tripn</player>
+        <class>Warrior</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Tvirus</player>
+        <class>Paladin</class>
+        <dkp>169</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-6</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Ventris</player>
+        <class>Priest</class>
+        <dkp>175</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Warukyure</player>
+        <class>Druid</class>
+        <dkp>115</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-60</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Wepskill</player>
+        <class>Rogue</class>
+        <dkp>173</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-2</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Whiteranger</player>
+        <class>Paladin</class>
+        <dkp>114</dkp>
+        <lifetimegained>235</lifetimegained>
+        <lifetimespent>-61</lifetimespent>
+    </dkpentry>
+</dkptable><dkphistory>
+    <historyentry>
+        <playerstring>Maximusanew,Silverbug,Warukyure,Timmy,Spox,Shunsui,Renegade,Pyrocy,Skadi,Nether,Gumz,Thicchick,Bruggs,Collim,Cathoray,Pontifex,Jaderade,Tvirus,Whiteranger,Darnac,Ventris,Mindy,Helga,Kregore,Contra,Atatat,Limecat,Wepskill,Fook,Ternestevon,Lobsterkite,Mortalstrike,Allmight,Klue,Boosh,Rhav,Tripn,Droke,Aitadis,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1568860936</timestamp>
+        <reason>DKP Adjust</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Maximusanew,</playerstring>
+        <dkp>30</dkp>
+        <timestamp>1568856316</timestamp>
+        <reason>Molten Core: Ragnaros (First Kill)</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Maximusanew,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1568856310</timestamp>
+        <reason>Raid Completion Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Silverbug,Warukyure,Bhadbharbie,Renegade,Spox,Timmy,Thicchick,Pyrocy,Skadi,Gumz,Cathoray,Bruggs,Collim,Pontifex,Darnac,Tvirus,Whiteranger,Jaderade,Atatat,Contra,Holty,Mindy,Ventris,Helga,Kregore,Limecat,Wepskill,Fook,Lobsterkite,Mortalstrike,Allmight,Boosh,Droke,Tripn,Klue,Rhav,Aitadis,</playerstring>
+        <dkp>30</dkp>
+        <timestamp>1568782851</timestamp>
+        <reason>Molten Core: Ragnaros (First Kill)</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Silverbug,Warukyure,Bhadbharbie,Renegade,Spox,Timmy,Thicchick,Pyrocy,Skadi,Gumz,Cathoray,Bruggs,Collim,Pontifex,Darnac,Tvirus,Whiteranger,Jaderade,Atatat,Contra,Holty,Mindy,Ventris,Helga,Kregore,Limecat,Wepskill,Fook,Lobsterkite,Mortalstrike,Allmight,Boosh,Droke,Tripn,Klue,Rhav,Aitadis,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1568782828</timestamp>
+        <reason>Raid Completion Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Jaderade,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1568768934</timestamp>
+        <reason>DKP Adjust</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Pontifex,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1568768809</timestamp>
+        <reason>DKP Adjust</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Droke,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1568768624</timestamp>
+        <reason>DKP Adjust</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Collim,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1568768621</timestamp>
+        <reason>DKP Adjust</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Kregore,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1568768470</timestamp>
+        <reason>DKP Adjust</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Maximusanew,Bhadbharbie,Silverbug,Warukyure,Renegade,Timmy,Spox,Gumz,Skadi,Cathoray,Bruggs,Thicchick,Pyrocy,Tvirus,Whiteranger,Darnac,Contra,Helga,Holty,Atatat,Ventris,Mindy,Limecat,Wepskill,Lobsterkite,Fook,Boosh,Allmight,Rhav,Mortalstrike,Tripn,Klue,Aitadis,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1568768109</timestamp>
+        <reason>DKP Adjust</reason>
+    </historyentry>
+</dkphistory><loothistory>
+    <lootentry>
+        <player>Droke</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18423</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568861813</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Atatat</player>
+        <itemname>Onyxia Hide Backpack</itemname>
+        <itemnumber>17966</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568861757</timestamp>
+        <cost>41</cost>
+    </lootentry>
+    <lootentry>
+        <player>Timmy</player>
+        <itemname>Mature Black Dragon Sinew</itemname>
+        <itemnumber>18705</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568861722</timestamp>
+        <cost>1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fook</player>
+        <itemname>Nemesis Skullcap</itemname>
+        <itemnumber>16929</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568861663</timestamp>
+        <cost>1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Whiteranger</player>
+        <itemname>Ring of Binding</itemname>
+        <itemnumber>18813</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568861647</timestamp>
+        <cost>1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Mindy</player>
+        <itemname>Halo of Transcendence</itemname>
+        <itemnumber>16921</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568861581</timestamp>
+        <cost>150</cost>
+    </lootentry>
+    <lootentry>
+        <player>Aitadis</player>
+        <itemname>Legplates of Wrath</itemname>
+        <itemnumber>16962</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568807372</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Jaderade</player>
+        <itemname>Eye of Sulfuras</itemname>
+        <itemnumber>17204</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568807278</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Aitadis</player>
+        <itemname>Perdition's Blade</itemname>
+        <itemnumber>18816</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568807221</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Renegade</player>
+        <itemname>Ancient Petrified Leaf</itemname>
+        <itemnumber>18703</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568807152</timestamp>
+        <cost>6</cost>
+    </lootentry>
+    <lootentry>
+        <player>Bhadbharbie</player>
+        <itemname>Heavy Dark Iron Ring</itemname>
+        <itemnumber>18879</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568807080</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Timmy</player>
+        <itemname>Core Hound Tooth</itemname>
+        <itemnumber>18805</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568782701</timestamp>
+        <cost>21</cost>
+    </lootentry>
+    <lootentry>
+        <player>Collim</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568782268</timestamp>
+        <cost>38</cost>
+    </lootentry>
+    <lootentry>
+        <player>Whiteranger</player>
+        <itemname>Malistar's Defender</itemname>
+        <itemnumber>17106</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1568782020</timestamp>
+        <cost>19</cost>
+    </lootentry>
+    <lootentry>
+        <player>Warukyure</player>
+        <itemname>Cauterizing Band</itemname>
+        <itemnumber>19140</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1568780901</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fook</player>
+        <itemname>Felheart Belt</itemname>
+        <itemnumber>16806</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1568780291</timestamp>
+        <cost>2</cost>
+    </lootentry>
+    <lootentry>
+        <player>Maximusanew</player>
+        <itemname>Cenarion Belt</itemname>
+        <itemnumber>16828</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1568780241</timestamp>
+        <cost>1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Cathoray</player>
+        <itemname>Arcanist Bindings</itemname>
+        <itemnumber>16799</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1568780153</timestamp>
+        <cost>23</cost>
+    </lootentry>
+    <lootentry>
+        <player>Lobsterkite</player>
+        <itemname>Felheart Bracers</itemname>
+        <itemnumber>16804</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1568778067</timestamp>
+        <cost>2</cost>
+    </lootentry>
+    <lootentry>
+        <player>Spox</player>
+        <itemname>Giantstalker's Breastplate</itemname>
+        <itemnumber>16845</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1568777374</timestamp>
+        <cost>22</cost>
+    </lootentry>
+    <lootentry>
+        <player>Limecat</player>
+        <itemname>Nightslayer Chestpiece</itemname>
+        <itemnumber>16820</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1568777351</timestamp>
+        <cost>3</cost>
+    </lootentry>
+    <lootentry>
+        <player>Bruggs</player>
+        <itemname>Staff of Dominance</itemname>
+        <itemnumber>18842</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1568777320</timestamp>
+        <cost>38</cost>
+    </lootentry>
+    <lootentry>
+        <player>Spox</player>
+        <itemname>Giantstalker's Epaulets</itemname>
+        <itemnumber>16848</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1568776902</timestamp>
+        <cost>22</cost>
+    </lootentry>
+    <lootentry>
+        <player>Wepskill</player>
+        <itemname>Nightslayer Boots</itemname>
+        <itemnumber>16824</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1568775840</timestamp>
+        <cost>2</cost>
+    </lootentry>
+    <lootentry>
+        <player>Maximusanew</player>
+        <itemname>Cenarion Gloves</itemname>
+        <itemnumber>16831</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1568775764</timestamp>
+        <cost>7</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fook</player>
+        <itemname>Felheart Shoulder Pads</itemname>
+        <itemnumber>16807</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1568774935</timestamp>
+        <cost>9</cost>
+    </lootentry>
+    <lootentry>
+        <player>Maximusanew</player>
+        <itemname>Cenarion Spaulders</itemname>
+        <itemnumber>16836</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1568774900</timestamp>
+        <cost>6</cost>
+    </lootentry>
+    <lootentry>
+        <player>Timmy</player>
+        <itemname>Giantstalker's Helmet</itemname>
+        <itemnumber>16846</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1568774261</timestamp>
+        <cost>22</cost>
+    </lootentry>
+    <lootentry>
+        <player>Limecat</player>
+        <itemname>Nightslayer Cover</itemname>
+        <itemnumber>16821</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1568774228</timestamp>
+        <cost>1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Allmight</player>
+        <itemname>Brutality Blade</itemname>
+        <itemnumber>18832</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1568774166</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Whiteranger</player>
+        <itemname>Salamander Scale Pants</itemname>
+        <itemnumber>18875</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1568773193</timestamp>
+        <cost>41</cost>
+    </lootentry>
+    <lootentry>
+        <player>Pontifex</player>
+        <itemname>Lawbringer Gauntlets</itemname>
+        <itemnumber>16860</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1568773133</timestamp>
+        <cost>6</cost>
+    </lootentry>
+    <lootentry>
+        <player>Thicchick</player>
+        <itemname>Talisman of Ephemeral Power</itemname>
+        <itemnumber>18820</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1568772556</timestamp>
+        <cost>60</cost>
+    </lootentry>
+    <lootentry>
+        <player>Timmy</player>
+        <itemname>Giantstalker's Leggings</itemname>
+        <itemnumber>16847</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1568772481</timestamp>
+        <cost>17</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fook</player>
+        <itemname>Felheart Pants</itemname>
+        <itemnumber>16810</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1568772431</timestamp>
+        <cost>9</cost>
+    </lootentry>
+    <lootentry>
+        <player>Pontifex</player>
+        <itemname>Salamander Scale Pants</itemname>
+        <itemnumber>18875</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1568771945</timestamp>
+        <cost>46</cost>
+    </lootentry>
+    <lootentry>
+        <player>Tvirus</player>
+        <itemname>Lawbringer Boots</itemname>
+        <itemnumber>16859</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1568771838</timestamp>
+        <cost>6</cost>
+    </lootentry>
+</loothistory>
