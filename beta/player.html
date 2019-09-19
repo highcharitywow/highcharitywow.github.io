@@ -39,7 +39,7 @@
 				if (json.loothistory.lootentry[i].player.indexOf(id) > -1) {
 					json.loothistory.lootentry[i].timestamp = moment.unix(json.loothistory.lootentry[i].timestamp).format('LLL');
 					
-					$('#loothistory tbody').append('<tr><td><a href="/beta/item.html?id='+
+					$('#lootbody').append('<tr><td><a href="/beta/item.html?id='+
 					json.loothistory.lootentry[i].itemnumber+'" data-wowhead="item='+
 					json.loothistory.lootentry[i].itemnumber+'"></a></td><td>' +
 					json.loothistory.lootentry[i].zone+'</td><td>' +
@@ -81,6 +81,7 @@
 <thead>
 <tr><th>Item Name</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
 </thead>
+<tbody id="lootbody"></tbody>
 <tfoot>
 <tr><th>Item Name</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
 </tfoot>
