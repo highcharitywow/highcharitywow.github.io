@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Home - High Charity DKP (Classic WoW Incendius)</title>
+	<title> Player Details - High Charity DKP (Classic WoW Incendius)</title>
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 	<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
@@ -8,7 +8,27 @@
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
 </head>
 <script type="text/javascript">
+
+
+	function getDKPHistory(player) {
+		$.getJSON('dkphistory.json', function json) {
+			console.log(json);
+		});
+	}
+
+	function getLootHistory(player) {
+		$.getJSON('dkphistory.json', function json) {
+			console.log(json);
+		});
+	}
+
 	$(document).ready(function() {
+	
+		getDKPHistory('Renegade');
+		getLootHistory('Renegade');
+		
+	
+	
 		var dkpTable = $('#dkptable').DataTable({
 			ajax: {
 				url: 'dkptable.json',
@@ -26,7 +46,7 @@
 </script>
 <body>
 
-<h4>DKP Table</h4>
+<h4>Player History</h4>
 <table id="dkptable" class="display" style="width:100%">
 <thead>
 <tr><th>Player</th><th>Class</th><th>DKP</th></tr>
