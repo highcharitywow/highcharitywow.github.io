@@ -52,7 +52,7 @@
 					{ data: 'cost' }
 				],
 				rowCallback: function (nRow, aData, iDisplayIndex) {
-					$('td:eq(0)', nRow).html('<a href="https://classic.wowhead.com/item='+aData.itemnumber+'" data-wowhead="item='+aData.itemnumber+'&domain=classic">'+aData.itemname+'</a>');
+					$('td:eq(0)', nRow).html('<a href="https://classic.wowhead.com/item='+aData.itemnumber+'" data-wowhead="item='+aData.itemnumber+'&amp;domain=classic">'+aData.itemname+'</a>');
 				}
 			});
 		});
