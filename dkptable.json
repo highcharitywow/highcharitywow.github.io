@@ -1,0 +1,300 @@
+{
+	"dkptable": {
+		"dkpentry": [
+			{
+				"player": "Aitadis",
+				"class": "Warrior",
+				"dkp": "165",
+				"lifetimegained": "235",
+				"lifetimespent": "10"
+			},
+			{
+				"player": "Allmight",
+				"class": "Warrior",
+				"dkp": "115",
+				"lifetimegained": "235",
+				"lifetimespent": "-60"
+			},
+			{
+				"player": "Atatat",
+				"class": "Priest",
+				"dkp": "134",
+				"lifetimegained": "235",
+				"lifetimespent": "41"
+			},
+			{
+				"player": "Bhadbharbie",
+				"class": "Druid",
+				"dkp": "145",
+				"lifetimegained": "210",
+				"lifetimespent": "5"
+			},
+			{
+				"player": "Bobo",
+				"class": "Priest",
+				"dkp": "0",
+				"lifetimegained": "0",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Boosh",
+				"class": "Warrior",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Bruggs",
+				"class": "Mage",
+				"dkp": "137",
+				"lifetimegained": "235",
+				"lifetimespent": "-38"
+			},
+			{
+				"player": "Cathoray",
+				"class": "Mage",
+				"dkp": "152",
+				"lifetimegained": "235",
+				"lifetimespent": "-23"
+			},
+			{
+				"player": "Collim",
+				"class": "Mage",
+				"dkp": "137",
+				"lifetimegained": "175",
+				"lifetimespent": "-38"
+			},
+			{
+				"player": "Contra",
+				"class": "Priest",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Darnac",
+				"class": "Paladin",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Droke",
+				"class": "Warrior",
+				"dkp": "170",
+				"lifetimegained": "235",
+				"lifetimespent": "5"
+			},
+			{
+				"player": "Fook",
+				"class": "Warlock",
+				"dkp": "154",
+				"lifetimegained": "235",
+				"lifetimespent": "-19"
+			},
+			{
+				"player": "Gumz",
+				"class": "Mage",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Helga",
+				"class": "Priest",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Holty",
+				"class": "Priest",
+				"dkp": "150",
+				"lifetimegained": "210",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Jaderade",
+				"class": "Paladin",
+				"dkp": "115",
+				"lifetimegained": "175",
+				"lifetimespent": "60"
+			},
+			{
+				"player": "Klue",
+				"class": "Warrior",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Kregore",
+				"class": "Priest",
+				"dkp": "175",
+				"lifetimegained": "175",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Limecat",
+				"class": "Rogue",
+				"dkp": "171",
+				"lifetimegained": "175",
+				"lifetimespent": "-4"
+			},
+			{
+				"player": "Lobsterkite",
+				"class": "Warlock",
+				"dkp": "173",
+				"lifetimegained": "235",
+				"lifetimespent": "-2"
+			},
+			{
+				"player": "Maximusanew",
+				"class": "Druid",
+				"dkp": "161",
+				"lifetimegained": "235",
+				"lifetimespent": "-14"
+			},
+			{
+				"player": "Mindy",
+				"class": "Priest",
+				"dkp": "25",
+				"lifetimegained": "235",
+				"lifetimespent": "150"
+			},
+			{
+				"player": "Mortalstrike",
+				"class": "Warrior",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Nether",
+				"class": "Mage",
+				"dkp": "25",
+				"lifetimegained": "25",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Pontifex",
+				"class": "Paladin",
+				"dkp": "123",
+				"lifetimegained": "175",
+				"lifetimespent": "-52"
+			},
+			{
+				"player": "Pyrocy",
+				"class": "Mage",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Renegade",
+				"class": "Hunter",
+				"dkp": "169",
+				"lifetimegained": "235",
+				"lifetimespent": "-554"
+			},
+			{
+				"player": "Rhav",
+				"class": "Warrior",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Shunsui",
+				"class": "Hunter",
+				"dkp": "25",
+				"lifetimegained": "25",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Silverbug",
+				"class": "Druid",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Skadi",
+				"class": "Mage",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Spox",
+				"class": "Hunter",
+				"dkp": "131",
+				"lifetimegained": "235",
+				"lifetimespent": "-44"
+			},
+			{
+				"player": "Ternestevon",
+				"class": "Warlock",
+				"dkp": "25",
+				"lifetimegained": "25",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Thicchick",
+				"class": "Mage",
+				"dkp": "115",
+				"lifetimegained": "235",
+				"lifetimespent": "-60"
+			},
+			{
+				"player": "Timmy",
+				"class": "Hunter",
+				"dkp": "114",
+				"lifetimegained": "235",
+				"lifetimespent": "-59"
+			},
+			{
+				"player": "Tripn",
+				"class": "Warrior",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Tvirus",
+				"class": "Paladin",
+				"dkp": "169",
+				"lifetimegained": "235",
+				"lifetimespent": "-6"
+			},
+			{
+				"player": "Ventris",
+				"class": "Priest",
+				"dkp": "175",
+				"lifetimegained": "235",
+				"lifetimespent": "0"
+			},
+			{
+				"player": "Warukyure",
+				"class": "Druid",
+				"dkp": "115",
+				"lifetimegained": "235",
+				"lifetimespent": "-60"
+			},
+			{
+				"player": "Wepskill",
+				"class": "Rogue",
+				"dkp": "173",
+				"lifetimegained": "235",
+				"lifetimespent": "-2"
+			},
+			{
+				"player": "Whiteranger",
+				"class": "Paladin",
+				"dkp": "114",
+				"lifetimegained": "235",
+				"lifetimespent": "-61"
+			}
+		]
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"dkphistory": {
+		"historyentry": [
+			{
+				"playerstring": "Maximusanew,Silverbug,Warukyure,Timmy,Spox,Shunsui,Renegade,Pyrocy,Skadi,Nether,Gumz,Thicchick,Bruggs,Collim,Cathoray,Pontifex,Jaderade,Tvirus,Whiteranger,Darnac,Ventris,Mindy,Helga,Kregore,Contra,Atatat,Limecat,Wepskill,Fook,Ternestevon,Lobsterkite,Mortalstrike,Allmight,Klue,Boosh,Rhav,Tripn,Droke,Aitadis,",
+				"dkp": "25",
+				"timestamp": "1568860936",
+				"reason": "DKP Adjust"
+			},
+			{
+				"playerstring": "Maximusanew,",
+				"dkp": "30",
+				"timestamp": "1568856316",
+				"reason": "Molten Core: Ragnaros (First Kill)"
+			},
+			{
+				"playerstring": "Maximusanew,",
+				"dkp": "60",
+				"timestamp": "1568856310",
+				"reason": "Raid Completion Bonus"
+			},
+			{
+				"playerstring": "Silverbug,Warukyure,Bhadbharbie,Renegade,Spox,Timmy,Thicchick,Pyrocy,Skadi,Gumz,Cathoray,Bruggs,Collim,Pontifex,Darnac,Tvirus,Whiteranger,Jaderade,Atatat,Contra,Holty,Mindy,Ventris,Helga,Kregore,Limecat,Wepskill,Fook,Lobsterkite,Mortalstrike,Allmight,Boosh,Droke,Tripn,Klue,Rhav,Aitadis,",
+				"dkp": "30",
+				"timestamp": "1568782851",
+				"reason": "Molten Core: Ragnaros (First Kill)"
+			},
+			{
+				"playerstring": "Silverbug,Warukyure,Bhadbharbie,Renegade,Spox,Timmy,Thicchick,Pyrocy,Skadi,Gumz,Cathoray,Bruggs,Collim,Pontifex,Darnac,Tvirus,Whiteranger,Jaderade,Atatat,Contra,Holty,Mindy,Ventris,Helga,Kregore,Limecat,Wepskill,Fook,Lobsterkite,Mortalstrike,Allmight,Boosh,Droke,Tripn,Klue,Rhav,Aitadis,",
+				"dkp": "60",
+				"timestamp": "1568782828",
+				"reason": "Raid Completion Bonus"
+			},
+			{
+				"playerstring": "Jaderade,",
+				"dkp": "60",
+				"timestamp": "1568768934",
+				"reason": "DKP Adjust"
+			},
+			{
+				"playerstring": "Pontifex,",
+				"dkp": "60",
+				"timestamp": "1568768809",
+				"reason": "DKP Adjust"
+			},
+			{
+				"playerstring": "Droke,",
+				"dkp": "60",
+				"timestamp": "1568768624",
+				"reason": "DKP Adjust"
+			},
+			{
+				"playerstring": "Collim,",
+				"dkp": "60",
+				"timestamp": "1568768621",
+				"reason": "DKP Adjust"
+			},
+			{
+				"playerstring": "Kregore,",
+				"dkp": "60",
+				"timestamp": "1568768470",
+				"reason": "DKP Adjust"
+			},
+			{
+				"playerstring": "Maximusanew,Bhadbharbie,Silverbug,Warukyure,Renegade,Timmy,Spox,Gumz,Skadi,Cathoray,Bruggs,Thicchick,Pyrocy,Tvirus,Whiteranger,Darnac,Contra,Helga,Holty,Atatat,Ventris,Mindy,Limecat,Wepskill,Lobsterkite,Fook,Boosh,Allmight,Rhav,Mortalstrike,Tripn,Klue,Aitadis,",
+				"dkp": "60",
+				"timestamp": "1568768109",
+				"reason": "DKP Adjust"
+			}
+		]
+	}
+}
