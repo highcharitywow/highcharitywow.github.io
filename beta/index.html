@@ -16,7 +16,17 @@
 			dkptable = json.dkptable;
 		});
 		$('#dkptable').DataTable({
-			data: dkptable.dkpentry
+			ajax: {
+				url: 'dkptable.json',
+				dataSrc: 'dkptable.dkpentry'
+			},
+			columns: [
+				{ data: 'player' },
+				{ data: 'class' },
+				{ data: 'dkp' },
+				{ data: 'lifetimegained' },
+				{ data: 'lifetimespent' }
+			]
 		});
 	});
 	
