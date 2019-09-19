@@ -20,14 +20,11 @@
 				{ data: 'player' },
 				{ data: 'class' },
 				{ data: 'dkp' }
-			]
-		});
-		
-		$('#dkptable tbody').on('click', 'tr', function () {
-			var data = dkpTable.row(this).data();
-			window.location.href = '/beta/player.html?id=' + data.player;
-		});
-		
+			],
+			rowCallback: function (nRow, aData, iDisplayIndex) {
+				$('td:eq(0)', nRow).html('<a target="_blank" href="/beta/player.html?id=' + aData.player'">'+aData.player+'</a>');
+			}
+		});		
 	});	
 </script>
 <body>
