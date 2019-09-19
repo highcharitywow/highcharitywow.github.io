@@ -7,6 +7,8 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<script src="https://momentjs.com/downloads/moment.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+	<script src="http://wow.zamimg.com/widgets/power.js"></script>
+	<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
 </head>
 <script type="text/javascript">
 	function getDKPHistory(id) {
@@ -44,12 +46,14 @@
 				data: historyEntries,
 				columns: [
 					{ data: 'itemname' },
-					{ data: 'itemnumber' },
 					{ data: 'zone' },
 					{ data: 'boss' },
 					{ data: 'timestamp' },
 					{ data: 'cost' }
-				]
+				],
+				rowCallback: function (nRow, aData, iDisplayIndex) {
+					$('td:eq(0)', nRow).html('<a href="https://classic.wowhead.com/item='+aData.itemnumber+'" data-wowhead="item='+aData.itemnumber+'&domain=classic">'+aData.itemname+'</a>');
+				}
 			});
 		});
 
@@ -79,10 +83,10 @@
 <h4>Loot History for <span class="playerName"></span></h4>
 <table id="loothistory" class="display" style="width:100%">
 <thead>
-<tr><th>Item Name</th><th>Item Number</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
+<tr><th>Item Name</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
 </thead>
 <tfoot>
-<tr><th>Item Name</th><th>Item Number</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
+<tr><th>Item Name</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
 </tfoot>
 </table>
 
