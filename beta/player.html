@@ -5,17 +5,17 @@
 	<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<script src="https://momentjs.com/downloads/moment.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
 </head>
 <script type="text/javascript">
-
-
 	function getDKPHistory(id) {
 		var historyEntries = [];
 		$.getJSON('dkphistory.json', function (json) {
 			for (var i = 0; i < json.dkphistory.historyentry.length; i++) {
 				if (json.dkphistory.historyentry[i].playerstring.indexOf(id+',') > -1) {
 					json.dkphistory.historyentry[i].playerstring = id;
+					json.dkphistory.historyentry[i].timestamp = moment.unix(json.dkphistory.historyentry[i].timestamp);
 					historyEntries.push(json.dkphistory.historyentry[i]);
 				}
 			}
@@ -36,6 +36,7 @@
 		$.getJSON('loothistory.json', function (json) {
 			for (var i = 0; i < json.loothistory.lootentry.length; i++) {
 				if (json.loothistory.lootentry[i].player.indexOf(id) > -1) {
+					json.loothistory.lootentry[i].timestamp = moment.unix(json.loothistory.lootentry[i].timestamp);
 					historyEntries.push(json.loothistory.lootentry[i]);
 				}
 			}
