@@ -39,14 +39,12 @@
 				if (json.loothistory.lootentry[i].player.indexOf(id) > -1) {
 					json.loothistory.lootentry[i].timestamp = moment.unix(json.loothistory.lootentry[i].timestamp).format('LLL');
 					
-					$('#lootbody').append('<tr><td><a href="/beta/item.html?id='+
+					$('#loothistory tbody').append('<tr><td><a href="/beta/item.html?id='+
 					json.loothistory.lootentry[i].itemnumber+'" data-wowhead="item='+
 					json.loothistory.lootentry[i].itemnumber+'"></a></td><td>' +
 					json.loothistory.lootentry[i].zone+'</td><td>' +
 					json.loothistory.lootentry[i].boss+'</td><td>' +
-					json.loothistory.lootentry[i].cost+'</td></tr>')
-					
-					
+					json.loothistory.lootentry[i].cost+'</td></tr>');
 				}
 			}
 			return dkpTable = $('#loothistory').DataTable();
@@ -81,7 +79,7 @@
 <thead>
 <tr><th>Item Name</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
 </thead>
-<tbody id="lootbody"></tbody>
+<tbody></tbody>
 <tfoot>
 <tr><th>Item Name</th><th>Zone</th><th>Boss</th><th>Date</th><th>Cost</th></tr>
 </tfoot>
