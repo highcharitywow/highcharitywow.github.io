@@ -16,12 +16,12 @@
 			dkptable = json.dkptable;
 		});
 		$('#dkptable').DataTable({
-			data: dkptable.dkpentry,
+			ajax: dkptable.dkpentry,
 			columns: [
-				{ title: "Players" },
-				{ title: "DKP" },
-				{ title: "Date"},
-				{ title: "Reason" }
+				{ "data": "Players" },
+				{ "data": "DKP" },
+				{ "data": "Date"},
+				{ "data": "Reason" }
 			]
 		});
 	});
