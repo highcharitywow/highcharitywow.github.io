@@ -37,7 +37,8 @@
 				{ data: 'reason' }
 			],
 			rowCallback: function (nRow, aData, iDisplayIndex) {
-				$('td:eq(0)', nRow).html(aData.playerstring.replace(",", "<br/>"));
+				
+				$('td:eq(0)', nRow).html(aData.playerstring.split(',').join('<br/>'));
 			}
 		});		
 	});	
