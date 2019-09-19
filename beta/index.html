@@ -12,9 +12,11 @@
 <script type="text/javascript">
 	$(document).ready(function() {
 		var dkptable = [];
-		
+		getDKP().done(function(json) {
+			dkptable = json;
+		});
 		$('#dkptable').DataTable({
-			data: getDKP().dkpentry,
+			data: dkptable,
 			columns: [
 				{ title: "Players" },
 				{ title: "DKP" },
@@ -26,12 +28,7 @@
 	
 	function getDKP(){
 		return $.getJSON('dkptable.json');
-	}
-	
-	getDKP().done(function(json) {
-		dkptable = json;
-	});
-	
+	}	
 </script>
 <body>
 
