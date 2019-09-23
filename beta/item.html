@@ -37,15 +37,26 @@
 		});
 
 	}
-
+	let getJsonFromUrl =function(url) {
+	  if(!url) url = location.search;
+	  let query = url.substr(1);
+	  let result = {};
+	  query.split("&").forEach(function(part) {
+	    let item = part.split("=");
+	    result[item[0]] = decodeURIComponent(item[1]);
+	  });
+	  return result;
+	}
 	$(document).ready(function() {
-		//id = playername
-		var url = new URL(window.location.href);
-		var id = url.searchParams.get('id');
-		$('#itemName').data('wowhead','item='+id+'&domain=classic');
-		var loothistory = getLootHistory(id);
-		var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};		
-		
+		//id = itemid
+		var urlParams = getJsonFromUrl();
+		var id = urlParams.id || null;
+		if(id){
+			//just assuming this works, not much value to an error fallback - people can just let us know directly
+			$('#itemName').attr('wowhead','item='+id+'&domain=classic');
+			var loothistory = getLootHistory(id);
+			var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};		
+		}			
 	});	
 </script>
 <body>
