@@ -7,7 +7,6 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<script src="https://momentjs.com/downloads/moment.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
-	<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
 	<script src="https://wow.zamimg.com/widgets/power.js"></script>
 </head>
 <script type="text/javascript">
@@ -30,8 +29,7 @@
 					rowCallback: function (nRow, aData, iDisplayIndex) {
 					
 					$('td:eq(0)', nRow).html('<a href="/beta/player.html?id='+
-					aData.player+'>'+
-					aData.player+'</a>');
+					aData.player+'>'+aData.player+'</a>');
 				}
 			});
 		});
@@ -42,14 +40,15 @@
 		//id = playername
 		var url = new URL(window.location.href);
 		var id = url.searchParams.get('id');
-		$('.playerName').data('wowhead','item='+id+'&domain=classic');
-		var loothistory = getLootHistory(id);		
+		$('.itemName').data('wowhead','item='+id+'&domain=classic');
+		var loothistory = getLootHistory(id);
+		var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};		
 		
 	});	
 </script>
 <body>
 
-<h4>Item History for <span class="itemName"></span></h4>
+<h4>Item History for <a href="#" class="itemName"></a></h4>
 <table id="itemHistory" class="display" style="width:100%">
 <thead>
 <tr><th>Player</th><th>Timestamp</th><th>Cost</th></tr>
