@@ -42,7 +42,7 @@
 		//id = playername
 		var url = new URL(window.location.href);
 		var id = url.searchParams.get('id');
-		$('.itemName').data('wowhead','item='+id+'&domain=classic');
+		$('#itemName').data('wowhead','item='+id+'&domain=classic');
 		var loothistory = getLootHistory(id);
 		var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};		
 		
@@ -50,7 +50,7 @@
 </script>
 <body>
 
-<h4>Item History for <a href="#" class="itemName"></a></h4>
+<h4>Item History for <a href="#" id="itemName"></a></h4>
 <table id="itemHistory" class="display" style="width:100%">
 <thead>
 <tr><th>Player</th><th>Boss</th><th>Zone</th><th>Timestamp</th><th>Cost</th></tr>
