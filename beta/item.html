@@ -7,6 +7,7 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<script src="https://momentjs.com/downloads/moment.min.js"></script>
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+	<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};		</script>
 	<script src="https://wow.zamimg.com/widgets/power.js"></script>
 </head>
 <script type="text/javascript">
@@ -30,14 +31,13 @@
 				],
 					rowCallback: function (nRow, aData, iDisplayIndex) {
 					
-					$('td:eq(0)', nRow).html('<a href="/beta/player.html?id='+
-					aData.player+'">'+aData.player+'</a>');
+					$('td:eq(0)', nRow).html('<a href="/beta/player.html?id='+aData.player+'">'+aData.player+'</a>');
 				}
 			});
 		});
 
 	}
-	let getJsonFromUrl =function(url) {
+	let getJsonFromUrl = function(url) {
 	  if(!url) url = location.search;
 	  let query = url.substr(1);
 	  let result = {};
@@ -53,15 +53,15 @@
 		var id = urlParams.id || null;
 		if(id){
 			//just assuming this works, not much value to an error fallback - people can just let us know directly
-			$('#itemName').attr('wowhead','item='+id+'&domain=classic');
+			$('#itemName').html('<a href="" data-wowhead="id=' + id + '&domain=classic">' + id +'</a>');
 			var loothistory = getLootHistory(id);
-			var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};		
+			
 		}			
 	});	
 </script>
 <body>
 
-<h4>Item History for <a href="#" id="itemName"></a></h4>
+<h4><span>Item History for </span><span id="itemName"></span></h4>
 <table id="itemHistory" class="display" style="width:100%">
 <thead>
 <tr><th>Player</th><th>Boss</th><th>Zone</th><th>Timestamp</th><th>Cost</th></tr>
