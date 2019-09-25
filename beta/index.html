@@ -63,7 +63,7 @@
 				order: [[4, 'desc']],
 				rowCallback: function (nRow, aData, iDisplayIndex) {
 					var action = moment.unix(aData.timestamp);
-					$('td:eq(0)', nRow).html('<a href="player.html?id=' + aData.player + '">'+aData.player+'</a>');
+					$('td:eq(0)', nRow).html('<a href="dkpplayer.html?id=' + aData.player + '">'+aData.player+'</a>');
 					$('td:eq(1)', nRow).html('<a href="dkpitem.html?id=' + aData.itemnumber + '">'+aData.itemname+'</a>');
 					$('td:eq(4)', nRow).html( action.format('YYYY-MM-DD HH:mm:ss') + ' (' + action.format('LLL') +')');
 				}
