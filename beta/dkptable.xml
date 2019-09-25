@@ -1,296 +1,324 @@
 <dkptable>
     <dkpentry>
         <player>Aitadis</player>
-        <class>Warrior</class>
-        <dkp>165</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>10</lifetimespent>
+        <class>WARRIOR</class>
+        <dkp>214</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>30</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Allmight</player>
-        <class>Warrior</class>
-        <dkp>115</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-60</lifetimespent>
+        <class>WARRIOR</class>
+        <dkp>168</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-81</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Atatat</player>
-        <class>Priest</class>
-        <dkp>134</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>41</lifetimespent>
+        <class>PRIEST</class>
+        <dkp>184</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>19</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Bhadbharbie</player>
-        <class>Druid</class>
-        <dkp>145</dkp>
-        <lifetimegained>210</lifetimegained>
-        <lifetimespent>5</lifetimespent>
-    </dkpentry>
-    <dkpentry>
-        <player>Bobo</player>
-        <class>Priest</class>
-        <dkp>0</dkp>
-        <lifetimegained>0</lifetimegained>
+        <class>DRUID</class>
+        <dkp>211</dkp>
+        <lifetimegained>295</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Boosh</player>
-        <class>Warrior</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>WARRIOR</class>
+        <dkp>238</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>5</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Bruggs</player>
-        <class>Mage</class>
-        <dkp>137</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-38</lifetimespent>
+        <class>MAGE</class>
+        <dkp>160</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-86</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Cathoray</player>
-        <class>Mage</class>
-        <dkp>152</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-23</lifetimespent>
+        <class>MAGE</class>
+        <dkp>186</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-59</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Collim</player>
-        <class>Mage</class>
-        <dkp>137</dkp>
-        <lifetimegained>175</lifetimegained>
-        <lifetimespent>-38</lifetimespent>
+        <class>MAGE</class>
+        <dkp>195</dkp>
+        <lifetimegained>260</lifetimegained>
+        <lifetimespent>-51</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Contra</player>
-        <class>Priest</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
+        <class>PRIEST</class>
+        <dkp>243</dkp>
+        <lifetimegained>320</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Darnac</player>
-        <class>Paladin</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>PALADIN</class>
+        <dkp>226</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-17</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Droke</player>
-        <class>Warrior</class>
-        <dkp>170</dkp>
+        <class>WARRIOR</class>
+        <dkp>153</dkp>
         <lifetimegained>235</lifetimegained>
         <lifetimespent>5</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Fook</player>
-        <class>Warlock</class>
-        <dkp>154</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-19</lifetimespent>
+        <class>WARLOCK</class>
+        <dkp>218</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-25</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Gumz</player>
-        <class>Mage</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>MAGE</class>
+        <dkp>85</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-158</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Helga</player>
-        <class>Priest</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>PRIEST</class>
+        <dkp>173</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-70</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Holty</player>
-        <class>Priest</class>
-        <dkp>150</dkp>
-        <lifetimegained>210</lifetimegained>
+        <class>PRIEST</class>
+        <dkp>220</dkp>
+        <lifetimegained>295</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Jaderade</player>
-        <class>Paladin</class>
-        <dkp>115</dkp>
+        <class>PALADIN</class>
+        <dkp>104</dkp>
         <lifetimegained>175</lifetimegained>
         <lifetimespent>60</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Klue</player>
-        <class>Warrior</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>WARRIOR</class>
+        <dkp>238</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>5</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Kregore</player>
-        <class>Priest</class>
-        <dkp>175</dkp>
-        <lifetimegained>175</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>PRIEST</class>
+        <dkp>213</dkp>
+        <lifetimegained>260</lifetimegained>
+        <lifetimespent>-30</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Limecat</player>
-        <class>Rogue</class>
-        <dkp>171</dkp>
-        <lifetimegained>175</lifetimegained>
-        <lifetimespent>-4</lifetimespent>
+        <class>ROGUE</class>
+        <dkp>228</dkp>
+        <lifetimegained>260</lifetimegained>
+        <lifetimespent>-15</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Lobsterkite</player>
-        <class>Warlock</class>
-        <dkp>173</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-2</lifetimespent>
+        <class>WARLOCK</class>
+        <dkp>200</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-43</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Maximusanew</player>
-        <class>Druid</class>
-        <dkp>161</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-14</lifetimespent>
+        <class>DRUID</class>
+        <dkp>225</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-19</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Mindy</player>
-        <class>Priest</class>
-        <dkp>25</dkp>
-        <lifetimegained>235</lifetimegained>
+        <class>PRIEST</class>
+        <dkp>108</dkp>
+        <lifetimegained>320</lifetimegained>
         <lifetimespent>150</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Mortalstrike</player>
-        <class>Warrior</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>WARRIOR</class>
+        <dkp>238</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>5</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Nether</player>
-        <class>Mage</class>
-        <dkp>25</dkp>
-        <lifetimegained>25</lifetimegained>
+        <class>MAGE</class>
+        <dkp>108</dkp>
+        <lifetimegained>110</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Pontifex</player>
-        <class>Paladin</class>
-        <dkp>123</dkp>
-        <lifetimegained>175</lifetimegained>
+        <class>PALADIN</class>
+        <dkp>196</dkp>
+        <lifetimegained>260</lifetimegained>
         <lifetimespent>-52</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Pyrocy</player>
-        <class>Mage</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>MAGE</class>
+        <dkp>75</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-168</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Renegade</player>
-        <class>Hunter</class>
-        <dkp>169</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-554</lifetimespent>
+        <class>HUNTER</class>
+        <dkp>237</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-634</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Rhav</player>
-        <class>Warrior</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>WARRIOR</class>
+        <dkp>95</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-148</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Shunsui</player>
-        <class>Hunter</class>
-        <dkp>25</dkp>
-        <lifetimegained>25</lifetimegained>
+        <class>HUNTER</class>
+        <dkp>108</dkp>
+        <lifetimegained>110</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Silverbug</player>
-        <class>Druid</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>DRUID</class>
+        <dkp>167</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-76</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Skadi</player>
-        <class>Mage</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
+        <class>MAGE</class>
+        <dkp>243</dkp>
+        <lifetimegained>320</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Spox</player>
-        <class>Hunter</class>
-        <dkp>131</dkp>
+        <class>HUNTER</class>
+        <dkp>118</dkp>
         <lifetimegained>235</lifetimegained>
         <lifetimespent>-44</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Ternestevon</player>
-        <class>Warlock</class>
-        <dkp>25</dkp>
-        <lifetimegained>25</lifetimegained>
-        <lifetimespent>0</lifetimespent>
+        <class>WARLOCK</class>
+        <dkp>103</dkp>
+        <lifetimegained>110</lifetimegained>
+        <lifetimespent>-5</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Thicchick</player>
-        <class>Mage</class>
-        <dkp>115</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-60</lifetimespent>
+        <class>MAGE</class>
+        <dkp>125</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-124</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Timmy</player>
-        <class>Hunter</class>
-        <dkp>114</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-59</lifetimespent>
+        <class>HUNTER</class>
+        <dkp>172</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-75</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Tripn</player>
-        <class>Warrior</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
+        <class>WARRIOR</class>
+        <dkp>243</dkp>
+        <lifetimegained>320</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Tvirus</player>
-        <class>Paladin</class>
-        <dkp>169</dkp>
-        <lifetimegained>235</lifetimegained>
+        <class>PALADIN</class>
+        <dkp>237</dkp>
+        <lifetimegained>320</lifetimegained>
         <lifetimespent>-6</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Ventris</player>
-        <class>Priest</class>
-        <dkp>175</dkp>
-        <lifetimegained>235</lifetimegained>
+        <class>PRIEST</class>
+        <dkp>243</dkp>
+        <lifetimegained>320</lifetimegained>
         <lifetimespent>0</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Warukyure</player>
-        <class>Druid</class>
-        <dkp>115</dkp>
-        <lifetimegained>235</lifetimegained>
-        <lifetimespent>-60</lifetimespent>
+        <class>DRUID</class>
+        <dkp>184</dkp>
+        <lifetimegained>320</lifetimegained>
+        <lifetimespent>-65</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Wepskill</player>
-        <class>Rogue</class>
-        <dkp>173</dkp>
-        <lifetimegained>235</lifetimegained>
+        <class>ROGUE</class>
+        <dkp>241</dkp>
+        <lifetimegained>320</lifetimegained>
         <lifetimespent>-2</lifetimespent>
     </dkpentry>
     <dkpentry>
         <player>Whiteranger</player>
-        <class>Paladin</class>
-        <dkp>114</dkp>
+        <class>PALADIN</class>
+        <dkp>103</dkp>
         <lifetimegained>235</lifetimegained>
         <lifetimespent>-61</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Catboy</player>
+        <class>DRUID</class>
+        <dkp>85</dkp>
+        <lifetimegained>85</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Klade</player>
+        <class>ROGUE</class>
+        <dkp>49</dkp>
+        <lifetimegained>85</lifetimegained>
+        <lifetimespent>-26</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Disturbed</player>
+        <class>WARRIOR</class>
+        <dkp>85</dkp>
+        <lifetimegained>85</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Barakof</player>
+        <class>ROGUE</class>
+        <dkp>60</dkp>
+        <lifetimegained>60</lifetimegained>
+        <lifetimespent>0</lifetimespent>
+    </dkpentry>
+    <dkpentry>
+        <player>Slicemaster</player>
+        <class>WARRIOR</class>
+        <dkp>85</dkp>
+        <lifetimegained>85</lifetimegained>
+        <lifetimespent>0</lifetimespent>
     </dkpentry>
 </dkptable>
