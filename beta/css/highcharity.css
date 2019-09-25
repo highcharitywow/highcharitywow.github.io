@@ -1,12 +1,12 @@
 html { background-color: #000; };
-.warrior { image-background: "https://wow.zamimg.com/images/wow/icons/large/classicon_warrior.jpg"; height: 24px; width: 24px; }
-.paladin { image-background: "https://wow.zamimg.com/images/wow/icons/large/classicon_paladin.jpg"; height: 24px; width: 24px; }
-.hunter { image-background: "https://wow.zamimg.com/images/wow/icons/large/classicon_hunter.jpg"; height: 24px; width: 24px; }
-.druid { image-background: "https://wow.zamimg.com/images/wow/icons/large/classicon_druid.jpg"; height: 24px; width: 24px; }
-.rogue { image-background: "https://wow.zamimg.com/images/wow/icons/large/classicon_rogue.jpg"; height: 24px; width: 24px; }
-.priest { image-background: "https://wow.zamimg.com/images/wow/icons/large/classicon_priest.jpg"; height: 24px; width: 24px; }
-.warlock { image-background: "https://wow.zamimg.com/images/wow/icons/large/classicon_warlock.jpg"; height: 24px; width: 24px; }
-.mage { image-background: "https://wow.zamimg.com/images/wow/icons/large/classicon_mage.jpg"; height: 24px; width: 24px; }
+.warrior { background-image: url("https://wow.zamimg.com/images/wow/icons/large/classicon_warrior.jpg"); height: 24px; width: 24px; }
+.paladin { background-image: url("https://wow.zamimg.com/images/wow/icons/large/classicon_paladin.jpg"); height: 24px; width: 24px; }
+.hunter { background-image: url("https://wow.zamimg.com/images/wow/icons/large/classicon_hunter.jpg"); height: 24px; width: 24px; }
+.druid { background-image: url("https://wow.zamimg.com/images/wow/icons/large/classicon_druid.jpg"); height: 24px; width: 24px; }
+.rogue { background-image: url("https://wow.zamimg.com/images/wow/icons/large/classicon_rogue.jpg"); height: 24px; width: 24px; }
+.priest { background-image: url("https://wow.zamimg.com/images/wow/icons/large/classicon_priest.jpg"); height: 24px; width: 24px; }
+.warlock { background-image: url("https://wow.zamimg.com/images/wow/icons/large/classicon_warlock.jpg"); height: 24px; width: 24px; }
+.mage { background-image: url("https://wow.zamimg.com/images/wow/icons/large/classicon_mage.jpg"); height: 24px; width: 24px; }
 
 .divTable{ display: table; float: left; margin: 10px 10px; }
 .divTableRow { display: table-row; background-color: #000}
