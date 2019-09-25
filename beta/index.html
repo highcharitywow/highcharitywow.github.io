@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>Home - High Charity DKP (Classic WoW Incendius)</title>
+		<link rel="stylesheet" href="css/highcharity.css">
 		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 		<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
 		<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
@@ -23,7 +24,8 @@
 					{ data: 'dkp' }
 				],
 				rowCallback: function (nRow, aData, iDisplayIndex) {
-					$('td:eq(0)', nRow).html('<a href="/beta/player.html?id=' + aData.player + '">'+aData.player+'</a>');
+					$('td:eq(0)', nRow).html('<a href="dkpplayer.html?id=' + aData.player + '">'+aData.player+'</a>');
+					$('td:eq(1)', nRow).class(aData.class.toLower());
 				}
 			});
 			var historyTable = $('#dkphistory').DataTable({
@@ -59,8 +61,8 @@
 				],
 				order: [[4, "desc"]],
 				rowCallback: function (nRow, aData, iDisplayIndex) {
-					$('td:eq(0)', nRow).html('<a href="/beta/player.html?id=' + aData.player + '">'+aData.player+'</a>');
-					$('td:eq(1)', nRow).html('<a href="/beta/item.html?id=' + aData.itemnumber + '">'+aData.itemname+'</a>');
+					$('td:eq(0)', nRow).html('<a href="player.html?id=' + aData.player + '">'+aData.player+'</a>');
+					$('td:eq(1)', nRow).html('<a href="dkpitem.html?id=' + aData.itemnumber + '">'+aData.itemname+'</a>');
 					$('td:eq(4)', nRow).html(moment.unix(aData.timestamp).format('LLL'));
 				}
 			});
