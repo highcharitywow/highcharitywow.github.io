@@ -47,7 +47,12 @@
 		$.getJSON('https://classic.wowhead.com/tooltip/item/' + id, function (json) {
 			var wowhead = json;
 			$('#itemName').html('<a class="icontinyl q4" data-wh-icon-added="true" style="padding-left: 18px !important; background: url(&quot;https://wow.zamimg.com/images/wow/icons/tiny/' + wowhead.icon + '.gif&quot;) left center no-repeat;" data-wowhead="id=' + id + '&domain=classic" class="' + wowhead.icon + '">' + wowhead.name +'</a>');
-			$('#itemPane').append(wowhead.tooltip);
+			$('#itemPane').append(wowhead.tooltip
+				.split('/spell=').join('//classic.wowhead.com/spell=')
+				.split('/item=').join('//classic.wowhead.com/item=')
+				.split('/item-set=').join('//classic.wowhead.com/item-set=')
+				.split('/class=').join('//classic.wowhead.com/class=')
+			);
 		});
 	}	
 
