@@ -9,10 +9,16 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/moment.min.js"></script>
-		<script src="https://wow.zamimg.com/widgets/power.js"></script>
-		<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
 	</head>
 	<script type="text/javascript">
+		let addWH = function(){
+			let head= document.getElementsByTagName('head')[0];
+			let script= document.createElement('script');
+			script.type= 'text/javascript';
+			script.src= 'https://wow.zamimg.com/widgets/power.js';
+			head.appendChild(script);
+			window.whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};
+		}
 		$(document).ready(function() {
 			var dkpTable = $('#dkptable').DataTable({
 				ajax: {
@@ -29,6 +35,7 @@
 					$('td:eq(1)', nRow).html('<img src="https://wow.zamimg.com/images/wow/icons/large/classicon_' +aData.class.toLowerCase()+ '.jpg" height="24" width="24" />');
 				}
 			});
+
 			var historyTable = $('#dkphistory').DataTable({
 				ajax: {
 					url: 'dkphistory.json',
@@ -60,11 +67,12 @@
 					{ data: 'timestamp' },
 					{ data: 'cost' }
 				],
+				initComplete: addWH,
 				order: [[4, 'desc']],
 				rowCallback: function (nRow, aData, iDisplayIndex) {
 					var action = moment.unix(aData.timestamp);
 					$('td:eq(0)', nRow).html('<a href="dkpplayer.html?id=' + aData.player + '">'+aData.player+'</a>');
-					$('td:eq(1)', nRow).html('<a href="dkpitem.html?id=' + aData.itemnumber + '">'+aData.itemname+'</a>');
+					$('td:eq(1)', nRow).html('<a href="dkpitem.html?id=' + aData.itemnumber + '" data-wowhead="item='+aData.itemnumber+'&amp;domain=classic">'+aData.itemname+'</a>');
 					$('td:eq(4)', nRow).html( action.format('YYYY-MM-DD HH:mm:ss') + ' (' + action.format('LLL') +')');
 				}
 			});

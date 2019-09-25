@@ -77,12 +77,12 @@
 	  return result;
 	}
 	let addWH = function(){
-	  let head= document.getElementsByTagName('head')[0];
-      let script= document.createElement('script');
-      script.type= 'text/javascript';
-      script.src= 'https://wow.zamimg.com/widgets/power.js';
-      head.appendChild(script);
-      window.whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};
+		let head= document.getElementsByTagName('head')[0];
+		let script= document.createElement('script');
+		script.type= 'text/javascript';
+		script.src= 'https://wow.zamimg.com/widgets/power.js';
+		head.appendChild(script);
+		window.whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};
 	}
 	$(document).ready(function() {
 		//id = playername
