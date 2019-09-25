@@ -22,7 +22,7 @@
 					{ data: 'dkp' }
 				],
 				rowCallback: function (nRow, aData, iDisplayIndex) {
-					$('td:eq(0)', nRow).html('<a target="_blank" href="/beta/player.html?id=' + aData.player + '">'+aData.player+'</a>');
+					$('td:eq(0)', nRow).html('<a href="/beta/player.html?id=' + aData.player + '">'+aData.player+'</a>');
 				}
 			});
 			var historyTable = $('#dkphistory').DataTable({
@@ -40,7 +40,25 @@
 					
 					$('td:eq(0)', nRow).html(aData.playerstring.split(',').join('<br/>'));
 				}
-			});		
+			});
+			var lootTable = $('#loothistory').DataTable({
+				ajax: {
+					url: 'loothistory.json',
+					dataSrc: 'loothistory.lootentry'
+				},
+				columns: [
+					{ data: 'player' },
+					{ data: 'itemname' },
+					{ data: 'boss' },
+					{ data: 'zone' },
+					{ data: 'timestamp' },
+					{ data: 'cost' }
+				],
+				rowCallback: function (nRow, aData, iDisplayIndex) {
+					$('td:eq(0)', nRow).html('<a href="/beta/player.html?id=' + aData.player + '">'+aData.player+'</a>');
+					$('td:eq(1)', nRow).html('<a href="/beta/item.html?id=' + aData.itemnumber + '">'+aData.itemname+'</a>');
+				}
+			});
 		});	
 	</script>
 	<body>
@@ -88,10 +106,10 @@
 					<div id="lootCollapse" class="panel-collapse collapse">
 						<table id="loothistory" class="display table" style="width:100%">
 							<thead>
-							<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
+							<tr><th>Player</th><th>Item</th><th>Boss</th><th>Zone</th><th>Date</th><th>Cost</th></tr>
 							</thead>
 							<tfoot>
-							<tr><th>Player</th><th>Class</th><th>DKP</th></tr>
+							<tr><th>Player</th><th>Item</th><th>Boss</th><th>Zone</th><th>Date</th><th>Cost</th></tr>
 							</tfoot>
 						</table>
 					</div>
