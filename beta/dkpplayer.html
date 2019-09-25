@@ -9,8 +9,6 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/moment.min.js"></script>
-		<script src="https://wow.zamimg.com/widgets/power.js"></script>
-		<script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
 </head>
 <script type="text/javascript">
 	function getDKPHistory(id) {
@@ -39,7 +37,7 @@
 
 	function getLootHistory(id) {
 		var historyEntries = [];
-		$.getJSON('loothistory.json', function (json) {
+		let addLootHistory = $.getJSON('loothistory.json',function (json) {
 			for (var i = 0; i < json.loothistory.lootentry.length; i++) {
 				if (json.loothistory.lootentry[i].player.indexOf(id) > -1) {
 					var action = moment.unix(json.loothistory.lootentry[i].timestamp);
@@ -66,7 +64,7 @@
 				}
 			});
 		});
-
+		return addLootHistory;
 	}
 	let getJsonFromUrl =function(url) {
 	  if(!url) url = location.search;
@@ -78,6 +76,14 @@
 	  });
 	  return result;
 	}
+	let addWH = function(){
+	  let head= document.getElementsByTagName('head')[0];
+      let script= document.createElement('script');
+      script.type= 'text/javascript';
+      script.src= 'https://wow.zamimg.com/widgets/power.js';
+      head.appendChild(script);
+      window.whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};
+	}
 	$(document).ready(function() {
 		//id = playername
 		var urlParams = getJsonFromUrl();
@@ -86,7 +92,8 @@
 			//just assuming this works, not much value to an error fallback - people can just let us know directly
 			$('.playerName').text(id);
 			var dkphistory = getDKPHistory(id);
-			var loothistory = getLootHistory(id);	
+			var lootHistory = getLootHistory(id);	
+			lootHistory.done(addWH);	
 		}	
 		
 	});	
