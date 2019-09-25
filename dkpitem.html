@@ -18,12 +18,15 @@
 		$.getJSON('loothistory.json', function (json) {
 			for (var i = 0; i < json.loothistory.lootentry.length; i++) {
 				if (json.loothistory.lootentry[i].itemnumber == id) {
-					json.loothistory.lootentry[i].timestamp = moment.unix(json.loothistory.lootentry[i].timestamp).format('LLL');
+
+					var action = moment.unix(json.loothistory.lootentry[i].timestamp);
+					json.loothistory.lootentry[i].timestamp = action.format('YYYY-MM-DD HH:mm:ss') + ' (' + action.format('LLL') +')';
 					historyEntries.push(json.loothistory.lootentry[i]);
 				}
 			}
 			return $('#itemHistory').DataTable({
 				data: historyEntries,
+				order: [[3, "desc"]],
 				columns: [
 					{ data: 'player' },
 					{ data: 'boss' },
@@ -63,25 +66,6 @@
 		var urlParams = getJsonFromUrl();
 		var id = urlParams.id || null;
 		if(id){
-/*
-
-<a href="dkpitem.html?id=18811"
-data-wowhead="item=18811&amp;domain=classic"
-class="icontinyl q4"
-data-wh-icon-added="true"
-style="padding-left: 18px !important; background: url(&quot;https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_18.gif&quot;) left center no-repeat;"
->
-<span>Fireproof Cloak</span></a>
-
-{
-	"name": "Legplates of Wrath",
-	"quality": 4,
-	"icon": "inv_pants_04",
-	"tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Legplates of Wrath</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><br /><!--bo-->Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->749 Armor</span><br><span><!--stat4-->+19 Strength</span><br><span><!--stat7-->+27 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Arcane Resistance<br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 120 / 120<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=13670\" class=\"q2\">Increases your chance to dodge an attack by 2%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18185\" class=\"q2\">Increased Defense +11.</a></span><br /><br /><span class=\"q\"><a href=\"/item-set=218\" class=\"q\">Battlegear of Wrath</a> (0/8)</span><div class=\"q0 indent\"><span><!--si16959--><a href=\"/item=16959\">Bracelets of Wrath</a></span><br /><span><!--si16966--><a href=\"/item=16966\">Breastplate of Wrath</a></span><br /><span><!--si16964--><a href=\"/item=16964\">Gauntlets of Wrath</a></span><br /><span><!--si16963--><a href=\"/item=16963\">Helm of Wrath</a></span><br /><span><!--si16962--><a href=\"/item=16962\">Legplates of Wrath</a></span><br /><span><!--si16961--><a href=\"/item=16961\">Pauldrons of Wrath</a></span><br /><span><!--si16965--><a href=\"/item=16965\">Sabatons of Wrath</a></span><br /><span><!--si16960--><a href=\"/item=16960\">Waistband of Wrath</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=23563\">Increases the attack power granted by Battle Shout by 30.</a></span><br /><span>(5) Set : <a href=\"/spell=21890\">20% chance after using an offensive ability requiring rage that your next offensive ability requires 5 less rage to use.</a></span><br /><span>(8) Set : <a href=\"/spell=23548\">4% chance to parry the next attack after a block.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">52</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ragnaros</div></td></tr></table>"
-}
-*/
-
-
 			//just assuming this works, not much value to an error fallback - people can just let us know directly
 
 			var loothistory = getLootHistory(id);
