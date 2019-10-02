@@ -2,6 +2,54 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Thorsday,",
+        "dkp": "10",
+        "timestamp": "1569987495",
+        "reason": "Other - D/C issues, attended first couple bosses"
+      },
+      {
+        "playerstring": "Ternestevon,Thorsday,",
+        "dkp": "25",
+        "timestamp": "1569987307",
+        "reason": "Other - Bench DKP for Ony"
+      },
+      {
+        "playerstring": "Aitadis,",
+        "dkp": "-100",
+        "timestamp": "1569986120",
+        "reason": "Other - Additional -100 for Bag"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Barakof,Bhadbharbie,Boosh,Bruggs,Bullsatchel,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Fook,Gumz,Helga,Holty,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Thicchick,Timmy,Tripn,Tvirus,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "25",
+        "timestamp": "1569986099",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Bullsatchel,",
+        "dkp": "60",
+        "timestamp": "1569984866",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Barakof,Ternestevon,Disturbed,Perilas,",
+        "dkp": "60",
+        "timestamp": "1569984584",
+        "reason": "Other - Standby DKP - Available via Whisper"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Atatat,Bhadbharbie,Boosh,Bruggs,Cathoray,Collim,Contra,Darnac,Droke,Fook,Gumz,Helga,Holty,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Spox,Thicchick,Timmy,Tripn,Tvirus,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "60",
+        "timestamp": "1569984327",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Boosh,Bruggs,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Fook,Gumz,Helga,Holty,Jaderade,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Timmy,Tripn,Tvirus,Ventris,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "-10%",
+        "timestamp": "1569966843",
+        "reason": "Weekly Decay"
+      },
+      {
         "playerstring": "Klue,Boosh,Mortalstrike,",
         "dkp": "5",
         "timestamp": "1569464801",
