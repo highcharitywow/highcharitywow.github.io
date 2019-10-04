@@ -2,6 +2,87 @@
   "loothistory": {
     "lootentry": [
       {
+        "player": "Shunsui",
+        "itemname": "Mature Black Dragon Sinew",
+        "itemnumber": "18705",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570160296",
+        "cost": "5"
+      },
+      {
+        "player": "Spox",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570070899",
+        "cost": "52"
+      },
+      {
+        "player": "Ventris",
+        "itemname": "Onyxia Hide Backpack",
+        "itemnumber": "17966",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570070807",
+        "cost": "121"
+      },
+      {
+        "player": "Spox",
+        "itemname": "Mature Black Dragon Sinew",
+        "itemnumber": "18705",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570070740",
+        "cost": "5"
+      },
+      {
+        "player": "Wepskill",
+        "itemname": "Bloodfang Hood",
+        "itemnumber": "16908",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570070675",
+        "cost": "5"
+      },
+      {
+        "player": "Limecat",
+        "itemname": "Bloodfang Hood",
+        "itemnumber": "16908",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570070652",
+        "cost": "5"
+      },
+      {
+        "player": "Tripn",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570070637",
+        "cost": "55"
+      },
+      {
+        "player": "Ternestevon",
+        "itemname": "Nemesis Skullcap",
+        "itemnumber": "16929",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570070500",
+        "cost": "5"
+      },
+      {
+        "player": "Thicchick",
+        "itemname": "Sapphiron Drape",
+        "itemnumber": "17078",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570070470",
+        "cost": "80"
+      },
+      {
         "player": "Bhadbharbie",
         "itemname": "Dragon's Blood Cape",
         "itemnumber": "17107",

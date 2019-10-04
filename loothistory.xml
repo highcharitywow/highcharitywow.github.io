@@ -1,5 +1,86 @@
 <loothistory>
     <lootentry>
+        <player>Shunsui</player>
+        <itemname>Mature Black Dragon Sinew</itemname>
+        <itemnumber>18705</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570160296</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Spox</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18423</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570070899</timestamp>
+        <cost>52</cost>
+    </lootentry>
+    <lootentry>
+        <player>Ventris</player>
+        <itemname>Onyxia Hide Backpack</itemname>
+        <itemnumber>17966</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570070807</timestamp>
+        <cost>121</cost>
+    </lootentry>
+    <lootentry>
+        <player>Spox</player>
+        <itemname>Mature Black Dragon Sinew</itemname>
+        <itemnumber>18705</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570070740</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Wepskill</player>
+        <itemname>Bloodfang Hood</itemname>
+        <itemnumber>16908</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570070675</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Limecat</player>
+        <itemname>Bloodfang Hood</itemname>
+        <itemnumber>16908</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570070652</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Tripn</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18423</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570070637</timestamp>
+        <cost>55</cost>
+    </lootentry>
+    <lootentry>
+        <player>Ternestevon</player>
+        <itemname>Nemesis Skullcap</itemname>
+        <itemnumber>16929</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570070500</timestamp>
+        <cost>5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Thicchick</player>
+        <itemname>Sapphiron Drape</itemname>
+        <itemnumber>17078</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1570070470</timestamp>
+        <cost>80</cost>
+    </lootentry>
+    <lootentry>
         <player>Bhadbharbie</player>
         <itemname>Dragon's Blood Cape</itemname>
         <itemnumber>17107</itemnumber>
