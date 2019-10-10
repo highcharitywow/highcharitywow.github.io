@@ -2,6 +2,240 @@
   "loothistory": {
     "lootentry": [
       {
+        "player": "Slicemaster",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570592639",
+        "cost": "57"
+      },
+      {
+        "player": "Renegade",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1570591611",
+        "cost": "84"
+      },
+      {
+        "player": "Nether",
+        "itemname": "Arcanist Belt",
+        "itemnumber": "16802",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1570589229",
+        "cost": "12"
+      },
+      {
+        "player": "Atatat",
+        "itemname": "Robes of Prophecy",
+        "itemnumber": "16815",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1570589146",
+        "cost": "6"
+      },
+      {
+        "player": "Maximusanew",
+        "itemname": "Cenarion Bracers",
+        "itemnumber": "16830",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1570589105",
+        "cost": "5"
+      },
+      {
+        "player": "Fook",
+        "itemname": "Felheart Bracers",
+        "itemnumber": "16804",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1570589048",
+        "cost": "5"
+      },
+      {
+        "player": "Skadi",
+        "itemname": "Band of Sulfuras",
+        "itemnumber": "19138",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1570588858",
+        "cost": "14"
+      },
+      {
+        "player": "Klade",
+        "itemname": "Bloodfang Pants",
+        "itemnumber": "16909",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1570588799",
+        "cost": "37"
+      },
+      {
+        "player": "Contra",
+        "itemname": "The Eye of Divinity",
+        "itemnumber": "18646",
+        "zone": "Molten Core",
+        "boss": "Golemagg the Incinerator",
+        "timestamp": "1570588295",
+        "cost": "50"
+      },
+      {
+        "player": "Whiteranger",
+        "itemname": "Cauterizing Band",
+        "itemnumber": "19140",
+        "zone": "Molten Core",
+        "boss": "Golemagg the Incinerator",
+        "timestamp": "1570588197",
+        "cost": "163"
+      },
+      {
+        "player": "Silverbug",
+        "itemname": "Cenarion Vestments",
+        "itemnumber": "16833",
+        "zone": "Molten Core",
+        "boss": "Golemagg the Incinerator",
+        "timestamp": "1570587902",
+        "cost": "5"
+      },
+      {
+        "player": "Collim",
+        "itemname": "Staff of Dominance",
+        "itemnumber": "18842",
+        "zone": "Molten Core",
+        "boss": "Golemagg the Incinerator",
+        "timestamp": "1570587758",
+        "cost": "101"
+      },
+      {
+        "player": "Collim",
+        "itemname": "Staff of Dominance",
+        "itemnumber": "18842",
+        "zone": "Molten Core",
+        "boss": "Golemagg the Incinerator",
+        "timestamp": "1570587667",
+        "cost": "52"
+      },
+      {
+        "player": "Atatat",
+        "itemname": "Mantle of Prophecy",
+        "itemnumber": "16816",
+        "zone": "Molten Core",
+        "boss": "Sulfuron Harbinger",
+        "timestamp": "1570587167",
+        "cost": "92"
+      },
+      {
+        "player": "Warukyure",
+        "itemname": "Cenarion Gloves",
+        "itemnumber": "16831",
+        "zone": "Molten Core",
+        "boss": "Shazzrah",
+        "timestamp": "1570586498",
+        "cost": "5"
+      },
+      {
+        "player": "Kregore",
+        "itemname": "Boots of Prophecy",
+        "itemnumber": "16811",
+        "zone": "Molten Core",
+        "boss": "Shazzrah",
+        "timestamp": "1570586419",
+        "cost": "70"
+      },
+      {
+        "player": "Slicemaster",
+        "itemname": "Flameguard Gauntlets",
+        "itemnumber": "19143",
+        "zone": "Molten Core",
+        "boss": "Baron Geddon",
+        "timestamp": "1570585805",
+        "cost": "31"
+      },
+      {
+        "player": "Nether",
+        "itemname": "Arcanist Mantle",
+        "itemnumber": "16797",
+        "zone": "Molten Core",
+        "boss": "Baron Geddon",
+        "timestamp": "1570585723",
+        "cost": "7"
+      },
+      {
+        "player": "Kregore",
+        "itemname": "Circlet of Prophecy",
+        "itemnumber": "16813",
+        "zone": "Molten Core",
+        "boss": "Garr",
+        "timestamp": "1570585416",
+        "cost": "5"
+      },
+      {
+        "player": "Whiteranger",
+        "itemname": "Lawbringer Helm",
+        "itemnumber": "16854",
+        "zone": "Molten Core",
+        "boss": "Garr",
+        "timestamp": "1570585339",
+        "cost": "6"
+      },
+      {
+        "player": "Darnac",
+        "itemname": "Aurastone Hammer",
+        "itemnumber": "17105",
+        "zone": "Molten Core",
+        "boss": "Garr",
+        "timestamp": "1570585265",
+        "cost": "164"
+      },
+      {
+        "player": "Contra",
+        "itemname": "Manastorm Leggings",
+        "itemnumber": "18872",
+        "zone": "Molten Core",
+        "boss": "Gehennas",
+        "timestamp": "1570584609",
+        "cost": "5"
+      },
+      {
+        "player": "Barakof",
+        "itemname": "Nightslayer Gloves",
+        "itemnumber": "16826",
+        "zone": "Molten Core",
+        "boss": "Gehennas",
+        "timestamp": "1570584572",
+        "cost": "21"
+      },
+      {
+        "player": "Renegade",
+        "itemname": "Giantstalker's Leggings",
+        "itemnumber": "16847",
+        "zone": "Molten Core",
+        "boss": "Magmadar",
+        "timestamp": "1570584306",
+        "cost": "5"
+      },
+      {
+        "player": "Darnac",
+        "itemname": "Obsidian Edged Blade",
+        "itemnumber": "18822",
+        "zone": "Molten Core",
+        "boss": "Magmadar",
+        "timestamp": "1570584174",
+        "cost": "51"
+      },
+      {
+        "player": "Bruggs",
+        "itemname": "Arcanist Boots",
+        "itemnumber": "16800",
+        "zone": "Molten Core",
+        "boss": "Lucifron",
+        "timestamp": "1570583871",
+        "cost": "69"
+      },
+      {
         "player": "Shunsui",
         "itemname": "Mature Black Dragon Sinew",
         "itemnumber": "18705",

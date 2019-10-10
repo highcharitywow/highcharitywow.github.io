@@ -1,5 +1,41 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Vaganda,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1570595726</timestamp>
+        <reason>Other - wasn't counted for onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Boosh,Wepskill,Skadi,Bhadbharbie,Lobsterkite,Cathoray,Silverbug,Timmy,Mindy,Gumz,Rhav,Pontifex,Allmight,Bruggs,Aitadis,Atatat,Klade,Thorsday,Perilas,Whiteranger,Brokes,Slicemaster,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1570592763</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Maximusanew,Warukyure,Guthix,Renegade,Collim,Ivana,Pyrocy,Nether,Nomis,Tvirus,Darnac,Kalistraza,Kregore,Bobo,Contra,Holty,Limecat,Barakof,Fook,Mortalstrike,Klue,Disturbed,Tripn,Droke,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1570591855</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Brokes,Nomis,Guthix,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1570590067</timestamp>
+        <reason>Other - Standby MC DKP - Whisper Confirm</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Bhadbharbie,Silverbug,Maximusanew,Warukyure,Timmy,Renegade,Gumz,Pyrocy,Collim,Bruggs,Skadi,Cathoray,Nether,Pontifex,Whiteranger,Darnac,Tvirus,Atatat,Holty,Kregore,Contra,Mindy,Perilas,Limecat,Klade,Barakof,Wepskill,Lobsterkite,Fook,Allmight,Boosh,Tripn,Thorsday,Disturbed,Mortalstrike,Klue,Slicemaster,Rhav,Droke,Aitadis,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1570588966</timestamp>
+        <reason>Raid Completion Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Boosh,Bruggs,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tvirus,Ventris,Warukyure,Wepskill,Whiteranger,</playerstring>
+        <dkp>-10%</dkp>
+        <timestamp>1570575077</timestamp>
+        <reason>Weekly Decay</reason>
+    </historyentry>
+    <historyentry>
         <playerstring>Ezra,</playerstring>
         <dkp>25</dkp>
         <timestamp>1570072921</timestamp>

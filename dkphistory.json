@@ -2,6 +2,42 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Vaganda,",
+        "dkp": "25",
+        "timestamp": "1570595726",
+        "reason": "Other - wasn't counted for onyxia"
+      },
+      {
+        "playerstring": "Boosh,Wepskill,Skadi,Bhadbharbie,Lobsterkite,Cathoray,Silverbug,Timmy,Mindy,Gumz,Rhav,Pontifex,Allmight,Bruggs,Aitadis,Atatat,Klade,Thorsday,Perilas,Whiteranger,Brokes,Slicemaster,",
+        "dkp": "25",
+        "timestamp": "1570592763",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Maximusanew,Warukyure,Guthix,Renegade,Collim,Ivana,Pyrocy,Nether,Nomis,Tvirus,Darnac,Kalistraza,Kregore,Bobo,Contra,Holty,Limecat,Barakof,Fook,Mortalstrike,Klue,Disturbed,Tripn,Droke,",
+        "dkp": "25",
+        "timestamp": "1570591855",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Brokes,Nomis,Guthix,",
+        "dkp": "60",
+        "timestamp": "1570590067",
+        "reason": "Other - Standby MC DKP - Whisper Confirm"
+      },
+      {
+        "playerstring": "Bhadbharbie,Silverbug,Maximusanew,Warukyure,Timmy,Renegade,Gumz,Pyrocy,Collim,Bruggs,Skadi,Cathoray,Nether,Pontifex,Whiteranger,Darnac,Tvirus,Atatat,Holty,Kregore,Contra,Mindy,Perilas,Limecat,Klade,Barakof,Wepskill,Lobsterkite,Fook,Allmight,Boosh,Tripn,Thorsday,Disturbed,Mortalstrike,Klue,Slicemaster,Rhav,Droke,Aitadis,",
+        "dkp": "60",
+        "timestamp": "1570588966",
+        "reason": "Raid Completion Bonus"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Boosh,Bruggs,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tvirus,Ventris,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "-10%",
+        "timestamp": "1570575077",
+        "reason": "Weekly Decay"
+      },
+      {
         "playerstring": "Ezra,",
         "dkp": "25",
         "timestamp": "1570072921",
