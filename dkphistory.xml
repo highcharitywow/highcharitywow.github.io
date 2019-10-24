@@ -1,5 +1,47 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Wepskill,Skadi,Mortalstrike,Holty,Lobsterkite,Tripn,Warukyure,Tvirus,Silverbug,Gumz,Limecat,Aitadis,Allmight,Bruggs,Klade,Thorsday,Darnac,Timmy,Barakof,Mindy,Slicemaster,Nomis,Renegade,Thicchick,Boosh,Pontifex,Shunsui,Pyrocy,</playerstring>
+        <dkp>20</dkp>
+        <timestamp>1571884349</timestamp>
+        <reason>Other - Eko Farm</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Mortalstrike,Holty,Tripn,Contra,Warukyure,Fook,Droke,Gumz,Limecat,Disturbed,Barakof,Collim,Rhav,Mindy,Renegade,Nomis,Pontifex,Bubito,Tripper,Pyrocy,Spox,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1571799424</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Maximusanew,Silverbug,Shunsui,Timmy,Skadi,Nether,Bruggs,Thicchick,Tvirus,Darnac,Kregore,Wepskill,Klade,Lobsterkite,Klue,Allmight,Thorsday,Boosh,Slicemaster,Aitadis,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1571799072</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Tripper,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1571797973</timestamp>
+        <reason>Other - Bench DKP Confirm</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Maximusanew,Warukyure,Silverbug,Renegade,Spox,Timmy,Shunsui,Thicchick,Pyrocy,Skadi,Gumz,Nether,Collim,Bruggs,Nomis,Tvirus,Pontifex,Darnac,Holty,Mindy,Contra,Kregore,Wepskill,Bubito,Klade,Barakof,Limecat,Fook,Lobsterkite,Allmight,Boosh,Thorsday,Tripn,Slicemaster,Disturbed,Klue,Mortalstrike,Rhav,Droke,Aitadis,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1571797569</timestamp>
+        <reason>Molten Core: Ragnaros</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Warukyure,Wepskill,Whiteranger,</playerstring>
+        <dkp>-10%</dkp>
+        <timestamp>1571792195</timestamp>
+        <reason>Weekly Decay</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Klue,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1571789635</timestamp>
+        <reason>Other - Standby DKP</reason>
+    </historyentry>
+    <historyentry>
         <playerstring>Warukyure,Bhadbharbie,Silverbug,Maximusanew,Timmy,Renegade,Shunsui,Ivana,Nyer,Thicchick,Collim,Nether,Pyrocy,Gumz,Skadi,Tripper,Nomis,Pontifex,Whiteranger,Tvirus,Darnac,Bobo,Atatat,Mindy,Contra,Holty,Kregore,Wepskill,Limecat,Barakof,Lobsterkite,Tripn,Mortalstrike,Rhav,Slicemaster,Boosh,Droke,Aitadis,</playerstring>
         <dkp>25</dkp>
         <timestamp>1571362454</timestamp>

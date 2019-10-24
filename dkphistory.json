@@ -2,6 +2,48 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Wepskill,Skadi,Mortalstrike,Holty,Lobsterkite,Tripn,Warukyure,Tvirus,Silverbug,Gumz,Limecat,Aitadis,Allmight,Bruggs,Klade,Thorsday,Darnac,Timmy,Barakof,Mindy,Slicemaster,Nomis,Renegade,Thicchick,Boosh,Pontifex,Shunsui,Pyrocy,",
+        "dkp": "20",
+        "timestamp": "1571884349",
+        "reason": "Other - Eko Farm"
+      },
+      {
+        "playerstring": "Mortalstrike,Holty,Tripn,Contra,Warukyure,Fook,Droke,Gumz,Limecat,Disturbed,Barakof,Collim,Rhav,Mindy,Renegade,Nomis,Pontifex,Bubito,Tripper,Pyrocy,Spox,",
+        "dkp": "25",
+        "timestamp": "1571799424",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Maximusanew,Silverbug,Shunsui,Timmy,Skadi,Nether,Bruggs,Thicchick,Tvirus,Darnac,Kregore,Wepskill,Klade,Lobsterkite,Klue,Allmight,Thorsday,Boosh,Slicemaster,Aitadis,",
+        "dkp": "25",
+        "timestamp": "1571799072",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Tripper,",
+        "dkp": "60",
+        "timestamp": "1571797973",
+        "reason": "Other - Bench DKP Confirm"
+      },
+      {
+        "playerstring": "Maximusanew,Warukyure,Silverbug,Renegade,Spox,Timmy,Shunsui,Thicchick,Pyrocy,Skadi,Gumz,Nether,Collim,Bruggs,Nomis,Tvirus,Pontifex,Darnac,Holty,Mindy,Contra,Kregore,Wepskill,Bubito,Klade,Barakof,Limecat,Fook,Lobsterkite,Allmight,Boosh,Thorsday,Tripn,Slicemaster,Disturbed,Klue,Mortalstrike,Rhav,Droke,Aitadis,",
+        "dkp": "60",
+        "timestamp": "1571797569",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "-10%",
+        "timestamp": "1571792195",
+        "reason": "Weekly Decay"
+      },
+      {
+        "playerstring": "Klue,",
+        "dkp": "60",
+        "timestamp": "1571789635",
+        "reason": "Other - Standby DKP"
+      },
+      {
         "playerstring": "Warukyure,Bhadbharbie,Silverbug,Maximusanew,Timmy,Renegade,Shunsui,Ivana,Nyer,Thicchick,Collim,Nether,Pyrocy,Gumz,Skadi,Tripper,Nomis,Pontifex,Whiteranger,Tvirus,Darnac,Bobo,Atatat,Mindy,Contra,Holty,Kregore,Wepskill,Limecat,Barakof,Lobsterkite,Tripn,Mortalstrike,Rhav,Slicemaster,Boosh,Droke,Aitadis,",
         "dkp": "25",
         "timestamp": "1571362454",
