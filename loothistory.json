@@ -3,6 +3,339 @@
     "lootentry": [
       {
         "player": "Aitadis",
+        "itemname": "Helm of Wrath",
+        "itemnumber": "16963",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572406865",
+        "cost": "5"
+      },
+      {
+        "player": "Aitadis",
+        "itemname": "Belt of Might",
+        "itemnumber": "16864",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572406855",
+        "cost": "5"
+      },
+      {
+        "player": "Aitadis",
+        "itemname": "Breastplate of Might",
+        "itemnumber": "16865",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572406847",
+        "cost": "5"
+      },
+      {
+        "player": "Shunsui",
+        "itemname": "Onyxia Hide Backpack",
+        "itemnumber": "17966",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572405852",
+        "cost": "34"
+      },
+      {
+        "player": "Shunsui",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572405755",
+        "cost": "60"
+      },
+      {
+        "player": "Thorsday",
+        "itemname": "Eskhandar's Collar",
+        "itemnumber": "18205",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572405691",
+        "cost": "11"
+      },
+      {
+        "player": "Lopes",
+        "itemname": "Nemesis Skullcap",
+        "itemnumber": "16929",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572405610",
+        "cost": "5"
+      },
+      {
+        "player": "Warukyure",
+        "itemname": "Stormrage Cover",
+        "itemnumber": "16900",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572405575",
+        "cost": "5"
+      },
+      {
+        "player": "Timmy",
+        "itemname": "Onyxia Hide Backpack",
+        "itemnumber": "17966",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572405028",
+        "cost": "151"
+      },
+      {
+        "player": "Bubito",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572404961",
+        "cost": "12"
+      },
+      {
+        "player": "Silverbug",
+        "itemname": "Ancient Cornerstone Grimoire",
+        "itemnumber": "17067",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1572404832",
+        "cost": "51"
+      },
+      {
+        "player": "Lopes",
+        "itemname": "Felheart Belt",
+        "itemnumber": "16806",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572403814",
+        "cost": "5"
+      },
+      {
+        "player": "Bubito",
+        "itemname": "Nightslayer Bracelets",
+        "itemnumber": "16825",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402561",
+        "cost": "5"
+      },
+      {
+        "player": "Holty",
+        "itemname": "Robes of Prophecy",
+        "itemnumber": "16815",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402472",
+        "cost": "5"
+      },
+      {
+        "player": "Holty",
+        "itemname": "Mantle of Prophecy",
+        "itemnumber": "16816",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402422",
+        "cost": "8"
+      },
+      {
+        "player": "Nomis",
+        "itemname": "Lawbringer Gauntlets",
+        "itemnumber": "16860",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402372",
+        "cost": "6"
+      },
+      {
+        "player": "Lobsterkite",
+        "itemname": "Felheart Gloves",
+        "itemnumber": "16805",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402320",
+        "cost": "5"
+      },
+      {
+        "player": "Renegade",
+        "itemname": "Giantstalker's Helmet",
+        "itemnumber": "16846",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402288",
+        "cost": "5"
+      },
+      {
+        "player": "Warukyure",
+        "itemname": "Cenarion Leggings",
+        "itemnumber": "16835",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402229",
+        "cost": "6"
+      },
+      {
+        "player": "Lopes",
+        "itemname": "Felheart Slippers",
+        "itemnumber": "16803",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402169",
+        "cost": "5"
+      },
+      {
+        "player": "Gumz",
+        "itemname": "Arcanist Gloves",
+        "itemnumber": "16801",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402105",
+        "cost": "52"
+      },
+      {
+        "player": "Nomis",
+        "itemname": "Lawbringer Spaulders",
+        "itemnumber": "16856",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402050",
+        "cost": "6"
+      },
+      {
+        "player": "Timmy",
+        "itemname": "Dragonstalker's Legguards",
+        "itemnumber": "16938",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572402001",
+        "cost": "5"
+      },
+      {
+        "player": "Droke",
+        "itemname": "Cloak of the Shrouded Mists",
+        "itemnumber": "17102",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401963",
+        "cost": "61"
+      },
+      {
+        "player": "Wepskill",
+        "itemname": "Bloodfang Pants",
+        "itemnumber": "16909",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401908",
+        "cost": "51"
+      },
+      {
+        "player": "Lobsterkite",
+        "itemname": "Felheart Shoulder Pads",
+        "itemnumber": "16807",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401852",
+        "cost": "5"
+      },
+      {
+        "player": "Collim",
+        "itemname": "Gloves of the Hypnotic Flame",
+        "itemnumber": "18808",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401756",
+        "cost": "11"
+      },
+      {
+        "player": "Shunsui",
+        "itemname": "Ancient Petrified Leaf",
+        "itemnumber": "18703",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401690",
+        "cost": "5"
+      },
+      {
+        "player": "Gumz",
+        "itemname": "Choker of Enlightenment",
+        "itemnumber": "17109",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401640",
+        "cost": "41"
+      },
+      {
+        "player": "Boosh",
+        "itemname": "Blastershot Launcher",
+        "itemnumber": "17072",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401572",
+        "cost": "16"
+      },
+      {
+        "player": "Slicemaster",
+        "itemname": "Striker's Mark",
+        "itemnumber": "17069",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401500",
+        "cost": "127"
+      },
+      {
+        "player": "Mindy",
+        "itemname": "Cauterizing Band",
+        "itemnumber": "19140",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401402",
+        "cost": "219"
+      },
+      {
+        "player": "Gumz",
+        "itemname": "Ring of Spell Power",
+        "itemnumber": "19147",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401200",
+        "cost": "327"
+      },
+      {
+        "player": "Klade",
+        "itemname": "Perdition's Blade",
+        "itemnumber": "18816",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401107",
+        "cost": "5"
+      },
+      {
+        "player": "Wepskill",
+        "itemname": "Brutality Blade",
+        "itemnumber": "18832",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572401008",
+        "cost": "403"
+      },
+      {
+        "player": "Darnac",
+        "itemname": "Salamander Scale Pants",
+        "itemnumber": "18875",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572400915",
+        "cost": "76"
+      },
+      {
+        "player": "Skadi",
+        "itemname": "Talisman of Ephemeral Power",
+        "itemnumber": "18820",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1572400790",
+        "cost": "504"
+      },
+      {
+        "player": "Aitadis",
         "itemname": "Head of Onyxia",
         "itemnumber": "18423",
         "zone": "Onyxia's Lair",
@@ -1466,339 +1799,6 @@
         "zone": "Molten Core",
         "boss": "Baron Geddon",
         "timestamp": "1569376777",
-        "cost": "6"
-      },
-      {
-        "player": "Thicchick",
-        "itemname": "Arcanist Crown",
-        "itemnumber": "16795",
-        "zone": "Molten Core",
-        "boss": "Garr",
-        "timestamp": "1569376321",
-        "cost": "57"
-      },
-      {
-        "player": "Allmight",
-        "itemname": "Obsidian Edged Blade",
-        "itemnumber": "18822",
-        "zone": "Molten Core",
-        "boss": "Garr",
-        "timestamp": "1569376262",
-        "cost": "21"
-      },
-      {
-        "player": "Atatat",
-        "itemname": "Pants of Prophecy",
-        "itemnumber": "16814",
-        "zone": "Molten Core",
-        "boss": "Magmadar",
-        "timestamp": "1569374492",
-        "cost": "22"
-      },
-      {
-        "player": "Cathoray",
-        "itemname": "Sorcerous Dagger",
-        "itemnumber": "18878",
-        "zone": "Molten Core",
-        "boss": "Lucifron",
-        "timestamp": "1569374277",
-        "cost": "36"
-      },
-      {
-        "player": "Kregore",
-        "itemname": "Choker of Enlightenment",
-        "itemnumber": "17109",
-        "zone": "Molten Core",
-        "boss": "Lucifron",
-        "timestamp": "1569374222",
-        "cost": "30"
-      },
-      {
-        "player": "Droke",
-        "itemname": "Head of Onyxia",
-        "itemnumber": "18423",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568861813",
-        "cost": "5"
-      },
-      {
-        "player": "Atatat",
-        "itemname": "Onyxia Hide Backpack",
-        "itemnumber": "17966",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568861757",
-        "cost": "41"
-      },
-      {
-        "player": "Timmy",
-        "itemname": "Mature Black Dragon Sinew",
-        "itemnumber": "18705",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568861722",
-        "cost": "1"
-      },
-      {
-        "player": "Fook",
-        "itemname": "Nemesis Skullcap",
-        "itemnumber": "16929",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568861663",
-        "cost": "1"
-      },
-      {
-        "player": "Whiteranger",
-        "itemname": "Ring of Binding",
-        "itemnumber": "18813",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568861647",
-        "cost": "1"
-      },
-      {
-        "player": "Mindy",
-        "itemname": "Halo of Transcendence",
-        "itemnumber": "16921",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568861581",
-        "cost": "150"
-      },
-      {
-        "player": "Aitadis",
-        "itemname": "Legplates of Wrath",
-        "itemnumber": "16962",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568807372",
-        "cost": "5"
-      },
-      {
-        "player": "Jaderade",
-        "itemname": "Eye of Sulfuras",
-        "itemnumber": "17204",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568807278",
-        "cost": "60"
-      },
-      {
-        "player": "Aitadis",
-        "itemname": "Perdition's Blade",
-        "itemnumber": "18816",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568807221",
-        "cost": "5"
-      },
-      {
-        "player": "Renegade",
-        "itemname": "Ancient Petrified Leaf",
-        "itemnumber": "18703",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568807152",
-        "cost": "6"
-      },
-      {
-        "player": "Bhadbharbie",
-        "itemname": "Heavy Dark Iron Ring",
-        "itemnumber": "18879",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568807080",
-        "cost": "5"
-      },
-      {
-        "player": "Timmy",
-        "itemname": "Core Hound Tooth",
-        "itemnumber": "18805",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568782701",
-        "cost": "21"
-      },
-      {
-        "player": "Collim",
-        "itemname": "Netherwind Pants",
-        "itemnumber": "16915",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568782268",
-        "cost": "38"
-      },
-      {
-        "player": "Whiteranger",
-        "itemname": "Malistar's Defender",
-        "itemnumber": "17106",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1568782020",
-        "cost": "19"
-      },
-      {
-        "player": "Warukyure",
-        "itemname": "Cauterizing Band",
-        "itemnumber": "19140",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1568780901",
-        "cost": "60"
-      },
-      {
-        "player": "Fook",
-        "itemname": "Felheart Belt",
-        "itemnumber": "16806",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1568780291",
-        "cost": "2"
-      },
-      {
-        "player": "Maximusanew",
-        "itemname": "Cenarion Belt",
-        "itemnumber": "16828",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1568780241",
-        "cost": "1"
-      },
-      {
-        "player": "Cathoray",
-        "itemname": "Arcanist Bindings",
-        "itemnumber": "16799",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1568780153",
-        "cost": "23"
-      },
-      {
-        "player": "Lobsterkite",
-        "itemname": "Felheart Bracers",
-        "itemnumber": "16804",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1568778067",
-        "cost": "2"
-      },
-      {
-        "player": "Spox",
-        "itemname": "Giantstalker's Breastplate",
-        "itemnumber": "16845",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1568777374",
-        "cost": "22"
-      },
-      {
-        "player": "Limecat",
-        "itemname": "Nightslayer Chestpiece",
-        "itemnumber": "16820",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1568777351",
-        "cost": "3"
-      },
-      {
-        "player": "Bruggs",
-        "itemname": "Staff of Dominance",
-        "itemnumber": "18842",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1568777320",
-        "cost": "38"
-      },
-      {
-        "player": "Spox",
-        "itemname": "Giantstalker's Epaulets",
-        "itemnumber": "16848",
-        "zone": "Molten Core",
-        "boss": "Sulfuron Harbinger",
-        "timestamp": "1568776902",
-        "cost": "22"
-      },
-      {
-        "player": "Wepskill",
-        "itemname": "Nightslayer Boots",
-        "itemnumber": "16824",
-        "zone": "Molten Core",
-        "boss": "Shazzrah",
-        "timestamp": "1568775840",
-        "cost": "2"
-      },
-      {
-        "player": "Maximusanew",
-        "itemname": "Cenarion Gloves",
-        "itemnumber": "16831",
-        "zone": "Molten Core",
-        "boss": "Shazzrah",
-        "timestamp": "1568775764",
-        "cost": "7"
-      },
-      {
-        "player": "Fook",
-        "itemname": "Felheart Shoulder Pads",
-        "itemnumber": "16807",
-        "zone": "Molten Core",
-        "boss": "Baron Geddon",
-        "timestamp": "1568774935",
-        "cost": "9"
-      },
-      {
-        "player": "Maximusanew",
-        "itemname": "Cenarion Spaulders",
-        "itemnumber": "16836",
-        "zone": "Molten Core",
-        "boss": "Baron Geddon",
-        "timestamp": "1568774900",
-        "cost": "6"
-      },
-      {
-        "player": "Timmy",
-        "itemname": "Giantstalker's Helmet",
-        "itemnumber": "16846",
-        "zone": "Molten Core",
-        "boss": "Garr",
-        "timestamp": "1568774261",
-        "cost": "22"
-      },
-      {
-        "player": "Limecat",
-        "itemname": "Nightslayer Cover",
-        "itemnumber": "16821",
-        "zone": "Molten Core",
-        "boss": "Garr",
-        "timestamp": "1568774228",
-        "cost": "1"
-      },
-      {
-        "player": "Allmight",
-        "itemname": "Brutality Blade",
-        "itemnumber": "18832",
-        "zone": "Molten Core",
-        "boss": "Garr",
-        "timestamp": "1568774166",
-        "cost": "60"
-      },
-      {
-        "player": "Whiteranger",
-        "itemname": "Salamander Scale Pants",
-        "itemnumber": "18875",
-        "zone": "Molten Core",
-        "boss": "Gehennas",
-        "timestamp": "1568773193",
-        "cost": "41"
-      },
-      {
-        "player": "Pontifex",
-        "itemname": "Lawbringer Gauntlets",
-        "itemnumber": "16860",
-        "zone": "Molten Core",
-        "boss": "Gehennas",
-        "timestamp": "1568773133",
         "cost": "6"
       }
     ]

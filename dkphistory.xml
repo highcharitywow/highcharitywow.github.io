@@ -1,5 +1,119 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Vinth,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1572405891</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Warukyure,Tvirus,Limecat,Klade,Droke,Thicchick,Kregore,Pontifex,Thorsday,Barakof,Collim,Renegade,Boosh,Wepskill,Shunsui,Spox,Gumz,Mindy,Sheed,Lopes,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1572405875</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Silverbug,Maximusanew,Timmy,Pyrocy,Jatheek,Nether,Bruggs,Skadi,Tripper,Nomis,Whiteranger,Darnac,Holty,Bubito,Lobsterkite,Mortalstrike,Tripn,Rhav,Allmight,Slicemaster,Aitadis,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1572405059</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Silverbug,Warukyure,Maximusanew,Timmy,Renegade,Shunsui,Tripper,Nether,Thicchick,Pyrocy,Jatheek,Skadi,Collim,Gumz,Bruggs,Nomis,Pontifex,Darnac,Whiteranger,Tvirus,Kregore,Mindy,Holty,Barakof,Bubito,Limecat,Wepskill,Klade,Lopes,Lobsterkite,Droke,Boosh,Allmight,Slicemaster,Rhav,Tripn,Mortalstrike,Thorsday,Sheed,Aitadis,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1572402840</timestamp>
+        <reason>Molten Core: Ragnaros</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Jatheek,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Warukyure,Wepskill,Whiteranger,</playerstring>
+        <dkp>-10%</dkp>
+        <timestamp>1572396730</timestamp>
+        <reason>Weekly Decay</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Slicemaster,</playerstring>
+        <dkp>99</dkp>
+        <timestamp>1572396124</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Pontifex,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1572392182</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Timmy,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1572391230</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Lobsterkite,Skadi,Thicchick,Gumz,</playerstring>
+        <dkp>11</dkp>
+        <timestamp>1572391202</timestamp>
+        <reason>Other - DKP Prebis Bonus - Tailoring Chest</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Lobsterkite,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1572390894</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Silverbug,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1572390804</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Klade,Wepskill,Limecat,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1572390798</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Warukyure,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1572390789</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Tvirus,Whiteranger,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1572390784</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Gumz,Skadi,Thicchick,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1572390761</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Allmight,</playerstring>
+        <dkp>99</dkp>
+        <timestamp>1572390596</timestamp>
+        <reason>Other - DKP Prebis Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Jatheek,</playerstring>
+        <dkp>20</dkp>
+        <timestamp>1572349592</timestamp>
+        <reason>Other - Eko Farm - Wasn't in Table at assign</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Pyrocy,Pontifex,Mindy,Warukyure,Holty,Silverbug,Skadi,Darnac,Lobsterkite,Gumz,Nomis,Tvirus,Jatheek,Thicchick,</playerstring>
+        <dkp>10</dkp>
+        <timestamp>1572349500</timestamp>
+        <reason>Other - Eko Farm - Caster Item Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Maximusanew,</playerstring>
+        <dkp>20</dkp>
+        <timestamp>1572349111</timestamp>
+        <reason>Other - Eko Farm - on Mage</reason>
+    </historyentry>
+    <historyentry>
         <playerstring>Wepskill,Skadi,Mortalstrike,Holty,Lobsterkite,Tripn,Warukyure,Tvirus,Silverbug,Gumz,Limecat,Aitadis,Allmight,Bruggs,Klade,Thorsday,Darnac,Timmy,Barakof,Mindy,Slicemaster,Nomis,Renegade,Thicchick,Boosh,Pontifex,Shunsui,Pyrocy,</playerstring>
         <dkp>20</dkp>
         <timestamp>1571884349</timestamp>
