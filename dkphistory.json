@@ -2,6 +2,36 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Silverbug,Maximusanew,Timmy,Skadi,Nether,Gumz,Thicchick,Pontifex,Tvirus,Holty,Wepskill,Ezra,Barakof,Lobsterkite,Tripn,Mortalstrike,Slicemaster,Sheed,Aitadis,",
+        "dkp": "25",
+        "timestamp": "1573011779",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Silverbug,Maximusanew,Warukyure,Plies,Timmy,Renegade,Shunsui,Pyrocy,Gumz,Jatheek,Nether,Tripper,Thicchick,Bruggs,Skadi,Darnac,Tvirus,Pontifex,Nomis,Holty,Kregore,Mindy,Wepskill,Limecat,Barakof,Ezra,Perilas,Klade,Lobsterkite,Lopes,Mortalstrike,Allmight,Tripn,Boosh,Slicemaster,Droke,Thorsday,Rhav,Sheed,Aitadis,",
+        "dkp": "25",
+        "timestamp": "1573011775",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Silverbug,Maximusanew,Warukyure,Plies,Timmy,Renegade,Shunsui,Pyrocy,Gumz,Jatheek,Nether,Tripper,Thicchick,Bruggs,Skadi,Darnac,Tvirus,Pontifex,Nomis,Holty,Kregore,Mindy,Wepskill,Limecat,Barakof,Ezra,Perilas,Klade,Lobsterkite,Lopes,Mortalstrike,Allmight,Tripn,Boosh,Slicemaster,Droke,Thorsday,Rhav,Sheed,Aitadis,",
+        "dkp": "60",
+        "timestamp": "1573009906",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Jatheek,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lopes,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Sheed,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,Plies,",
+        "dkp": "-10%",
+        "timestamp": "1573004996",
+        "reason": "Weekly Decay"
+      },
+      {
+        "playerstring": "Shunsui,",
+        "dkp": "66",
+        "timestamp": "1573004988",
+        "reason": "Other - DKP Bonus"
+      },
+      {
         "playerstring": "Vinth,",
         "dkp": "25",
         "timestamp": "1572405891",

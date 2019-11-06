@@ -1,5 +1,35 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Silverbug,Maximusanew,Timmy,Skadi,Nether,Gumz,Thicchick,Pontifex,Tvirus,Holty,Wepskill,Ezra,Barakof,Lobsterkite,Tripn,Mortalstrike,Slicemaster,Sheed,Aitadis,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1573011779</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Silverbug,Maximusanew,Warukyure,Plies,Timmy,Renegade,Shunsui,Pyrocy,Gumz,Jatheek,Nether,Tripper,Thicchick,Bruggs,Skadi,Darnac,Tvirus,Pontifex,Nomis,Holty,Kregore,Mindy,Wepskill,Limecat,Barakof,Ezra,Perilas,Klade,Lobsterkite,Lopes,Mortalstrike,Allmight,Tripn,Boosh,Slicemaster,Droke,Thorsday,Rhav,Sheed,Aitadis,</playerstring>
+        <dkp>25</dkp>
+        <timestamp>1573011775</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Silverbug,Maximusanew,Warukyure,Plies,Timmy,Renegade,Shunsui,Pyrocy,Gumz,Jatheek,Nether,Tripper,Thicchick,Bruggs,Skadi,Darnac,Tvirus,Pontifex,Nomis,Holty,Kregore,Mindy,Wepskill,Limecat,Barakof,Ezra,Perilas,Klade,Lobsterkite,Lopes,Mortalstrike,Allmight,Tripn,Boosh,Slicemaster,Droke,Thorsday,Rhav,Sheed,Aitadis,</playerstring>
+        <dkp>60</dkp>
+        <timestamp>1573009906</timestamp>
+        <reason>Molten Core: Ragnaros</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Jatheek,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lopes,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Sheed,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,Plies,</playerstring>
+        <dkp>-10%</dkp>
+        <timestamp>1573004996</timestamp>
+        <reason>Weekly Decay</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Shunsui,</playerstring>
+        <dkp>66</dkp>
+        <timestamp>1573004988</timestamp>
+        <reason>Other - DKP Bonus</reason>
+    </historyentry>
+    <historyentry>
         <playerstring>Vinth,</playerstring>
         <dkp>25</dkp>
         <timestamp>1572405891</timestamp>
