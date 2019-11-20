@@ -2,6 +2,42 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Shunsui,Renegade,Spox,Nether,Skadi,Tripper,Jatheek,Rartzina,Darnac,Mindy,Wepskill,Perilas,Klade,Limecat,Lopes,Rhav,Thorsday,Sheed,Droke,Oink,Boosh,",
+        "dkp": "25",
+        "timestamp": "1574222676",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Abub,Maximusanew,Warukyure,Timmy,Plies,Pyrocy,Gumz,Thicchick,Bruggs,Nomis,Pontifex,Contra,Ezra,Barakof,Lobsterkite,Justdotit,Tripn,Mortalstrike,Allmight,Slicemaster,Aitadis,",
+        "dkp": "25",
+        "timestamp": "1574222136",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Plies,Ezra,",
+        "dkp": "60",
+        "timestamp": "1574220619",
+        "reason": "Other - Bench DKP"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Barakof,Boosh,Bruggs,Contra,Darnac,Droke,Gumz,Jatheek,Justdotit,Klade,Limecat,Lobsterkite,Lopes,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Perilas,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Thicchick,Thorsday,Timmy,Tripn,Vinth,Warukyure,Abub,Papapriest,Oink,Tripper,Wepskill,",
+        "dkp": "60",
+        "timestamp": "1574220069",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lopes,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Oink,Perilas,Plies,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "-10%",
+        "timestamp": "1574214557",
+        "reason": "Weekly Decay"
+      },
+      {
+        "playerstring": "Contra,",
+        "dkp": "66",
+        "timestamp": "1574207238",
+        "reason": "Other - DKP Bonus - PreBis"
+      },
+      {
         "playerstring": "Mortalstrike,Tripn,Limecat,Aitadis,Boosh,Darnac,Slicemaster,Lobsterkite,Thorsday,Holty,Whiteranger,Wepskill,Barakof,Skadi,Gumz,Silverbug,Mindy,Perilas,Pontifex,Warukyure,Nomis,Klade,Sheed,Ezra,Allmight,Vinth,",
         "dkp": "11",
         "timestamp": "1574023925",
