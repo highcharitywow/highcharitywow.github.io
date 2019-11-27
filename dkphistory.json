@@ -2,6 +2,66 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Mortalstrike,",
+        "dkp": "25",
+        "timestamp": "1574828442",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Warukyure,Timmy,Shunsui,Nether,Pyrocy,Jatheek,Nomis,Whiteranger,Mindy,Lokisday,Barakof,Lobsterkite,Lopes,Justdotit,Allmight,Slicemaster,Sheed,Boosh,Aitadis,",
+        "dkp": "25",
+        "timestamp": "1574828341",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Abub,Silverbug,Renegade,Spox,Neotokyo,Thicchick,Gumz,Pontifex,Rartzina,Papapriest,Contra,Perilas,Wepskill,Limecat,Klade,Maximusdgoat,Vinth,Thorsday,Droke,Rhav,Oink,",
+        "dkp": "25",
+        "timestamp": "1574827286",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Abub,Warukyure,Silverbug,Shunsui,Renegade,Spox,Timmy,Pyrocy,Jatheek,Gumz,Neotokyo,Thicchick,Nether,Pontifex,Rartzina,Nomis,Whiteranger,Contra,Mindy,Papapriest,Perilas,Klade,Limecat,Barakof,Wepskill,Maximusdgoat,Vinth,Lopes,Justdotit,Lobsterkite,Aitadis,Allmight,Thorsday,Rhav,Slicemaster,Oink,Boosh,Sheed,Droke,Mortalstrike,",
+        "dkp": "60",
+        "timestamp": "1574825141",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Abub,Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Cathoray,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Holty,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lopes,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Plies,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "-10%",
+        "timestamp": "1574819822",
+        "reason": "Weekly Decay"
+      },
+      {
+        "playerstring": "Aitadis,Allmight,Barakof,Contra,Darnac,Gumz,Justdotit,Klade,Limecat,Lobsterkite,Mindy,Mortalstrike,Nomis,Perilas,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Silverbug,Slicemaster,Thicchick,Thorsday,Timmy,Vinth,Warukyure,Abub,Boosh,",
+        "dkp": "11",
+        "timestamp": "1574799066",
+        "reason": "Other - DKP Bonus - DMT"
+      },
+      {
+        "playerstring": "Mindy,",
+        "dkp": "77",
+        "timestamp": "1574620694",
+        "reason": "Other - DKP Bonus - PreBis and Tailorchest"
+      },
+      {
+        "playerstring": "Papapriest,Rartzina,",
+        "dkp": "25",
+        "timestamp": "1574393512",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Abub,Warukyure,Silverbug,Timmy,Shunsui,Renegade,Nether,Jatheek,Bruggs,Gumz,Thicchick,Tripper,Neotokyo,Pontifex,Mindy,Bubito,Perilas,Barakof,Ezra,Wepskill,Limecat,Klade,Lobsterkite,Lopes,Maximusdgoat,Justdotit,Aitadis,Oink,Allmight,Tripn,Boosh,Droke,Slicemaster,Rhav,",
+        "dkp": "25",
+        "timestamp": "1574393494",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Silverbug,",
+        "dkp": "25",
+        "timestamp": "1574392321",
+        "reason": "Other - Ony Nov 19"
+      },
+      {
         "playerstring": "Shunsui,Renegade,Spox,Nether,Skadi,Tripper,Jatheek,Rartzina,Darnac,Mindy,Wepskill,Perilas,Klade,Limecat,Lopes,Rhav,Thorsday,Sheed,Droke,Oink,Boosh,",
         "dkp": "25",
         "timestamp": "1574222676",
