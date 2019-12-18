@@ -2,13 +2,319 @@
   "loothistory": {
     "lootentry": [
       {
+        "player": "Maximusdgoat",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576118958",
+        "cost": "-5"
+      },
+      {
+        "player": "Renegade",
+        "itemname": "Dragonstalker's Helm",
+        "itemnumber": "16939",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576118875",
+        "cost": "-5"
+      },
+      {
+        "player": "Perilas",
+        "itemname": "Eskhandar's Collar",
+        "itemnumber": "18205",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576118858",
+        "cost": "-6"
+      },
+      {
+        "player": "Deevorce",
+        "itemname": "Judgement Crown",
+        "itemnumber": "16955",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576117831",
+        "cost": "-5"
+      },
+      {
+        "player": "Vinth",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576117700",
+        "cost": "-11"
+      },
+      {
+        "player": "Neotokyo",
+        "itemname": "Sapphiron Drape",
+        "itemnumber": "17078",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576117641",
+        "cost": "-32"
+      },
+      {
+        "player": "Barakof",
+        "itemname": "Bloodfang Pants",
+        "itemnumber": "16909",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1576039639",
+        "cost": "5"
+      },
+      {
+        "player": "Nomis",
+        "itemname": "Onyxia Hide Backpack",
+        "itemnumber": "17966",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576039428",
+        "cost": "-51"
+      },
+      {
+        "player": "Whiteranger",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576039363",
+        "cost": "-5"
+      },
+      {
+        "player": "Ezra",
+        "itemname": "Ring of Binding",
+        "itemnumber": "18813",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576039221",
+        "cost": "-5"
+      },
+      {
+        "player": "Warukyure",
+        "itemname": "Onyxia Hide Backpack",
+        "itemnumber": "17966",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576038988",
+        "cost": "-70"
+      },
+      {
+        "player": "Neotokyo",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576038909",
+        "cost": "-7"
+      },
+      {
+        "player": "Vinth",
+        "itemname": "Nemesis Skullcap",
+        "itemnumber": "16929",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1576038781",
+        "cost": "-5"
+      },
+      {
+        "player": "Bruggs",
+        "itemname": "Arcanist Belt",
+        "itemnumber": "16802",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1576037464",
+        "cost": "-5"
+      },
+      {
+        "player": "Maximusdgoat",
+        "itemname": "Felheart Bracers",
+        "itemnumber": "16804",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1576037339",
+        "cost": "-26"
+      },
+      {
+        "player": "Snorton",
+        "itemname": "Judgement Legplates",
+        "itemnumber": "16954",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1576037207",
+        "cost": "-5"
+      },
+      {
+        "player": "Jatheek",
+        "itemname": "Arcanist Belt",
+        "itemnumber": "16802",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1576037177",
+        "cost": "-6"
+      },
+      {
+        "player": "Barakof",
+        "itemname": "Bloodfang Pants",
+        "itemnumber": "16909",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1576037063",
+        "cost": "-5"
+      },
+      {
+        "player": "Darnac",
+        "itemname": "Malistar's Defender",
+        "itemnumber": "17106",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1576036926",
+        "cost": "-61"
+      },
+      {
+        "player": "Ezra",
+        "itemname": "Perdition's Blade",
+        "itemnumber": "18816",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1576036861",
+        "cost": "-249"
+      },
+      {
+        "player": "Pontifex",
+        "itemname": "Wild Growth Spaulders",
+        "itemnumber": "18810",
+        "zone": "Molten Core",
+        "boss": "Majordomo Executus",
+        "timestamp": "1576036426",
+        "cost": "-415"
+      },
+      {
+        "player": "Vypershot",
+        "itemname": "The Eye of Divinity",
+        "itemnumber": "18646",
+        "zone": "Molten Core",
+        "boss": "Majordomo Executus",
+        "timestamp": "1576036365",
+        "cost": "-5"
+      },
+      {
+        "player": "Vinth",
+        "itemname": "Felheart Robes",
+        "itemnumber": "16809",
+        "zone": "Molten Core",
+        "boss": "Golemagg the Incinerator",
+        "timestamp": "1576036084",
+        "cost": "-11"
+      },
+      {
+        "player": "Thicchick",
+        "itemname": "Azuresong Mageblade",
+        "itemnumber": "17103",
+        "zone": "Molten Core",
+        "boss": "Golemagg the Incinerator",
+        "timestamp": "1576035981",
+        "cost": "-110"
+      },
+      {
+        "player": "Klade",
+        "itemname": "Nightslayer Boots",
+        "itemnumber": "16824",
+        "zone": "Molten Core",
+        "boss": "Shazzrah",
+        "timestamp": "1576034960",
+        "cost": "-151"
+      },
+      {
+        "player": "Contra",
+        "itemname": "Seal of the Archmagus",
+        "itemnumber": "17110",
+        "zone": "Molten Core",
+        "boss": "Baron Geddon",
+        "timestamp": "1576034763",
+        "cost": "-7"
+      },
+      {
+        "player": "Contra",
+        "itemname": "Circlet of Prophecy",
+        "itemnumber": "16813",
+        "zone": "Molten Core",
+        "boss": "Garr",
+        "timestamp": "1576034492",
+        "cost": "-5"
+      },
+      {
+        "player": "Droke",
+        "itemname": "Obsidian Edged Blade",
+        "itemnumber": "18822",
+        "zone": "Molten Core",
+        "boss": "Garr",
+        "timestamp": "1576034434",
+        "cost": "-66"
+      },
+      {
+        "player": "Perilas",
+        "itemname": "Nightslayer Gloves",
+        "itemnumber": "16826",
+        "zone": "Molten Core",
+        "boss": "Gehennas",
+        "timestamp": "1576033967",
+        "cost": "-5"
+      },
+      {
+        "player": "Neotokyo",
+        "itemname": "Arcanist Leggings",
+        "itemnumber": "16796",
+        "zone": "Molten Core",
+        "boss": "Magmadar",
+        "timestamp": "1576033821",
+        "cost": "-6"
+      },
+      {
+        "player": "Silverbug",
+        "itemname": "Cenarion Leggings",
+        "itemnumber": "16835",
+        "zone": "Molten Core",
+        "boss": "Magmadar",
+        "timestamp": "1576033765",
+        "cost": "-5"
+      },
+      {
+        "player": "Klue",
+        "itemname": "Obsidian Edged Blade",
+        "itemnumber": "18822",
+        "zone": "Molten Core",
+        "boss": "Magmadar",
+        "timestamp": "1576033711",
+        "cost": "-66"
+      },
+      {
+        "player": "Darnac",
+        "itemname": "Lawbringer Boots",
+        "itemnumber": "16859",
+        "zone": "Molten Core",
+        "boss": "Lucifron",
+        "timestamp": "1576033567",
+        "cost": "-16"
+      },
+      {
+        "player": "Jatheek",
+        "itemname": "Ring of Spell Power",
+        "itemnumber": "19147",
+        "zone": "Molten Core",
+        "boss": "Lucifron",
+        "timestamp": "1576033506",
+        "cost": "-122"
+      },
+      {
         "player": "Snorton",
         "itemname": "Lawbringer Spaulders",
         "itemnumber": "16856",
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1575432258",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Maximusdgoat",
@@ -17,7 +323,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1575431881",
-        "cost": "16"
+        "cost": "-16"
       },
       {
         "player": "Gumz",
@@ -26,7 +332,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1575431814",
-        "cost": "9"
+        "cost": "-9"
       },
       {
         "player": "Mortalstrike",
@@ -35,7 +341,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1575431683",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Tripper",
@@ -44,7 +350,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1575431528",
-        "cost": "76"
+        "cost": "-76"
       },
       {
         "player": "Contra",
@@ -53,16 +359,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1575431508",
-        "cost": "5"
-      },
-      {
-        "player": "Papapriest",
-        "itemname": "Halo of Transcendence",
-        "itemnumber": "16921",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1575431466",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Lobsterkite",
@@ -71,7 +368,16 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1575431466",
-        "cost": "16"
+        "cost": "-16"
+      },
+      {
+        "player": "Papapriest",
+        "itemname": "Halo of Transcendence",
+        "itemnumber": "16921",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1575431466",
+        "cost": "-5"
       },
       {
         "player": "Boosh",
@@ -80,7 +386,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1575431388",
-        "cost": "70"
+        "cost": "-70"
       },
       {
         "player": "Slicemaster",
@@ -89,7 +395,7 @@
         "zone": "Wetlands",
         "boss": "Ragnaros",
         "timestamp": "1575429667",
-        "cost": "151"
+        "cost": "-151"
       },
       {
         "player": "Renegade",
@@ -98,7 +404,7 @@
         "zone": "Ironforge",
         "boss": "Ragnaros",
         "timestamp": "1575429412",
-        "cost": "41"
+        "cost": "-41"
       },
       {
         "player": "Droke",
@@ -107,7 +413,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1575429327",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Limecat",
@@ -116,7 +422,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1575429184",
-        "cost": "231"
+        "cost": "-231"
       },
       {
         "player": "Contra",
@@ -125,7 +431,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1575429050",
-        "cost": "350"
+        "cost": "-350"
       },
       {
         "player": "Spox",
@@ -134,7 +440,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1575428552",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Abub",
@@ -143,7 +449,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1575428477",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Nomis",
@@ -152,7 +458,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1575428260",
-        "cost": "26"
+        "cost": "-26"
       },
       {
         "player": "Barakof",
@@ -161,7 +467,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1575428204",
-        "cost": "159"
+        "cost": "-159"
       },
       {
         "player": "Tripper",
@@ -170,7 +476,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1575428148",
-        "cost": "41"
+        "cost": "-41"
       },
       {
         "player": "Papapriest",
@@ -179,7 +485,7 @@
         "zone": "Molten Core",
         "boss": "Sulfuron Harbinger",
         "timestamp": "1575427945",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Perilas",
@@ -188,7 +494,7 @@
         "zone": "Molten Core",
         "boss": "Sulfuron Harbinger",
         "timestamp": "1575427888",
-        "cost": "174"
+        "cost": "-174"
       },
       {
         "player": "Timmy",
@@ -197,7 +503,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1575427319",
-        "cost": "137"
+        "cost": "-137"
       },
       {
         "player": "Neotokyo",
@@ -206,7 +512,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1575427258",
-        "cost": "70"
+        "cost": "-70"
       },
       {
         "player": "Lopes",
@@ -215,7 +521,7 @@
         "zone": "Molten Core",
         "boss": "Baron Geddon",
         "timestamp": "1575426942",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Ezra",
@@ -224,7 +530,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1575426552",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Oink",
@@ -233,7 +539,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1575426491",
-        "cost": "68"
+        "cost": "-68"
       },
       {
         "player": "Ezra",
@@ -242,7 +548,7 @@
         "zone": "Molten Core",
         "boss": "Gehennas",
         "timestamp": "1575426048",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Tripper",
@@ -251,7 +557,7 @@
         "zone": "Molten Core",
         "boss": "Gehennas",
         "timestamp": "1575425989",
-        "cost": "12"
+        "cost": "-12"
       },
       {
         "player": "Ezra",
@@ -260,7 +566,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1575425590",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Boosh",
@@ -269,7 +575,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1575425535",
-        "cost": "78"
+        "cost": "-78"
       },
       {
         "player": "Tripper",
@@ -278,7 +584,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1575425285",
-        "cost": "61"
+        "cost": "-61"
       },
       {
         "player": "Lokisday",
@@ -287,7 +593,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574828374",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Jatheek",
@@ -296,7 +602,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574828258",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Shunsui",
@@ -305,7 +611,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574828209",
-        "cost": "107"
+        "cost": "-107"
       },
       {
         "player": "Nomis",
@@ -314,7 +620,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574828118",
-        "cost": "64"
+        "cost": "-64"
       },
       {
         "player": "Spox",
@@ -323,7 +629,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574827229",
-        "cost": "101"
+        "cost": "-101"
       },
       {
         "player": "Silverbug",
@@ -332,7 +638,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574827161",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Vinth",
@@ -341,7 +647,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574827039",
-        "cost": "84"
+        "cost": "-84"
       },
       {
         "player": "Nether",
@@ -350,7 +656,7 @@
         "zone": "Dun Morogh",
         "boss": "Ragnaros",
         "timestamp": "1574825289",
-        "cost": "112"
+        "cost": "-112"
       },
       {
         "player": "Mindy",
@@ -359,7 +665,7 @@
         "zone": "Ironforge",
         "boss": "Ragnaros",
         "timestamp": "1574825207",
-        "cost": "62"
+        "cost": "-62"
       },
       {
         "player": "Spox",
@@ -368,7 +674,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574825000",
-        "cost": "56"
+        "cost": "-56"
       },
       {
         "player": "Thicchick",
@@ -377,7 +683,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574824881",
-        "cost": "138"
+        "cost": "-138"
       },
       {
         "player": "Timmy",
@@ -386,7 +692,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574824820",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Neotokyo",
@@ -395,7 +701,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1574824341",
-        "cost": "16"
+        "cost": "-16"
       },
       {
         "player": "Contra",
@@ -404,7 +710,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1574824284",
-        "cost": "66"
+        "cost": "-66"
       },
       {
         "player": "Wepskill",
@@ -413,7 +719,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1574823977",
-        "cost": "251"
+        "cost": "-251"
       },
       {
         "player": "Pyrocy",
@@ -422,7 +728,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1574823917",
-        "cost": "112"
+        "cost": "-112"
       },
       {
         "player": "Mindy",
@@ -431,7 +737,7 @@
         "zone": "Molten Core",
         "boss": "Sulfuron Harbinger",
         "timestamp": "1574823565",
-        "cost": "62"
+        "cost": "-62"
       },
       {
         "player": "Papapriest",
@@ -440,7 +746,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1574822850",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Abub",
@@ -449,7 +755,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1574822795",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Nomis",
@@ -458,7 +764,7 @@
         "zone": "Molten Core",
         "boss": "Baron Geddon",
         "timestamp": "1574822513",
-        "cost": "12"
+        "cost": "-12"
       },
       {
         "player": "Papapriest",
@@ -467,7 +773,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1574822231",
-        "cost": "11"
+        "cost": "-11"
       },
       {
         "player": "Rartzina",
@@ -476,7 +782,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1574822178",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Klade",
@@ -485,7 +791,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1574822114",
-        "cost": "43"
+        "cost": "-43"
       },
       {
         "player": "Abub",
@@ -494,7 +800,7 @@
         "zone": "Molten Core",
         "boss": "Gehennas",
         "timestamp": "1574821617",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Whiteranger",
@@ -503,7 +809,7 @@
         "zone": "Molten Core",
         "boss": "Gehennas",
         "timestamp": "1574821560",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Mindy",
@@ -512,7 +818,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1574821240",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Gumz",
@@ -521,7 +827,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1574821181",
-        "cost": "291"
+        "cost": "-291"
       },
       {
         "player": "Silverbug",
@@ -530,7 +836,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1574820921",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Jatheek",
@@ -539,7 +845,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1574820866",
-        "cost": "9"
+        "cost": "-9"
       },
       {
         "player": "Ezra",
@@ -548,7 +854,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574393289",
-        "cost": "35"
+        "cost": "-35"
       },
       {
         "player": "Jatheek",
@@ -557,7 +863,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574393230",
-        "cost": "125"
+        "cost": "-125"
       },
       {
         "player": "Skadi",
@@ -566,7 +872,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574393173",
-        "cost": "234"
+        "cost": "-234"
       },
       {
         "player": "Warukyure",
@@ -575,7 +881,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574393107",
-        "cost": "81"
+        "cost": "-81"
       },
       {
         "player": "Oink",
@@ -584,7 +890,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574222853",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Droke",
@@ -593,7 +899,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574222633",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Shunsui",
@@ -602,7 +908,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574222591",
-        "cost": "76"
+        "cost": "-76"
       },
       {
         "player": "Nether",
@@ -611,7 +917,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574222474",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Oink",
@@ -620,7 +926,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574222404",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Warukyure",
@@ -629,7 +935,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574222094",
-        "cost": "70"
+        "cost": "-70"
       },
       {
         "player": "Plies",
@@ -638,7 +944,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574221941",
-        "cost": "26"
+        "cost": "-26"
       },
       {
         "player": "Plies",
@@ -647,7 +953,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574221862",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Gumz",
@@ -656,7 +962,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1574221825",
-        "cost": "31"
+        "cost": "-31"
       },
       {
         "player": "Darnac",
@@ -665,7 +971,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574219720",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Jatheek",
@@ -674,7 +980,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574219653",
-        "cost": "82"
+        "cost": "-82"
       },
       {
         "player": "Warukyure",
@@ -683,7 +989,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574219540",
-        "cost": "40"
+        "cost": "-40"
       },
       {
         "player": "Tripn",
@@ -692,7 +998,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574219480",
-        "cost": "327"
+        "cost": "-327"
       },
       {
         "player": "Lopes",
@@ -701,7 +1007,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574219373",
-        "cost": "78"
+        "cost": "-78"
       },
       {
         "player": "Rartzina",
@@ -710,7 +1016,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1574219318",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Droke",
@@ -719,7 +1025,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1574218961",
-        "cost": "76"
+        "cost": "-76"
       },
       {
         "player": "Droke",
@@ -728,7 +1034,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1574218881",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Renegade",
@@ -737,7 +1043,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1574218685",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Lopes",
@@ -746,7 +1052,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1574218542",
-        "cost": "102"
+        "cost": "-102"
       },
       {
         "player": "Shunsui",
@@ -755,7 +1061,7 @@
         "zone": "Molten Core",
         "boss": "Sulfuron Harbinger",
         "timestamp": "1574218155",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Mindy",
@@ -764,7 +1070,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1574217474",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Nether",
@@ -773,7 +1079,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1574217416",
-        "cost": "8"
+        "cost": "-8"
       },
       {
         "player": "Rartzina",
@@ -782,7 +1088,7 @@
         "zone": "Molten Core",
         "boss": "Baron Geddon",
         "timestamp": "1574217233",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Bruggs",
@@ -791,7 +1097,7 @@
         "zone": "Molten Core",
         "boss": "Baron Geddon",
         "timestamp": "1574217173",
-        "cost": "57"
+        "cost": "-57"
       },
       {
         "player": "Maximusanew",
@@ -800,7 +1106,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1574216809",
-        "cost": "12"
+        "cost": "-12"
       },
       {
         "player": "Sheed",
@@ -809,7 +1115,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1574216752",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Darnac",
@@ -818,7 +1124,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1574216690",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Mindy",
@@ -827,7 +1133,7 @@
         "zone": "Molten Core",
         "boss": "Gehennas",
         "timestamp": "1574216344",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Rartzina",
@@ -836,7 +1142,7 @@
         "zone": "Molten Core",
         "boss": "Gehennas",
         "timestamp": "1574216282",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Lobsterkite",
@@ -845,7 +1151,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1574216067",
-        "cost": "301"
+        "cost": "-301"
       },
       {
         "player": "Perilas",
@@ -854,7 +1160,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1574215972",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Bruggs",
@@ -863,7 +1169,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1574215829",
-        "cost": "309"
+        "cost": "-309"
       },
       {
         "player": "Thicchick",
@@ -872,7 +1178,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1574215735",
-        "cost": "26"
+        "cost": "-26"
       },
       {
         "player": "Oink",
@@ -881,7 +1187,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573617296",
-        "cost": "36"
+        "cost": "-36"
       },
       {
         "player": "Contra",
@@ -890,7 +1196,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573617229",
-        "cost": "36"
+        "cost": "-36"
       },
       {
         "player": "Barakof",
@@ -899,7 +1205,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573617156",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Tripper",
@@ -908,7 +1214,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573616720",
-        "cost": "176"
+        "cost": "-176"
       },
       {
         "player": "Rartzina",
@@ -917,7 +1223,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573616651",
-        "cost": "26"
+        "cost": "-26"
       },
       {
         "player": "Perilas",
@@ -926,7 +1232,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573616546",
-        "cost": "16"
+        "cost": "-16"
       },
       {
         "player": "Bruggs",
@@ -935,7 +1241,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573616472",
-        "cost": "151"
+        "cost": "-151"
       },
       {
         "player": "Nomis",
@@ -944,7 +1250,7 @@
         "zone": "Dustwallow Marsh",
         "boss": "Ragnaros",
         "timestamp": "1573615039",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Nomis",
@@ -953,7 +1259,7 @@
         "zone": "Dun Morogh",
         "boss": "Ragnaros",
         "timestamp": "1573614834",
-        "cost": "26"
+        "cost": "-26"
       },
       {
         "player": "Tripper",
@@ -962,7 +1268,7 @@
         "zone": "Dun Morogh",
         "boss": "Ragnaros",
         "timestamp": "1573614772",
-        "cost": "15"
+        "cost": "-15"
       },
       {
         "player": "Droke",
@@ -971,7 +1277,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573614707",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Droke",
@@ -980,7 +1286,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573614697",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Droke",
@@ -989,7 +1295,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573614600",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Holty",
@@ -998,7 +1304,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573614588",
-        "cost": "51"
+        "cost": "-51"
       },
       {
         "player": "Whiteranger",
@@ -1007,7 +1313,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573614532",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Pontifex",
@@ -1016,7 +1322,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573614516",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Rhav",
@@ -1025,7 +1331,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573614449",
-        "cost": "239"
+        "cost": "-239"
       },
       {
         "player": "Silverbug",
@@ -1034,7 +1340,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1573614030",
-        "cost": "321"
+        "cost": "-321"
       },
       {
         "player": "Kregore",
@@ -1043,7 +1349,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1573613972",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Klade",
@@ -1052,7 +1358,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1573613745",
-        "cost": "181"
+        "cost": "-181"
       },
       {
         "player": "Sheed",
@@ -1061,7 +1367,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1573613685",
-        "cost": "8"
+        "cost": "-8"
       },
       {
         "player": "Vinth",
@@ -1070,7 +1376,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1573612873",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Tripper",
@@ -1079,7 +1385,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1573612819",
-        "cost": "14"
+        "cost": "-14"
       },
       {
         "player": "Tripper",
@@ -1088,7 +1394,7 @@
         "zone": "Molten Core",
         "boss": "Baron Geddon",
         "timestamp": "1573612445",
-        "cost": "21"
+        "cost": "-21"
       },
       {
         "player": "Perilas",
@@ -1097,7 +1403,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1573612150",
-        "cost": "7"
+        "cost": "-7"
       },
       {
         "player": "Pontifex",
@@ -1106,7 +1412,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1573612088",
-        "cost": "224"
+        "cost": "-224"
       },
       {
         "player": "Holty",
@@ -1115,7 +1421,7 @@
         "zone": "Molten Core",
         "boss": "Gehennas",
         "timestamp": "1573611605",
-        "cost": "141"
+        "cost": "-141"
       },
       {
         "player": "Renegade",
@@ -1124,7 +1430,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1573611394",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Maximusanew",
@@ -1133,7 +1439,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1573611326",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Tripper",
@@ -1142,7 +1448,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1573611282",
-        "cost": "26"
+        "cost": "-26"
       },
       {
         "player": "Pyrocy",
@@ -1151,7 +1457,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1573611205",
-        "cost": "170"
+        "cost": "-170"
       },
       {
         "player": "Nomis",
@@ -1160,7 +1466,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1573610996",
-        "cost": "51"
+        "cost": "-51"
       },
       {
         "player": "Maximusanew",
@@ -1169,7 +1475,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573100067",
-        "cost": "10"
+        "cost": "-10"
       },
       {
         "player": "Maximusanew",
@@ -1178,7 +1484,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573099980",
-        "cost": "81"
+        "cost": "-81"
       },
       {
         "player": "Klade",
@@ -1187,7 +1493,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573099815",
-        "cost": "33"
+        "cost": "-33"
       },
       {
         "player": "Barakof",
@@ -1196,7 +1502,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573099749",
-        "cost": "7"
+        "cost": "-7"
       },
       {
         "player": "Timmy",
@@ -1205,7 +1511,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573099660",
-        "cost": "151"
+        "cost": "-151"
       },
       {
         "player": "Wepskill",
@@ -1214,7 +1520,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573099500",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Nomis",
@@ -1223,7 +1529,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573099393",
-        "cost": "101"
+        "cost": "-101"
       },
       {
         "player": "Thorsday",
@@ -1232,7 +1538,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573011637",
-        "cost": "46"
+        "cost": "-46"
       },
       {
         "player": "Sheed",
@@ -1241,7 +1547,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573011615",
-        "cost": "13"
+        "cost": "-13"
       },
       {
         "player": "Perilas",
@@ -1250,7 +1556,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573011574",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Kregore",
@@ -1259,7 +1565,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573011554",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Holty",
@@ -1268,7 +1574,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573011524",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Pyrocy",
@@ -1277,7 +1583,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1573011505",
-        "cost": "96"
+        "cost": "-96"
       },
       {
         "player": "Klade",
@@ -1286,7 +1592,7 @@
         "zone": "Ironforge",
         "boss": "Ragnaros",
         "timestamp": "1573009982",
-        "cost": "121"
+        "cost": "-121"
       },
       {
         "player": "Allmight",
@@ -1295,7 +1601,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573009815",
-        "cost": "449"
+        "cost": "-449"
       },
       {
         "player": "Thicchick",
@@ -1304,7 +1610,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573009737",
-        "cost": "301"
+        "cost": "-301"
       },
       {
         "player": "Nomis",
@@ -1313,7 +1619,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573009660",
-        "cost": "11"
+        "cost": "-11"
       },
       {
         "player": "Perilas",
@@ -1322,7 +1628,7 @@
         "zone": "Molten Core",
         "boss": "Ragnaros",
         "timestamp": "1573009603",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Warukyure",
@@ -1331,7 +1637,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1573009239",
-        "cost": "435"
+        "cost": "-435"
       },
       {
         "player": "Skadi",
@@ -1340,7 +1646,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1573009160",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Plies",
@@ -1349,7 +1655,7 @@
         "zone": "Molten Core",
         "boss": "Majordomo Executus",
         "timestamp": "1573009106",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Mindy",
@@ -1358,7 +1664,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1573008969",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Shunsui",
@@ -1367,7 +1673,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1573008916",
-        "cost": "11"
+        "cost": "-11"
       },
       {
         "player": "Lobsterkite",
@@ -1376,7 +1682,7 @@
         "zone": "Molten Core",
         "boss": "Golemagg the Incinerator",
         "timestamp": "1573008856",
-        "cost": "359"
+        "cost": "-359"
       },
       {
         "player": "Barakof",
@@ -1385,7 +1691,7 @@
         "zone": "Molten Core",
         "boss": "Sulfuron Harbinger",
         "timestamp": "1573008566",
-        "cost": "176"
+        "cost": "-176"
       },
       {
         "player": "Holty",
@@ -1394,7 +1700,7 @@
         "zone": "Molten Core",
         "boss": "Shazzrah",
         "timestamp": "1573008001",
-        "cost": "84"
+        "cost": "-84"
       },
       {
         "player": "Jatheek",
@@ -1403,7 +1709,7 @@
         "zone": "Molten Core",
         "boss": "Baron Geddon",
         "timestamp": "1573007846",
-        "cost": "22"
+        "cost": "-22"
       },
       {
         "player": "Tvirus",
@@ -1412,7 +1718,7 @@
         "zone": "Molten Core",
         "boss": "Baron Geddon",
         "timestamp": "1573007785",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Lopes",
@@ -1421,7 +1727,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1573007370",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Nomis",
@@ -1430,7 +1736,7 @@
         "zone": "Molten Core",
         "boss": "Garr",
         "timestamp": "1573007335",
-        "cost": "6"
+        "cost": "-6"
       },
       {
         "player": "Tvirus",
@@ -1439,7 +1745,7 @@
         "zone": "Molten Core",
         "boss": "Gehennas",
         "timestamp": "1573006839",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Aitadis",
@@ -1448,7 +1754,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1573006710",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Thorsday",
@@ -1457,7 +1763,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1573006585",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Thorsday",
@@ -1466,7 +1772,7 @@
         "zone": "Molten Core",
         "boss": "Magmadar",
         "timestamp": "1573006467",
-        "cost": "100"
+        "cost": "-100"
       },
       {
         "player": "Droke",
@@ -1475,7 +1781,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1573006267",
-        "cost": "5"
+        "cost": "-5"
       },
       {
         "player": "Nomis",
@@ -1484,7 +1790,7 @@
         "zone": "Molten Core",
         "boss": "Lucifron",
         "timestamp": "1573006236",
-        "cost": "41"
+        "cost": "-41"
       },
       {
         "player": "Aitadis",
@@ -1493,313 +1799,7 @@
         "zone": "Onyxia's Lair",
         "boss": "Onyxia",
         "timestamp": "1572406865",
-        "cost": "5"
-      },
-      {
-        "player": "Aitadis",
-        "itemname": "Belt of Might",
-        "itemnumber": "16864",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572406855",
-        "cost": "5"
-      },
-      {
-        "player": "Aitadis",
-        "itemname": "Breastplate of Might",
-        "itemnumber": "16865",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572406847",
-        "cost": "5"
-      },
-      {
-        "player": "Shunsui",
-        "itemname": "Onyxia Hide Backpack",
-        "itemnumber": "17966",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572405852",
-        "cost": "34"
-      },
-      {
-        "player": "Shunsui",
-        "itemname": "Head of Onyxia",
-        "itemnumber": "18423",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572405755",
-        "cost": "60"
-      },
-      {
-        "player": "Thorsday",
-        "itemname": "Eskhandar's Collar",
-        "itemnumber": "18205",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572405691",
-        "cost": "11"
-      },
-      {
-        "player": "Lopes",
-        "itemname": "Nemesis Skullcap",
-        "itemnumber": "16929",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572405610",
-        "cost": "5"
-      },
-      {
-        "player": "Warukyure",
-        "itemname": "Stormrage Cover",
-        "itemnumber": "16900",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572405575",
-        "cost": "5"
-      },
-      {
-        "player": "Timmy",
-        "itemname": "Onyxia Hide Backpack",
-        "itemnumber": "17966",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572405028",
-        "cost": "151"
-      },
-      {
-        "player": "Bubito",
-        "itemname": "Head of Onyxia",
-        "itemnumber": "18423",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572404961",
-        "cost": "12"
-      },
-      {
-        "player": "Silverbug",
-        "itemname": "Ancient Cornerstone Grimoire",
-        "itemnumber": "17067",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1572404832",
-        "cost": "51"
-      },
-      {
-        "player": "Lopes",
-        "itemname": "Felheart Belt",
-        "itemnumber": "16806",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572403814",
-        "cost": "5"
-      },
-      {
-        "player": "Bubito",
-        "itemname": "Nightslayer Bracelets",
-        "itemnumber": "16825",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402561",
-        "cost": "5"
-      },
-      {
-        "player": "Holty",
-        "itemname": "Robes of Prophecy",
-        "itemnumber": "16815",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402472",
-        "cost": "5"
-      },
-      {
-        "player": "Holty",
-        "itemname": "Mantle of Prophecy",
-        "itemnumber": "16816",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402422",
-        "cost": "8"
-      },
-      {
-        "player": "Nomis",
-        "itemname": "Lawbringer Gauntlets",
-        "itemnumber": "16860",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402372",
-        "cost": "6"
-      },
-      {
-        "player": "Lobsterkite",
-        "itemname": "Felheart Gloves",
-        "itemnumber": "16805",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402320",
-        "cost": "5"
-      },
-      {
-        "player": "Renegade",
-        "itemname": "Giantstalker's Helmet",
-        "itemnumber": "16846",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402288",
-        "cost": "5"
-      },
-      {
-        "player": "Warukyure",
-        "itemname": "Cenarion Leggings",
-        "itemnumber": "16835",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402229",
-        "cost": "6"
-      },
-      {
-        "player": "Lopes",
-        "itemname": "Felheart Slippers",
-        "itemnumber": "16803",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402169",
-        "cost": "5"
-      },
-      {
-        "player": "Gumz",
-        "itemname": "Arcanist Gloves",
-        "itemnumber": "16801",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402105",
-        "cost": "52"
-      },
-      {
-        "player": "Nomis",
-        "itemname": "Lawbringer Spaulders",
-        "itemnumber": "16856",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402050",
-        "cost": "6"
-      },
-      {
-        "player": "Timmy",
-        "itemname": "Dragonstalker's Legguards",
-        "itemnumber": "16938",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572402001",
-        "cost": "5"
-      },
-      {
-        "player": "Droke",
-        "itemname": "Cloak of the Shrouded Mists",
-        "itemnumber": "17102",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401963",
-        "cost": "61"
-      },
-      {
-        "player": "Wepskill",
-        "itemname": "Bloodfang Pants",
-        "itemnumber": "16909",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401908",
-        "cost": "51"
-      },
-      {
-        "player": "Lobsterkite",
-        "itemname": "Felheart Shoulder Pads",
-        "itemnumber": "16807",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401852",
-        "cost": "5"
-      },
-      {
-        "player": "Collim",
-        "itemname": "Gloves of the Hypnotic Flame",
-        "itemnumber": "18808",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401756",
-        "cost": "11"
-      },
-      {
-        "player": "Shunsui",
-        "itemname": "Ancient Petrified Leaf",
-        "itemnumber": "18703",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401690",
-        "cost": "5"
-      },
-      {
-        "player": "Gumz",
-        "itemname": "Choker of Enlightenment",
-        "itemnumber": "17109",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401640",
-        "cost": "41"
-      },
-      {
-        "player": "Boosh",
-        "itemname": "Blastershot Launcher",
-        "itemnumber": "17072",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401572",
-        "cost": "16"
-      },
-      {
-        "player": "Slicemaster",
-        "itemname": "Striker's Mark",
-        "itemnumber": "17069",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401500",
-        "cost": "127"
-      },
-      {
-        "player": "Mindy",
-        "itemname": "Cauterizing Band",
-        "itemnumber": "19140",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401402",
-        "cost": "219"
-      },
-      {
-        "player": "Gumz",
-        "itemname": "Ring of Spell Power",
-        "itemnumber": "19147",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401200",
-        "cost": "327"
-      },
-      {
-        "player": "Klade",
-        "itemname": "Perdition's Blade",
-        "itemnumber": "18816",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401107",
-        "cost": "5"
-      },
-      {
-        "player": "Wepskill",
-        "itemname": "Brutality Blade",
-        "itemnumber": "18832",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1572401008",
-        "cost": "403"
+        "cost": "-5"
       }
     ]
   }

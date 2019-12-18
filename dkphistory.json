@@ -2,6 +2,102 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Mortalstrike,Thorsday,Rhav,Slicemaster,Droke,Allmight,Boosh,Lopes,Vinth,Maximusdgoat,Lobsterkite,Wepskill,Perilas,Lokisday,Klade,Barakof,Limecat,Ezra,Mindy,Vypershot,Contra,Rartzina,Whiteranger,Darnac,Nomis,Pontifex,Neotokyo,Bruggs,Pyrocy,Gumz,Thicchick,Jatheek,Silverbug,Warukyure,",
+        "dkp": "11",
+        "timestamp": "1576433052",
+        "reason": "Other - DMT DKP Dec 10 2019"
+      },
+      {
+        "playerstring": "Allmight,Boosh,Thorsday,Maximusdgoat,Perilas,Klade,Limecat,Ezra,Contra,Banannaz,Papapriest,Nomis,Darnac,Pontifex,Jatheek,Pyrocy,Gumz,Renegade,Silverbug,",
+        "dkp": "25",
+        "timestamp": "1576119036",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Aitadis,Slicemaster,Mortalstrike,Lobsterkite,Vinth,Lopes,Barakof,Chutzpah,Mindy,Rartzina,Snorton,Deevorce,Whiteranger,Neotokyo,Thicchick,Nether,Timmy,Shunsui,Warukyure,",
+        "dkp": "25",
+        "timestamp": "1576117948",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Aitadis,Boosh,Thorsday,Slicemaster,Allmight,Lobsterkite,Vinth,Barakof,Perilas,Lokisday,Klade,Mindy,Contra,Banannaz,Snorton,Darnac,Pontifex,Tripper,Neotokyo,Pyrocy,Shunsui,Warukyure,",
+        "dkp": "25",
+        "timestamp": "1576039709",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Mortalstrike,",
+        "dkp": "25",
+        "timestamp": "1576039706",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Bruggs,Deevorce,Droke,Ezra,Gumz,Jatheek,Limecat,Lopes,Maximusdgoat,Nomis,Rartzina,Renegade,Rhav,Silverbug,Spox,Thicchick,Timmy,Vypershot,Wepskill,Whiteranger,",
+        "dkp": "25",
+        "timestamp": "1576039690",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Banannaz,",
+        "dkp": "60",
+        "timestamp": "1576037769",
+        "reason": "Other - Standby DKP 2019-12-10"
+      },
+      {
+        "playerstring": "Lokisday,",
+        "dkp": "60",
+        "timestamp": "1576037663",
+        "reason": "Other - Standby DKP 2019-12-10"
+      },
+      {
+        "playerstring": "Aitadis,Mortalstrike,Thorsday,Rhav,Slicemaster,Droke,Allmight,Boosh,Lopes,Vinth,Maximusdgoat,Lobsterkite,Wepskill,Perilas,Lokisday,Klade,Barakof,Limecat,Ezra,Mindy,Vypershot,Contra,Snorton,Rartzina,Whiteranger,Darnac,Nomis,Pontifex,Tripper,Neotokyo,Bruggs,Pyrocy,Gumz,Thicchick,Jatheek,Timmy,Shunsui,Renegade,Silverbug,Warukyure,",
+        "dkp": "60",
+        "timestamp": "1576037526",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Abub,Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Cathoray,Contra,Darnac,Deevorce,Disturbed,Droke,Ezra,Fook,Gumz,Holty,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lokisday,Lopes,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Plies,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Slicemaster,Snorton,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Vypershot,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "-27,-66,-43,-14,-34,-20,-2,-44,-4,-12,-15,-14,-15,-43,-3,-18,-52,-29,-23,-17,-24,-15,-25,-1,-31,-24,-32,-48,-30,-4,-27,-42,-19,-41,-71,-10,-45,-32,-23,-21,-28,-18,-46,-24,-31,-53,-41,-32,-34,-47,-43,-8,-22,-8,-29,-49,-30,-26,-4,-39,-1,-5,-25,-9,-31,-27,-31,-10%",
+        "timestamp": "1576033558",
+        "reason": "Weekly Decay"
+      },
+      {
+        "playerstring": "Mortalstrike,Aitadis,Slicemaster,Boosh,Thorsday,Limecat,Silverbug,Pontifex,Nether,Allmight,Rhav,Mindy,Nomis,Rartzina,Warukyure,Ezra,Thicchick,Lobsterkite,Perilas,Wepskill,Barakof,Abub,Vinth,Pyrocy,Maximusdgoat,",
+        "dkp": "11",
+        "timestamp": "1575937933",
+        "reason": "Other - DMT DKP Bonus 2019-12-03"
+      },
+      {
+        "playerstring": "Jatheek,",
+        "dkp": "60",
+        "timestamp": "1575927783",
+        "reason": "Other - 12/3/19 Bench MC Bench DKP"
+      },
+      {
+        "playerstring": "Neotokyo,Jatheek,",
+        "dkp": "-60",
+        "timestamp": "1575927754",
+        "reason": "Delete Entry"
+      },
+      {
+        "playerstring": "Neotokyo,",
+        "dkp": "60",
+        "timestamp": "1575927695",
+        "reason": "Delete Entry"
+      },
+      {
+        "playerstring": "Neotokyo,",
+        "dkp": "-60",
+        "timestamp": "1575927648",
+        "reason": "Other - Awarded Double MC on 12/3/19 Accidently"
+      },
+      {
+        "playerstring": "Abub,Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Cathoray,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Plies,Pontifex,Pyrocy,Renegade,Rhav,Sheed,Shunsui,Silverbug,Slicemaster,Snorton,Spox,Ternestevon,Thicchick,Timmy,Tripn,Vaganda,Ventris,Vinth,Vypershot,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "1,-24,-24,1,-24,1,1,-24,1,1,1,1,-24,1,1,1,-24,1,-24,1,1,1,1,1,1,1,-24,1,-24,1,1,-24,1,-24,1,6,1,1,-25,-24,1,-24,1,1,-24,-24,-25,-25,1,1,-24,1,1,1,1,-25,1,1,1,-1%",
+        "timestamp": "1575742942",
+        "reason": "Migration Correction"
+      },
+      {
         "playerstring": "Silverbug,Spox,Timmy,Pyrocy,Neotokyo,Gumz,Pontifex,Nomis,Snorton,Vypershot,Contra,Ezra,Barakof,Lobsterkite,Maximusdgoat,Boosh,Allmight,Rhav,Slicemaster,Aitadis,",
         "dkp": "25",
         "timestamp": "1575432730",
@@ -45,7 +141,7 @@
       },
       {
         "playerstring": "Abub,Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Cathoray,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Holty,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lokisday,Lopes,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Plies,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,Vypershot,Snorton,",
-        "dkp": "-10%",
+        "dkp": "-20,-62,-37,-15,-45,-23,-3,-54,-4,-13,-16,-16,-46,-41,-20,-49,-24,-25,-11,-27,-20,-27,-1,-35,-26,-36,-68,-21,-2,-21,-47,-12,-35,-69,-9,-39,-27,-24,-15,-40,-19,-41,-16,-23,-53,-35,-36,-29,-41,-53,-15,-9,-21,-44,-40,-29,-16,-43,-1,-5,-17,-23,-19,-35,0,0,-10%",
         "timestamp": "1575424687",
         "reason": "Weekly Decay"
       },
@@ -81,7 +177,7 @@
       },
       {
         "playerstring": "Abub,Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Cathoray,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Holty,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lopes,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Plies,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "-10%",
+        "dkp": "-12,-59,-30,-17,-39,-25,-3,-49,-5,-15,-18,-17,-48,-46,-23,-44,-26,-28,-34,-30,-13,-20,-1,-33,-29,-40,-65,-13,-14,-52,-3,-43,-66,-3,-45,-28,-17,-9,-34,-22,-35,-19,-16,-49,-28,-29,-33,-36,-49,-25,-9,-29,-40,-34,-32,-18,-48,-1,-6,-17,-15,-38,-28,-10%",
         "timestamp": "1574819822",
         "reason": "Weekly Decay"
       },
@@ -141,7 +237,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lopes,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Oink,Perilas,Plies,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "-10%",
+        "dkp": "-52,-20,-18,-30,-28,-3,-42,-6,-45,-18,-6,-5,-19,-23,-43,-42,-25,-46,-21,-31,-28,-12,-6,-33,-10,-5,-26,-9,-1,-23,-33,-44,-59,-34,-24,-50,-26,-63,-40,-21,-6,-7,-25,-18,-25,-11,-6,-41,-18,-22,-33,-26,-28,-41,-18,-10,-21,-33,-24,-60,-7,-53,-1,-7,-11,-24,-30,-31,-10%",
         "timestamp": "1574214557",
         "reason": "Weekly Decay"
       },
@@ -207,7 +303,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Jatheek,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lopes,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Plies,Pontifex,Pyrocy,Renegade,Rhav,Sheed,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "-10%",
+        "dkp": "-47,-11,-21,-23,-31,-3,-36,-6,-48,-20,-6,-6,-21,-25,-35,-35,-28,-44,-12,-35,-20,-13,-6,-48,-11,-6,-19,-2,-35,-36,-40,-55,-27,-17,-46,-19,-59,-44,-21,-6,-19,-11,-43,-21,-37,-37,-15,-28,-54,-20,-34,-13,-12,-14,-26,-17,-56,-27,-59,-2,-7,-2,-17,-23,-25,-10%",
         "timestamp": "1573610295",
         "reason": "Weekly Decay"
       },
@@ -237,7 +333,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Jatheek,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lopes,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Sheed,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Warukyure,Wepskill,Whiteranger,Plies,",
-        "dkp": "-10%",
+        "dkp": "-40,-50,-23,-34,-34,-4,-27,-7,-41,-19,-7,-7,-24,-25,-39,-27,-31,-39,-2,-38,-10,-15,-7,-51,-12,-6,-11,-2,-43,-40,-36,-49,-58,-7,-49,-9,-53,-40,-29,-7,-10,-35,-22,-29,-29,-9,-20,-48,-11,-26,-12,-13,-37,-34,-24,-50,-20,-54,-2,-8,-3,-55,-14,-28,0,-10%",
         "timestamp": "1573004996",
         "reason": "Weekly Decay"
       },
@@ -273,7 +369,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Jatheek,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "-10%",
+        "dkp": "-37,-46,-25,-28,-38,-4,-23,-8,-36,-13,-8,-7,-26,-20,-43,-29,-34,-41,-2,-43,-48,-16,-8,-48,-14,-7,-3,-2,-39,-45,-30,-45,-56,-45,-25,-50,-35,-24,-8,-11,-30,-15,-23,-23,-16,-50,-59,-34,-11,-14,-32,-29,-34,-46,-13,-51,-2,-9,-52,-57,-21,-10%",
         "timestamp": "1572396730",
         "reason": "Weekly Decay"
       },
@@ -393,7 +489,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Nyer,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "-10%",
+        "dkp": "-30,-29,-28,-25,-43,-5,-17,-9,-29,-6,-9,-8,-29,-13,-38,-20,-31,-38,-2,-39,-32,-18,-9,-42,-15,-8,-2,-25,-40,-24,-40,-41,-39,-15,-45,-33,-14,-9,-13,-33,-17,-15,-34,-26,-37,-44,-17,-2,-16,-14,-21,-26,-39,-5,-37,-2,-10,-38,-44,-16,-10%",
         "timestamp": "1571792195",
         "reason": "Weekly Decay"
       },
@@ -459,7 +555,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Nomis,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tvirus,Vaganda,Ventris,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "-10%",
+        "dkp": "-22,-25,-21,-18,-35,-3,-38,-9,-22,-9,-9,-32,-17,-30,-14,-25,-30,-2,-34,-25,-11,-9,-34,-5,-8,-3,-19,-38,-26,-32,-34,-32,-27,-38,-25,-9,-14,-25,-24,-27,-25,-18,-31,-37,-7,-3,-18,-7,-14,-30,-33,-28,-3,-11,-32,-38,-9,-10%",
         "timestamp": "1571187108",
         "reason": "Weekly Decay"
       },
@@ -495,7 +591,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Boosh,Bruggs,Bullsatchel,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Guthix,Helga,Holty,Ivana,Jaderade,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Perilas,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tvirus,Ventris,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "-10%",
+        "dkp": "-15,-18,-25,-13,-29,-33,-23,-11,-10,-26,-26,-30,-30,-19,-24,-3,-29,-19,-3,-11,-28,-3,-9,-15,-33,-28,-27,-29,-26,-21,-33,-21,-6,-18,-18,-31,-18,-20,-25,-33,-8,-3,-20,-8,-6,-23,-27,-22,-12,-27,-32,-20,-10%",
         "timestamp": "1570575077",
         "reason": "Weekly Decay"
       },
@@ -561,7 +657,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Boosh,Bruggs,Catboy,Cathoray,Collim,Contra,Darnac,Disturbed,Droke,Fook,Gumz,Helga,Holty,Jaderade,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Slicemaster,Spox,Ternestevon,Thicchick,Timmy,Tripn,Tvirus,Ventris,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "-10%",
+        "dkp": "-21,-17,-18,-6,-21,-24,-16,-9,-19,-20,-24,-23,-9,-15,-22,-8,-17,-22,-10,-5,-24,-21,-23,-20,-23,-11,-24,-11,-20,-7,-24,-9,-11,-17,-24,-9,-12,-10,-12,-17,-24,-24,-24,-18,-24,-10,-10%",
         "timestamp": "1569966843",
         "reason": "Weekly Decay"
       },
@@ -603,7 +699,7 @@
       },
       {
         "playerstring": "Aitadis,Allmight,Atatat,Bhadbharbie,Bobo,Boosh,Bruggs,Cathoray,Collim,Contra,Darnac,Droke,Fook,Gumz,Helga,Holty,Jaderade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Mindy,Mortalstrike,Nether,Pontifex,Pyrocy,Renegade,Rhav,Shunsui,Silverbug,Skadi,Spox,Ternestevon,Thicchick,Timmy,Tripn,Tvirus,Ventris,Warukyure,Wepskill,Whiteranger,Catboy,Klade,Disturbed,Barakof,Acliclas,Aim,Arthax,Blabliblu,Bruggss,Bubito,Bullsatchel,Castile,Chaddwick,Deevorce,Delgren,Elucidatorfz,Funtastic,Hawgdriver,Kalistraza,Kurant,Leorah,Metabolics,Mieeps,Nomis,Norther,Nyer,Perkocet,Picklerìck,Plies,Rartzina,Rousseau,Shafter,Sheed,Slicemaster,Slimshadie,Snorton,Spargo,Timspaladin,Tripper,Vaganda,Vypershot,Wxrrior,Ablito,Aegon,Arthurshelby,Ashkandi,Azdhar,Azubi,Banannaz,Bertus,Bjorv,Blank,Brainfog,Break,Breaks,Brokes,Broom,Browning,Cabl,Cadillacjack,Caturix,Charitybank,Charityherbs,Charityrocks,Chillywizzy,Chronar,Cliph,Com,Crankin,Crude,Curiouschris,Doomshop,Droitlent,Drokebank,Drokeherb,Eating,Ezra,Falrossan,Fav,Fearection,Feywild,Finklestine,Flownominal,Foreshadow,Fragment,Freedom,Fushigibox,Fushigicube,Fxckmages,Ganondwarf,Gehaburn,Ghettobank,Gogz,Greatworm,Gushe,Guthix,Holycyka,Honeyryder,Ildar,Iofi,Itkovian,Ivana,Jatheek,Kabl,Kaguyasan,Katyperry,Kloo,Koger,Legionfire,Lightsocket,Limeherbs,Livingcookie,Lokisday,Lopes,Luceron,Lymon,Lôli,Malcuris,Martysmeats,Matryuk,Mavis,Maxxie,Methis,Mondogazunga,Mordenganken,Muffman,Mïkëy,Nackyelf,Namelesshero,Neotokyo,Nillton,Niznog,Noodlebop,Nugget,Oink,Omsin,Ottokar,Perilas,Petfood,Phantrox,Plagueprayer,Polyphemus,Poojoo,Popillion,Ragerx,Raiseshield,Rbig,Realqt,Reván,Ryzin,Rzai,Satanskitty,Scaryterri,Selenagomez,Sevz,Shadowzeek,Skaði,Skitzy,Skykoopa,Snooze,Surn,Teoshen,Teqhealia,Terpenes,Thadeus,Thorsday,Tommytsunami,Trict,Tyrionl,Undergrowth,Vagrant,Vania,Vinth,Vitalis,Weert,Westpanda,Wickk,Williz,Wisgnome,Xanon,Zeusly,Zilongge,",
-        "dkp": "-10%",
+        "dkp": "-17,-12,-13,-15,0,-18,-14,-15,-14,-18,-18,-17,-15,-18,-18,-15,-12,-18,-18,-17,-17,-16,-3,-18,-3,-12,-18,-17,-18,-3,-18,-18,-13,-3,-12,-11,-18,-17,-18,-12,-17,-11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-10%",
         "timestamp": "1569373836",
         "reason": "Weekly Decay"
       },
