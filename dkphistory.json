@@ -2,6 +2,42 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Warukyure,Silverbug,Spox,Renegade,Tripper,Nether,Thicchick,Neotokyo,Bruggs,Jatheek,Deevorce,Rartzina,Papapriest,Vypershot,Mindy,Banannaz,Chutzpah,Khaled,Contra,Limecat,Barakof,Maximusdgoat,Lobsterkite,Lopes,Vinth,Thorsday,Allmight,Boosh,Rhav,Slicemaster,Mortalstrike,Aitadis,",
+        "dkp": "25",
+        "timestamp": "1577064743",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Aitadis,Mindy,Darnac,Thorsday,Vinth,Klade,Timmy,Mortalstrike,Wepskill,Lokisday,Deevorce,Lobsterkite,Gumz,Khaled,Tripper,Thicchick,Rhav,Pyrocy,Contra,Pontifex,Warukyure,",
+        "dkp": "25",
+        "timestamp": "1576642532",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Renegade,Limecat,Silverbug,Slicemaster,Allmight,Lopes,Rartzina,Sheed,Shunsui,Maximusdgoat,Jatheek,Abub,Spox,Perilas,Neotokyo,Vypershot,Ezra,Nether,Papapriest,Chutzpah,Nomis,Banannaz,Babyjack,",
+        "dkp": "25",
+        "timestamp": "1576641768",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Spox,Snorton,Banannaz,",
+        "dkp": "60",
+        "timestamp": "1576639287",
+        "reason": "Other - Bench DKP Dec 17 2019"
+      },
+      {
+        "playerstring": "Abub,Aitadis,Allmight,Mortalstrike,Warukyure,Renegade,Shunsui,Timmy,Gumz,Jatheek,Neotokyo,Nether,Pyrocy,Thicchick,Tripper,Contra,Ezra,Klade,Limecat,Perilas,Wepskill,Lobsterkite,Lopes,Maximusdgoat,Vinth,Babyjack,Rhav,Sheed,Slicemaster,Thorsday,Silverbug,Darnac,Nomis,Pontifex,Rartzina,Chutzpah,Khaled,Mindy,Papapriest,Vypershot,",
+        "dkp": "60",
+        "timestamp": "1576639229",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Abub,Aitadis,Allmight,Atatat,Banannaz,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Cathoray,Chutzpah,Contra,Darnac,Deevorce,Disturbed,Droke,Ezra,Fook,Gumz,Holty,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Lokisday,Lopes,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Plies,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Slicemaster,Snorton,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Vypershot,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "-24,-70,-50,-12,-11,-43,-18,-2,-51,-4,-20,-13,-13,-3,-24,-43,-7,-17,-50,-13,-20,-28,-22,-25,-22,-1,-25,-15,-29,-55,-39,-20,-37,-38,-26,-49,-76,-16,-43,-35,-21,-21,-36,-16,-12,-33,-40,-58,-47,-29,-42,-54,-50,-18,-22,-7,-27,-57,-38,-23,-12,-35,-1,-4,-32,-17,-33,-34,-40,-10%",
+        "timestamp": "1576633444",
+        "reason": "Weekly Decay"
+      },
+      {
         "playerstring": "Mortalstrike,Thorsday,Rhav,Slicemaster,Droke,Allmight,Boosh,Lopes,Vinth,Maximusdgoat,Lobsterkite,Wepskill,Perilas,Lokisday,Klade,Barakof,Limecat,Ezra,Mindy,Vypershot,Contra,Rartzina,Whiteranger,Darnac,Nomis,Pontifex,Neotokyo,Bruggs,Pyrocy,Gumz,Thicchick,Jatheek,Silverbug,Warukyure,",
         "dkp": "11",
         "timestamp": "1576433052",
@@ -74,30 +110,6 @@
         "reason": "Other - 12/3/19 Bench MC Bench DKP"
       },
       {
-        "playerstring": "Neotokyo,Jatheek,",
-        "dkp": "-60",
-        "timestamp": "1575927754",
-        "reason": "Delete Entry"
-      },
-      {
-        "playerstring": "Neotokyo,",
-        "dkp": "60",
-        "timestamp": "1575927695",
-        "reason": "Delete Entry"
-      },
-      {
-        "playerstring": "Neotokyo,",
-        "dkp": "-60",
-        "timestamp": "1575927648",
-        "reason": "Other - Awarded Double MC on 12/3/19 Accidently"
-      },
-      {
-        "playerstring": "Abub,Aitadis,Allmight,Atatat,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Cathoray,Contra,Darnac,Disturbed,Droke,Ezra,Fook,Gumz,Jatheek,Justdotit,Kalistraza,Klade,Klue,Kregore,Limecat,Lobsterkite,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Plies,Pontifex,Pyrocy,Renegade,Rhav,Sheed,Shunsui,Silverbug,Slicemaster,Snorton,Spox,Ternestevon,Thicchick,Timmy,Tripn,Vaganda,Ventris,Vinth,Vypershot,Warukyure,Wepskill,Whiteranger,",
-        "dkp": "1,-24,-24,1,-24,1,1,-24,1,1,1,1,-24,1,1,1,-24,1,-24,1,1,1,1,1,1,1,-24,1,-24,1,1,-24,1,-24,1,6,1,1,-25,-24,1,-24,1,1,-24,-24,-25,-25,1,1,-24,1,1,1,1,-25,1,1,1,-1%",
-        "timestamp": "1575742942",
-        "reason": "Migration Correction"
-      },
-      {
         "playerstring": "Silverbug,Spox,Timmy,Pyrocy,Neotokyo,Gumz,Pontifex,Nomis,Snorton,Vypershot,Contra,Ezra,Barakof,Lobsterkite,Maximusdgoat,Boosh,Allmight,Rhav,Slicemaster,Aitadis,",
         "dkp": "25",
         "timestamp": "1575432730",
@@ -126,12 +138,6 @@
         "dkp": "25",
         "timestamp": "1575431675",
         "reason": "Onyxia's Lair: Onyxia"
-      },
-      {
-        "playerstring": "Neotokyo,Jatheek,",
-        "dkp": "60",
-        "timestamp": "1575430625",
-        "reason": "Other - Bench DKP MC - Dec 3"
       },
       {
         "playerstring": "Mortalstrike,Aitadis,Renegade,Slicemaster,Droke,Boosh,Thorsday,Limecat,Darnac,Silverbug,Pontifex,Nether,Allmight,Rhav,Mindy,Shunsui,Barakof,Nomis,Timmy,Rartzina,Warukyure,Ezra,Thicchick,Lobsterkite,Lopes,Perilas,Wepskill,Abub,Vinth,Oink,Pyrocy,Spox,Papapriest,Maximusdgoat,Gumz,Contra,Tripper,Neotokyo,Vypershot,Snorton,",
