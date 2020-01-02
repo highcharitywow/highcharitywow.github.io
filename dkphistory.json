@@ -2,6 +2,42 @@
   "dkphistory": {
     "historyentry": [
       {
+        "playerstring": "Abub,Shunsui,Gumz,Neotokyo,Tripper,Thicchick,Pontifex,Rartzina,Whiteranger,Darnac,Mindy,Contra,Vypershot,Perilas,Klade,Vinth,Lopes,Aitadis,Thorsday,Sheed,Slicemaster,Allmight,Boosh,Mortalstrike,",
+        "dkp": "11",
+        "timestamp": "1577942009",
+        "reason": "Other - DMT Buff Bonus DKP - Dec 26th"
+      },
+      {
+        "playerstring": "Abub,Warukyure,Renegade,Spox,Nether,Pyrocy,Gumz,Kluu,Whiteranger,Chutzpah,Mindy,Contra,Perilas,Lokisday,Lobsterkite,Maximusdgoat,Allmight,Sheed,Boosh,Droke,",
+        "dkp": "25",
+        "timestamp": "1577417559",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Silverbug,Shunsui,Neotokyo,Thicchick,Jatheek,Tripper,Bruggs,Pontifex,Darnac,Papapriest,Vypershot,Khaled,Barakof,Klade,Lopes,Vinth,Thorsday,Mortalstrike,Slicemaster,Aitadis,",
+        "dkp": "25",
+        "timestamp": "1577417499",
+        "reason": "Onyxia's Lair: Onyxia"
+      },
+      {
+        "playerstring": "Abub,Silverbug,Warukyure,Spox,Renegade,Shunsui,Jatheek,Nether,Kluu,Gumz,Pyrocy,Neotokyo,Tripper,Thicchick,Bruggs,Pontifex,Rartzina,Whiteranger,Darnac,Mindy,Contra,Chutzpah,Khaled,Vypershot,Papapriest,Perilas,Klade,Barakof,Vinth,Lopes,Maximusdgoat,Lobsterkite,Aitadis,Thorsday,Sheed,Slicemaster,Allmight,Droke,Boosh,Mortalstrike,",
+        "dkp": "60",
+        "timestamp": "1577415710",
+        "reason": "Molten Core: Ragnaros"
+      },
+      {
+        "playerstring": "Abub,Aitadis,Allmight,Atatat,Babyjack,Banannaz,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Bubito,Cathoray,Chutzpah,Contra,Darnac,Deevorce,Disturbed,Droke,Ezra,Fook,Gumz,Holty,Jatheek,Justdotit,Kalistraza,Khaled,Klade,Klue,Kluu,Kregore,Limecat,Lobsterkite,Lokisday,Lopes,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Plies,Pontifex,Pyrocy,Rartzina,Renegade,Rhav,Sheed,Shunsui,Silverbug,Slicemaster,Snorton,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Vypershot,Warukyure,Wepskill,Whiteranger,",
+        "dkp": "-28,-74,-56,-11,-9,-13,-41,-17,-2,-49,-3,-21,-12,-11,-13,-33,-47,-11,-15,-45,-19,-18,-34,-20,-32,-20,-1,-11,-12,-13,-3,-26,-60,-20,-20,-40,-34,-33,-55,-80,-26,-20,-10,-19,-19,-28,-14,-20,-13,-40,-63,-53,-35,-31,-58,-56,-22,-30,-6,-32,-62,-31,-21,-22,-31,-1,-4,-39,-25,-40,-35,-36,-10%",
+        "timestamp": "1577411361",
+        "reason": "Weekly Decay"
+      },
+      {
+        "playerstring": "Kluu,",
+        "dkp": "25",
+        "timestamp": "1577410051",
+        "reason": "Other - missed onyxia"
+      },
+      {
         "playerstring": "Warukyure,Silverbug,Spox,Renegade,Tripper,Nether,Thicchick,Neotokyo,Bruggs,Jatheek,Deevorce,Rartzina,Papapriest,Vypershot,Mindy,Banannaz,Chutzpah,Khaled,Contra,Limecat,Barakof,Maximusdgoat,Lobsterkite,Lopes,Vinth,Thorsday,Allmight,Boosh,Rhav,Slicemaster,Mortalstrike,Aitadis,",
         "dkp": "25",
         "timestamp": "1577064743",
