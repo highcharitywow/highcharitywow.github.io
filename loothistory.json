@@ -2,6 +2,231 @@
   "loothistory": {
     "lootentry": [
       {
+        "player": "Mortalstrike",
+        "itemname": "Deathbringer",
+        "itemnumber": "17068",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1579061663",
+        "cost": "-25"
+      },
+      {
+        "player": "Slicemaster",
+        "itemname": "Deathbringer",
+        "itemnumber": "17068",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1579060210",
+        "cost": "76"
+      },
+      {
+        "player": "Slicemaster",
+        "itemname": "Deathbringer",
+        "itemnumber": "17068",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1579059454",
+        "cost": "-76"
+      },
+      {
+        "player": "Lopes",
+        "itemname": "Head of Onyxia",
+        "itemnumber": "18423",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1579059347",
+        "cost": "-5"
+      },
+      {
+        "player": "Barakof",
+        "itemname": "Eskhandar's Collar",
+        "itemnumber": "18205",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1579059346",
+        "cost": "-5"
+      },
+      {
+        "player": "Abub",
+        "itemname": "Ring of Binding",
+        "itemnumber": "18813",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1579059273",
+        "cost": "-5"
+      },
+      {
+        "player": "Jatheek",
+        "itemname": "Arcanist Gloves",
+        "itemnumber": "16801",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579057619",
+        "cost": "80"
+      },
+      {
+        "player": "Neotokyo",
+        "itemname": "Arcanist Gloves",
+        "itemnumber": "16801",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579057598",
+        "cost": "-5"
+      },
+      {
+        "player": "Vypershot",
+        "itemname": "Girdle of Prophecy",
+        "itemnumber": "16817",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579057521",
+        "cost": "-27"
+      },
+      {
+        "player": "Vinth",
+        "itemname": "Felheart Gloves",
+        "itemnumber": "16805",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579057297",
+        "cost": "-5"
+      },
+      {
+        "player": "Jatheek",
+        "itemname": "Arcanist Gloves",
+        "itemnumber": "16801",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579057229",
+        "cost": "-80"
+      },
+      {
+        "player": "Whiteranger",
+        "itemname": "Magma Tempered Boots",
+        "itemnumber": "18824",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579057040",
+        "cost": "-22"
+      },
+      {
+        "player": "Whiteranger",
+        "itemname": "Lawbringer Legplates",
+        "itemnumber": "16855",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056933",
+        "cost": "-8"
+      },
+      {
+        "player": "Vypershot",
+        "itemname": "Boots of Prophecy",
+        "itemnumber": "16811",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056871",
+        "cost": "-78"
+      },
+      {
+        "player": "Neotokyo",
+        "itemname": "Fire Runed Grimoire",
+        "itemnumber": "19142",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056804",
+        "cost": "-16"
+      },
+      {
+        "player": "Jatheek",
+        "itemname": "Arcanist Boots",
+        "itemnumber": "16800",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056744",
+        "cost": "-5"
+      },
+      {
+        "player": "Perilas",
+        "itemname": "Nightslayer Chestpiece",
+        "itemnumber": "16820",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056653",
+        "cost": "-131"
+      },
+      {
+        "player": "Neotokyo",
+        "itemname": "Arcanist Mantle",
+        "itemnumber": "16797",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056517",
+        "cost": "-27"
+      },
+      {
+        "player": "Ezra",
+        "itemname": "Nightslayer Shoulder Pads",
+        "itemnumber": "16823",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056354",
+        "cost": "-97"
+      },
+      {
+        "player": "Thorsday",
+        "itemname": "Blastershot Launcher",
+        "itemnumber": "17072",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056218",
+        "cost": "-30"
+      },
+      {
+        "player": "Boosh",
+        "itemname": "Striker's Mark",
+        "itemnumber": "17069",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056153",
+        "cost": "-141"
+      },
+      {
+        "player": "Silverbug",
+        "itemname": "Wild Growth Spaulders",
+        "itemnumber": "18810",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579056071",
+        "cost": "-495"
+      },
+      {
+        "player": "Thorsday",
+        "itemname": "Crown of Destruction",
+        "itemnumber": "18817",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579055925",
+        "cost": "-6"
+      },
+      {
+        "player": "Pyrocy",
+        "itemname": "Netherwind Pants",
+        "itemnumber": "16915",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579055821",
+        "cost": "-251"
+      },
+      {
+        "player": "Mortalstrike",
+        "itemname": "Onslaught Girdle",
+        "itemnumber": "19137",
+        "zone": "Molten Core",
+        "boss": "Ragnaros",
+        "timestamp": "1579055685",
+        "cost": "-427"
+      },
+      {
         "player": "Abub",
         "itemname": "Onyxia Hide Backpack",
         "itemnumber": "17966",
@@ -1370,15 +1595,6 @@
         "cost": "-5"
       },
       {
-        "player": "Lobsterkite",
-        "itemname": "Ancient Cornerstone Grimoire",
-        "itemnumber": "17067",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1575431466",
-        "cost": "-16"
-      },
-      {
         "player": "Papapriest",
         "itemname": "Halo of Transcendence",
         "itemnumber": "16921",
@@ -1386,6 +1602,15 @@
         "boss": "Onyxia",
         "timestamp": "1575431466",
         "cost": "-5"
+      },
+      {
+        "player": "Lobsterkite",
+        "itemname": "Ancient Cornerstone Grimoire",
+        "itemnumber": "17067",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1575431466",
+        "cost": "-16"
       },
       {
         "player": "Boosh",
@@ -1575,231 +1800,6 @@
         "boss": "Magmadar",
         "timestamp": "1575425590",
         "cost": "-6"
-      },
-      {
-        "player": "Boosh",
-        "itemname": "Earthshaker",
-        "itemnumber": "17073",
-        "zone": "Molten Core",
-        "boss": "Magmadar",
-        "timestamp": "1575425535",
-        "cost": "-78"
-      },
-      {
-        "player": "Tripper",
-        "itemname": "Arcanist Boots",
-        "itemnumber": "16800",
-        "zone": "Molten Core",
-        "boss": "Lucifron",
-        "timestamp": "1575425285",
-        "cost": "-61"
-      },
-      {
-        "player": "Lokisday",
-        "itemname": "Bloodfang Hood",
-        "itemnumber": "16908",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1574828374",
-        "cost": "-5"
-      },
-      {
-        "player": "Jatheek",
-        "itemname": "Ring of Binding",
-        "itemnumber": "18813",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1574828258",
-        "cost": "-5"
-      },
-      {
-        "player": "Shunsui",
-        "itemname": "Onyxia Hide Backpack",
-        "itemnumber": "17966",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1574828209",
-        "cost": "-107"
-      },
-      {
-        "player": "Nomis",
-        "itemname": "Head of Onyxia",
-        "itemnumber": "18423",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1574828118",
-        "cost": "-64"
-      },
-      {
-        "player": "Spox",
-        "itemname": "Onyxia Hide Backpack",
-        "itemnumber": "17966",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1574827229",
-        "cost": "-101"
-      },
-      {
-        "player": "Silverbug",
-        "itemname": "Head of Onyxia",
-        "itemnumber": "18423",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1574827161",
-        "cost": "-5"
-      },
-      {
-        "player": "Vinth",
-        "itemname": "Nemesis Skullcap",
-        "itemnumber": "16929",
-        "zone": "Onyxia's Lair",
-        "boss": "Onyxia",
-        "timestamp": "1574827039",
-        "cost": "-84"
-      },
-      {
-        "player": "Nether",
-        "itemname": "Arcanist Bindings",
-        "itemnumber": "16799",
-        "zone": "Dun Morogh",
-        "boss": "Ragnaros",
-        "timestamp": "1574825289",
-        "cost": "-112"
-      },
-      {
-        "player": "Mindy",
-        "itemname": "Girdle of Prophecy",
-        "itemnumber": "16817",
-        "zone": "Ironforge",
-        "boss": "Ragnaros",
-        "timestamp": "1574825207",
-        "cost": "-62"
-      },
-      {
-        "player": "Spox",
-        "itemname": "Cloak of the Shrouded Mists",
-        "itemnumber": "17102",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1574825000",
-        "cost": "-56"
-      },
-      {
-        "player": "Thicchick",
-        "itemname": "Netherwind Pants",
-        "itemnumber": "16915",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1574824881",
-        "cost": "-138"
-      },
-      {
-        "player": "Timmy",
-        "itemname": "Crown of Destruction",
-        "itemnumber": "18817",
-        "zone": "Molten Core",
-        "boss": "Ragnaros",
-        "timestamp": "1574824820",
-        "cost": "-6"
-      },
-      {
-        "player": "Neotokyo",
-        "itemname": "Gloves of the Hypnotic Flame",
-        "itemnumber": "18808",
-        "zone": "Molten Core",
-        "boss": "Majordomo Executus",
-        "timestamp": "1574824341",
-        "cost": "-16"
-      },
-      {
-        "player": "Contra",
-        "itemname": "Sash of Whispered Secrets",
-        "itemnumber": "18809",
-        "zone": "Molten Core",
-        "boss": "Majordomo Executus",
-        "timestamp": "1574824284",
-        "cost": "-66"
-      },
-      {
-        "player": "Wepskill",
-        "itemname": "Nightslayer Chestpiece",
-        "itemnumber": "16820",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1574823977",
-        "cost": "-251"
-      },
-      {
-        "player": "Pyrocy",
-        "itemname": "Staff of Dominance",
-        "itemnumber": "18842",
-        "zone": "Molten Core",
-        "boss": "Golemagg the Incinerator",
-        "timestamp": "1574823917",
-        "cost": "-112"
-      },
-      {
-        "player": "Mindy",
-        "itemname": "Mantle of Prophecy",
-        "itemnumber": "16816",
-        "zone": "Molten Core",
-        "boss": "Sulfuron Harbinger",
-        "timestamp": "1574823565",
-        "cost": "-62"
-      },
-      {
-        "player": "Papapriest",
-        "itemname": "Boots of Prophecy",
-        "itemnumber": "16811",
-        "zone": "Molten Core",
-        "boss": "Shazzrah",
-        "timestamp": "1574822850",
-        "cost": "-5"
-      },
-      {
-        "player": "Abub",
-        "itemname": "Cenarion Gloves",
-        "itemnumber": "16831",
-        "zone": "Molten Core",
-        "boss": "Shazzrah",
-        "timestamp": "1574822795",
-        "cost": "-5"
-      },
-      {
-        "player": "Nomis",
-        "itemname": "Seal of the Archmagus",
-        "itemnumber": "17110",
-        "zone": "Molten Core",
-        "boss": "Baron Geddon",
-        "timestamp": "1574822513",
-        "cost": "-12"
-      },
-      {
-        "player": "Papapriest",
-        "itemname": "Circlet of Prophecy",
-        "itemnumber": "16813",
-        "zone": "Molten Core",
-        "boss": "Garr",
-        "timestamp": "1574822231",
-        "cost": "-11"
-      },
-      {
-        "player": "Rartzina",
-        "itemname": "Lawbringer Helm",
-        "itemnumber": "16854",
-        "zone": "Molten Core",
-        "boss": "Garr",
-        "timestamp": "1574822178",
-        "cost": "-5"
-      },
-      {
-        "player": "Klade",
-        "itemname": "Aged Core Leather Gloves",
-        "itemnumber": "18823",
-        "zone": "Molten Core",
-        "boss": "Garr",
-        "timestamp": "1574822114",
-        "cost": "-43"
       }
     ]
   }
