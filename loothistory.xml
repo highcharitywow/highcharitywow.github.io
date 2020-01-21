@@ -1,5 +1,23 @@
 <loothistory>
     <lootentry>
+        <player>Papapriest</player>
+        <itemname>Onyxia Hide Backpack</itemname>
+        <itemnumber>17966</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1579227074</timestamp>
+        <cost>-185</cost>
+    </lootentry>
+    <lootentry>
+        <player>Neotokyo</player>
+        <itemname>Ancient Cornerstone Grimoire</itemname>
+        <itemnumber>17067</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1579226941</timestamp>
+        <cost>-31</cost>
+    </lootentry>
+    <lootentry>
         <player>Mortalstrike</player>
         <itemname>Deathbringer</itemname>
         <itemnumber>17068</itemnumber>
@@ -1780,23 +1798,5 @@
         <boss>Gehennas</boss>
         <timestamp>1575426048</timestamp>
         <cost>-5</cost>
-    </lootentry>
-    <lootentry>
-        <player>Tripper</player>
-        <itemname>Sorcerous Dagger</itemname>
-        <itemnumber>18878</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Gehennas</boss>
-        <timestamp>1575425989</timestamp>
-        <cost>-12</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ezra</player>
-        <itemname>Nightslayer Pants</itemname>
-        <itemnumber>16822</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Magmadar</boss>
-        <timestamp>1575425590</timestamp>
-        <cost>-6</cost>
     </lootentry>
 </loothistory>

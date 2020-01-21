@@ -2,6 +2,24 @@
   "loothistory": {
     "lootentry": [
       {
+        "player": "Papapriest",
+        "itemname": "Onyxia Hide Backpack",
+        "itemnumber": "17966",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1579227074",
+        "cost": "-185"
+      },
+      {
+        "player": "Neotokyo",
+        "itemname": "Ancient Cornerstone Grimoire",
+        "itemnumber": "17067",
+        "zone": "Onyxia's Lair",
+        "boss": "Onyxia",
+        "timestamp": "1579226941",
+        "cost": "-31"
+      },
+      {
         "player": "Mortalstrike",
         "itemname": "Deathbringer",
         "itemnumber": "17068",
@@ -1782,24 +1800,6 @@
         "boss": "Gehennas",
         "timestamp": "1575426048",
         "cost": "-5"
-      },
-      {
-        "player": "Tripper",
-        "itemname": "Sorcerous Dagger",
-        "itemnumber": "18878",
-        "zone": "Molten Core",
-        "boss": "Gehennas",
-        "timestamp": "1575425989",
-        "cost": "-12"
-      },
-      {
-        "player": "Ezra",
-        "itemname": "Nightslayer Pants",
-        "itemnumber": "16822",
-        "zone": "Molten Core",
-        "boss": "Magmadar",
-        "timestamp": "1575425590",
-        "cost": "-6"
       }
     ]
   }
