@@ -4,8 +4,8 @@
       {
         "player": "Abub",
         "class": "DRUID",
-        "dkp": "326",
-        "lifetimegained": "807",
+        "dkp": "389",
+        "lifetimegained": "903",
         "lifetimespent": "-274"
       },
       {
@@ -18,21 +18,21 @@
       {
         "player": "Aitadis",
         "class": "WARRIOR",
-        "dkp": "831",
-        "lifetimegained": "1917",
-        "lifetimespent": "-116"
+        "dkp": "839",
+        "lifetimegained": "2013",
+        "lifetimespent": "-121"
       },
       {
         "player": "Allmight",
         "class": "WARRIOR",
-        "dkp": "726",
-        "lifetimegained": "2013",
+        "dkp": "749",
+        "lifetimegained": "2109",
         "lifetimespent": "-628"
       },
       {
         "player": "Atatat",
         "class": "PRIEST",
-        "dkp": "71",
+        "dkp": "64",
         "lifetimegained": "540",
         "lifetimespent": "-182"
       },
@@ -46,36 +46,36 @@
       {
         "player": "Babyjack",
         "class": "WARRIOR",
-        "dkp": "198",
+        "dkp": "178",
         "lifetimegained": "266",
         "lifetimespent": "-16"
       },
       {
         "player": "Barakof",
         "class": "ROGUE",
-        "dkp": "580",
-        "lifetimegained": "1593",
-        "lifetimespent": "-461"
+        "dkp": "613",
+        "lifetimegained": "1689",
+        "lifetimespent": "-466"
       },
       {
         "player": "Bhadbharbie",
         "class": "DRUID",
-        "dkp": "109",
+        "dkp": "98",
         "lifetimegained": "540",
         "lifetimespent": "-15"
       },
       {
         "player": "Bobo",
         "class": "PRIEST",
-        "dkp": "13",
+        "dkp": "12",
         "lifetimegained": "50",
         "lifetimespent": "0"
       },
       {
         "player": "Boosh",
         "class": "WARRIOR",
-        "dkp": "436",
-        "lifetimegained": "1859",
+        "dkp": "488",
+        "lifetimegained": "1955",
         "lifetimespent": "-745"
       },
       {
@@ -95,7 +95,7 @@
       {
         "player": "Brokes",
         "class": "PALADIN",
-        "dkp": "22",
+        "dkp": "20",
         "lifetimegained": "170",
         "lifetimespent": "-76"
       },
@@ -109,9 +109,9 @@
       {
         "player": "Bruggs",
         "class": "MAGE",
-        "dkp": "441",
-        "lifetimegained": "1566",
-        "lifetimespent": "-677"
+        "dkp": "473",
+        "lifetimegained": "1651",
+        "lifetimespent": "-686"
       },
       {
         "player": "Cabl",
@@ -123,7 +123,7 @@
       {
         "player": "Cathoray",
         "class": "MAGE",
-        "dkp": "75",
+        "dkp": "68",
         "lifetimegained": "455",
         "lifetimespent": "-72"
       },
@@ -144,9 +144,9 @@
       {
         "player": "Chutzpah",
         "class": "PRIEST",
-        "dkp": "397",
-        "lifetimegained": "511",
-        "lifetimespent": "-20"
+        "dkp": "421",
+        "lifetimegained": "607",
+        "lifetimespent": "-52"
       },
       {
         "player": "Cliph",
@@ -158,9 +158,9 @@
       {
         "player": "Contra",
         "class": "PRIEST",
-        "dkp": "261",
-        "lifetimegained": "1707",
-        "lifetimespent": "-885"
+        "dkp": "148",
+        "lifetimegained": "1803",
+        "lifetimespent": "-1068"
       },
       {
         "player": "Crankin",
@@ -179,35 +179,35 @@
       {
         "player": "Darnac",
         "class": "PALADIN",
-        "dkp": "615",
-        "lifetimegained": "1731",
-        "lifetimespent": "-503"
+        "dkp": "267",
+        "lifetimegained": "1827",
+        "lifetimespent": "-886"
       },
       {
         "player": "Deevorce",
         "class": "PALADIN",
-        "dkp": "72",
+        "dkp": "65",
         "lifetimegained": "125",
         "lifetimespent": "-5"
       },
       {
         "player": "Disturbed",
         "class": "WARRIOR",
-        "dkp": "98",
+        "dkp": "88",
         "lifetimegained": "450",
         "lifetimespent": "-22"
       },
       {
         "player": "Droke",
         "class": "WARRIOR",
-        "dkp": "614",
+        "dkp": "553",
         "lifetimegained": "1580",
         "lifetimespent": "-273"
       },
       {
         "player": "Ezra",
         "class": "ROGUE",
-        "dkp": "226",
+        "dkp": "203",
         "lifetimegained": "909",
         "lifetimespent": "-443"
       },
@@ -228,7 +228,7 @@
       {
         "player": "Fook",
         "class": "WARLOCK",
-        "dkp": "121",
+        "dkp": "109",
         "lifetimegained": "625",
         "lifetimespent": "-60"
       },
@@ -270,7 +270,7 @@
       {
         "player": "Gumz",
         "class": "MAGE",
-        "dkp": "101",
+        "dkp": "91",
         "lifetimegained": "1858",
         "lifetimespent": "-1361"
       },
@@ -284,7 +284,7 @@
       {
         "player": "Holty",
         "class": "PRIEST",
-        "dkp": "130",
+        "dkp": "117",
         "lifetimegained": "921",
         "lifetimespent": "-299"
       },
@@ -312,14 +312,14 @@
       {
         "player": "Jatheek",
         "class": "MAGE",
-        "dkp": "438",
+        "dkp": "394",
         "lifetimegained": "1098",
         "lifetimespent": "-389"
       },
       {
         "player": "Kalistraza",
         "class": "PALADIN",
-        "dkp": "6",
+        "dkp": "5",
         "lifetimegained": "25",
         "lifetimespent": "0"
       },
@@ -333,35 +333,35 @@
       {
         "player": "Khaled",
         "class": "PRIEST",
-        "dkp": "347",
-        "lifetimegained": "508",
-        "lifetimespent": "-97"
+        "dkp": "385",
+        "lifetimegained": "604",
+        "lifetimespent": "-120"
       },
       {
         "player": "Klade",
         "class": "ROGUE",
-        "dkp": "192",
-        "lifetimegained": "1634",
-        "lifetimespent": "-1043"
+        "dkp": "264",
+        "lifetimegained": "1730",
+        "lifetimespent": "-1048"
       },
       {
         "player": "Klue",
         "class": "WARRIOR",
-        "dkp": "88",
+        "dkp": "79",
         "lifetimegained": "605",
         "lifetimespent": "-71"
       },
       {
         "player": "Kluu",
         "class": "MAGE",
-        "dkp": "152",
+        "dkp": "137",
         "lifetimegained": "206",
         "lifetimespent": "-6"
       },
       {
         "player": "Kregore",
         "class": "PRIEST",
-        "dkp": "170",
+        "dkp": "153",
         "lifetimegained": "880",
         "lifetimespent": "-218"
       },
@@ -382,36 +382,36 @@
       {
         "player": "Limecat",
         "class": "ROGUE",
-        "dkp": "278",
-        "lifetimegained": "1884",
+        "dkp": "346",
+        "lifetimegained": "1980",
         "lifetimespent": "-835"
       },
       {
         "player": "Liquicity",
         "class": "PALADIN",
-        "dkp": "236",
-        "lifetimegained": "291",
-        "lifetimespent": "-35"
+        "dkp": "297",
+        "lifetimegained": "387",
+        "lifetimespent": "-46"
       },
       {
         "player": "Lobsterkite",
         "class": "WARLOCK",
-        "dkp": "381",
-        "lifetimegained": "2020",
+        "dkp": "439",
+        "lifetimegained": "2116",
         "lifetimespent": "-1090"
       },
       {
         "player": "Lokisday",
         "class": "ROGUE",
-        "dkp": "170",
-        "lifetimegained": "281",
+        "dkp": "178",
+        "lifetimegained": "306",
         "lifetimespent": "-5"
       },
       {
         "player": "Lopes",
         "class": "WARLOCK",
-        "dkp": "585",
-        "lifetimegained": "1200",
+        "dkp": "623",
+        "lifetimegained": "1296",
         "lifetimespent": "-286"
       },
       {
@@ -452,15 +452,15 @@
       {
         "player": "Maximusanew",
         "class": "DRUID",
-        "dkp": "224",
+        "dkp": "202",
         "lifetimegained": "1035",
         "lifetimespent": "-189"
       },
       {
         "player": "Maximusdgoat",
         "class": "WARLOCK",
-        "dkp": "515",
-        "lifetimegained": "871",
+        "dkp": "560",
+        "lifetimegained": "967",
         "lifetimespent": "-121"
       },
       {
@@ -480,8 +480,8 @@
       {
         "player": "Mindy",
         "class": "PRIEST",
-        "dkp": "431",
-        "lifetimegained": "1951",
+        "dkp": "484",
+        "lifetimegained": "2047",
         "lifetimespent": "-1013"
       },
       {
@@ -501,8 +501,8 @@
       {
         "player": "Mortalstrike",
         "class": "WARRIOR",
-        "dkp": "425",
-        "lifetimegained": "1894",
+        "dkp": "578",
+        "lifetimegained": "2089",
         "lifetimespent": "-478"
       },
       {
@@ -536,28 +536,28 @@
       {
         "player": "Neotokyo",
         "class": "MAGE",
-        "dkp": "308",
-        "lifetimegained": "860",
-        "lifetimespent": "-372"
+        "dkp": "270",
+        "lifetimegained": "956",
+        "lifetimespent": "-475"
       },
       {
         "player": "Nether",
         "class": "MAGE",
-        "dkp": "312",
-        "lifetimegained": "1313",
-        "lifetimespent": "-487"
+        "dkp": "206",
+        "lifetimegained": "1398",
+        "lifetimespent": "-647"
       },
       {
         "player": "Nomis",
         "class": "PALADIN",
-        "dkp": "68",
+        "dkp": "61",
         "lifetimegained": "1120",
         "lifetimespent": "-753"
       },
       {
         "player": "Oink",
         "class": "WARRIOR",
-        "dkp": "144",
+        "dkp": "130",
         "lifetimegained": "415",
         "lifetimespent": "-114"
       },
@@ -571,28 +571,28 @@
       {
         "player": "Papapriest",
         "class": "PRIEST",
-        "dkp": "233",
-        "lifetimegained": "766",
+        "dkp": "295",
+        "lifetimegained": "851",
         "lifetimespent": "-366"
       },
       {
         "player": "Perilas",
         "class": "ROGUE",
-        "dkp": "293",
-        "lifetimegained": "1279",
+        "dkp": "349",
+        "lifetimegained": "1364",
         "lifetimespent": "-628"
       },
       {
         "player": "Phantrox",
         "class": "MAGE",
-        "dkp": "54",
-        "lifetimegained": "60",
-        "lifetimespent": "0"
+        "dkp": "127",
+        "lifetimegained": "145",
+        "lifetimespent": "-7"
       },
       {
         "player": "Plies",
         "class": "HUNTER",
-        "dkp": "93",
+        "dkp": "84",
         "lifetimegained": "280",
         "lifetimespent": "-36"
       },
@@ -606,8 +606,8 @@
       {
         "player": "Pontifex",
         "class": "PALADIN",
-        "dkp": "460",
-        "lifetimegained": "1965",
+        "dkp": "510",
+        "lifetimegained": "2061",
         "lifetimespent": "-984"
       },
       {
@@ -620,9 +620,16 @@
       {
         "player": "Pyrocy",
         "class": "MAGE",
-        "dkp": "122",
-        "lifetimegained": "1810",
+        "dkp": "206",
+        "lifetimegained": "1906",
         "lifetimespent": "-1337"
+      },
+      {
+        "player": "Quicktrick",
+        "class": "DRUID",
+        "dkp": "96",
+        "lifetimegained": "96",
+        "lifetimespent": "0"
       },
       {
         "player": "Ragerx",
@@ -634,8 +641,8 @@
       {
         "player": "Rartzina",
         "class": "PALADIN",
-        "dkp": "581",
-        "lifetimegained": "1013",
+        "dkp": "619",
+        "lifetimegained": "1109",
         "lifetimespent": "-139"
       },
       {
@@ -648,14 +655,14 @@
       {
         "player": "Renegade",
         "class": "HUNTER",
-        "dkp": "415",
-        "lifetimegained": "1837",
+        "dkp": "525",
+        "lifetimegained": "1988",
         "lifetimespent": "-737"
       },
       {
         "player": "Rhav",
         "class": "WARRIOR",
-        "dkp": "349",
+        "dkp": "314",
         "lifetimegained": "1474",
         "lifetimespent": "-556"
       },
@@ -697,29 +704,29 @@
       {
         "player": "Shakypumpz",
         "class": "WARRIOR",
-        "dkp": "25",
+        "dkp": "23",
         "lifetimegained": "25",
         "lifetimespent": "0"
       },
       {
         "player": "Sheed",
         "class": "WARRIOR",
-        "dkp": "547",
-        "lifetimegained": "952",
+        "dkp": "588",
+        "lifetimegained": "1048",
         "lifetimespent": "-69"
       },
       {
         "player": "Shunsui",
         "class": "HUNTER",
-        "dkp": "426",
-        "lifetimegained": "1533",
-        "lifetimespent": "-656"
+        "dkp": "167",
+        "lifetimegained": "1618",
+        "lifetimespent": "-957"
       },
       {
         "player": "Silverbug",
         "class": "DRUID",
-        "dkp": "209",
-        "lifetimegained": "1982",
+        "dkp": "273",
+        "lifetimegained": "2067",
         "lifetimespent": "-1020"
       },
       {
@@ -746,23 +753,23 @@
       {
         "player": "Slicemaster",
         "class": "WARRIOR",
-        "dkp": "522",
-        "lifetimegained": "1753",
+        "dkp": "566",
+        "lifetimegained": "1849",
         "lifetimespent": "-658"
       },
       {
         "player": "Snorton",
         "class": "PALADIN",
-        "dkp": "143",
+        "dkp": "129",
         "lifetimegained": "280",
         "lifetimespent": "-10"
       },
       {
         "player": "Spox",
         "class": "HUNTER",
-        "dkp": "401",
-        "lifetimegained": "1125",
-        "lifetimespent": "-378"
+        "dkp": "303",
+        "lifetimegained": "1210",
+        "lifetimespent": "-521"
       },
       {
         "player": "Surn",
@@ -781,7 +788,7 @@
       {
         "player": "Ternestevon",
         "class": "WARLOCK",
-        "dkp": "41",
+        "dkp": "37",
         "lifetimegained": "220",
         "lifetimespent": "-10"
       },
@@ -795,42 +802,42 @@
       {
         "player": "Thicchick",
         "class": "MAGE",
-        "dkp": "558",
-        "lifetimegained": "1894",
-        "lifetimespent": "-911"
+        "dkp": "184",
+        "lifetimegained": "1990",
+        "lifetimespent": "-1325"
       },
       {
         "player": "Thorsday",
         "class": "WARRIOR",
-        "dkp": "473",
-        "lifetimegained": "1518",
+        "dkp": "522",
+        "lifetimegained": "1614",
         "lifetimespent": "-510"
       },
       {
         "player": "Timmy",
         "class": "HUNTER",
-        "dkp": "201",
+        "dkp": "181",
         "lifetimegained": "1538",
         "lifetimespent": "-861"
       },
       {
         "player": "Tripn",
         "class": "WARRIOR",
-        "dkp": "139",
+        "dkp": "125",
         "lifetimegained": "1071",
         "lifetimespent": "-398"
       },
       {
         "player": "Tripper",
         "class": "MAGE",
-        "dkp": "469",
-        "lifetimegained": "1164",
-        "lifetimespent": "-447"
+        "dkp": "507",
+        "lifetimegained": "1249",
+        "lifetimespent": "-456"
       },
       {
         "player": "Tvirus",
         "class": "PALADIN",
-        "dkp": "206",
+        "dkp": "185",
         "lifetimegained": "941",
         "lifetimespent": "-118"
       },
@@ -844,7 +851,7 @@
       {
         "player": "Vaganda",
         "class": "PRIEST",
-        "dkp": "6",
+        "dkp": "5",
         "lifetimegained": "25",
         "lifetimespent": "0"
       },
@@ -858,16 +865,16 @@
       {
         "player": "Ventris",
         "class": "PRIEST",
-        "dkp": "26",
+        "dkp": "23",
         "lifetimegained": "285",
         "lifetimespent": "-121"
       },
       {
         "player": "Vinth",
         "class": "WARLOCK",
-        "dkp": "586",
-        "lifetimegained": "1024",
-        "lifetimespent": "-146"
+        "dkp": "121",
+        "lifetimegained": "1120",
+        "lifetimespent": "-648"
       },
       {
         "player": "Vitalis",
@@ -879,14 +886,14 @@
       {
         "player": "Vypershot",
         "class": "PRIEST",
-        "dkp": "353",
-        "lifetimegained": "700",
-        "lifetimespent": "-177"
+        "dkp": "31",
+        "lifetimegained": "725",
+        "lifetimespent": "-489"
       },
       {
         "player": "Warukyure",
         "class": "DRUID",
-        "dkp": "326",
+        "dkp": "293",
         "lifetimegained": "1666",
         "lifetimespent": "-803"
       },
@@ -900,16 +907,16 @@
       {
         "player": "Wepskill",
         "class": "ROGUE",
-        "dkp": "230",
+        "dkp": "207",
         "lifetimegained": "1510",
         "lifetimespent": "-763"
       },
       {
         "player": "Whiteranger",
         "class": "PALADIN",
-        "dkp": "533",
-        "lifetimegained": "1328",
-        "lifetimespent": "-314"
+        "dkp": "320",
+        "lifetimegained": "1424",
+        "lifetimespent": "-570"
       },
       {
         "player": "Wickk",
@@ -942,14 +949,14 @@
       {
         "player": "Zanketsuken",
         "class": "WARRIOR",
-        "dkp": "96",
-        "lifetimegained": "96",
+        "dkp": "281",
+        "lifetimegained": "291",
         "lifetimespent": "0"
       },
       {
         "player": "Zeusly",
         "class": "PALADIN",
-        "dkp": "37",
+        "dkp": "33",
         "lifetimegained": "60",
         "lifetimespent": "-15"
       },
