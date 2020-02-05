@@ -1,17 +1,5 @@
 {
   "dkphistory": {
-    "parsererror": {
-      "-style": "display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black",
-      "h3": [
-        "This page contains the following errors:",
-        "Below is a rendering of the page up to the first error."
-      ],
-      "div": {
-        "-style": "font-family:monospace;font-size:12px",
-        "#text": "error on line 1034 at column 14: Extra content at the end of the document
-"
-      }
-    },
     "historyentry": [
       {
         "playerstring": "Abub,Aitadis,Allmight,Atatat,Babyjack,Barakof,Bhadbharbie,Bobo,Boosh,Brokes,Bruggs,Cathoray,Chutzpah,Contra,Darnac,Deevorce,Disturbed,Droke,Ezra,Fook,Gumz,Holty,Jatheek,Kalistraza,Khaled,Klade,Klue,Kluu,Kregore,Limecat,Liquicity,Lobsterkite,Lokisday,Lopes,Maximusanew,Maximusdgoat,Mindy,Mortalstrike,Neotokyo,Nether,Nomis,Oink,Papapriest,Perilas,Phantrox,Plies,Pontifex,Pyrocy,Quicktrick,Rartzina,Renegade,Rhav,Shakypumpz,Sheed,Shunsui,Silverbug,Slicemaster,Snorton,Spox,Ternestevon,Thicchick,Thorsday,Timmy,Tripn,Tripper,Tvirus,Vaganda,Ventris,Vinth,Vypershot,Warukyure,Wepskill,Whiteranger,Zanketsuken,Zeusly,",
